@@ -1,2 +1,2930 @@
-# collected_stars
-A list of all projects that rock my world
+# Awesome Stars collection 2020
+
+
+
+## Contents
+
+  - [ActionScript](#actionscript)
+  - [Alloy](#alloy)
+  - [Assembly](#assembly)
+  - [AutoHotkey](#autohotkey)
+  - [Batchfile](#batchfile)
+  - [C](#c)
+  - [C#](#c#)
+  - [C++](#c++)
+  - [CMake](#cmake)
+  - [CSS](#css)
+  - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
+  - [D](#d)
+  - [DIGITAL Command Language](#digital-command-language)
+  - [Elixir](#elixir)
+  - [Elm](#elm)
+  - [GDScript](#gdscript)
+  - [GLSL](#glsl)
+  - [Game Maker Language](#game-maker-language)
+  - [Go](#go)
+  - [Gosu](#gosu)
+  - [HLSL](#hlsl)
+  - [HTML](#html)
+  - [HaXe](#haxe)
+  - [Haskell](#haskell)
+  - [Haxe](#haxe)
+  - [Inno Setup](#inno-setup)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
+  - [LiveScript](#livescript)
+  - [Lua](#lua)
+  - [Makefile](#makefile)
+  - [Mathematica](#mathematica)
+  - [Max](#max)
+  - [OCaml](#ocaml)
+  - [Objective-C](#objective-c)
+  - [Others](#others)
+  - [PHP](#php)
+  - [Pascal](#pascal)
+  - [Perl](#perl)
+  - [Processing](#processing)
+  - [Prolog](#prolog)
+  - [Puppet](#puppet)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Shell](#shell)
+  - [Swift](#swift)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
+  - [Visual Basic](#visual-basic)
+  - [Vue](#vue)
+  - [WebAssembly](#webassembly)
+
+## ActionScript 
+
+- [Palette-Fuck](https://github.com/Tummyache/Palette-Fuck) - Flash based palette generation app for quickly producing high quality palette files.
+- [boscaceoil](https://github.com/TerryCavanagh/boscaceoil) - A simple music making program
+- [bfxr](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator.   Based on Sfxr.
+- [SpriterMC](https://github.com/SammyJoeOsborne/SpriterMC) - An AS3 Starling implementation for importing skeletal (and non-skeletal) animations generated with Spriter
+- [Isometric-Map-Editor-v1.0.0](https://github.com/lisnic1990/Isometric-Map-Editor-v1.0.0) - Isometric-Map-Editor-v1.0.0
+- [DAME](https://github.com/XanderXevious/DAME) - Deadly Alien Map Editor - for 2D and isometric games.
+
+## Alloy 
+
+- [midihack](https://github.com/DavW/midihack) - Algorithmic music project for MIDIHACK 2014
+
+## Assembly 
+
+- [pijFORTHos](https://github.com/organix/pijFORTHos) - A bare-metal FORTH operating system for Raspberry Pi
+- [NeoDS](https://github.com/Yardape8000/NeoDS) - NDS NeoGeo Emulator (updated from 2.0 source)
+
+## AutoHotkey 
+
+- [WindowsMods](https://github.com/EposVox/WindowsMods) - Mods and enhancements, shortcut replacements, for Windows.
+- [BCM_SubstancePainter_shortcuts](https://github.com/cbuliarca/BCM_SubstancePainter_shortcuts) - Autohotkey scripts that are searching custom pixels on your screen and automaticaly moves and clicks your mouse in order to do some tasks faster
+
+## Batchfile 
+
+- [duraconf](https://github.com/ioerror/duraconf) - duraconf - A collection of hardened configuration files for SSL/TLS services
+
+## C 
+
+- [pcm2pwm](https://github.com/JeffAlyanak/pcm2pwm) - pcm2pwm is a simply utility for converting 8-bit PCM wave audio into a delta PWM byte stream. It's output is intended for use with any 1-bit audio devices which require a relatively high degree of data compression.
+- [glsl](https://github.com/yadongx/glsl) - glsl examples
+- [obs-replay-source](https://github.com/exeldro/obs-replay-source) - Replay source for OBS studio
+- [minivmac-3ds](https://github.com/TaraHoleInIt/minivmac-3ds) - Port of Mini vMac to the Nintendo 3DS
+- [vulkan-shadertoy-launcher](https://github.com/danilw/vulkan-shadertoy-launcher) - using C, no external dependencies
+- [obs-audio-writer-filter](https://github.com/ujifgc/obs-audio-writer-filter) - An audio writer filter for OBS
+- [obs-studio](https://github.com/Andersama/obs-studio) - OBS - Free and open source software for live streaming and screen recording
+- [obs-shaderfilter](https://github.com/nleseul/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
+- [Xbox-Softmodding-Tool](https://github.com/Rocky5/Xbox-Softmodding-Tool) - This is my latest softmod package, has a crap load of improvements since the 2014 version.
+- [MfxVCG](https://github.com/eliemichel/MfxVCG) - An Open Mesh Effect plug-in for VCGlib
+- [OpenMeshEffectForBlender](https://github.com/eliemichel/OpenMeshEffectForBlender) - A branch of Blender featuring an Open Mesh Effect modifier
+- [fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+- [resurrection-capsule](https://github.com/vitor251093/resurrection-capsule) - [WIP] ReCap for short. A small local server to play Darkspore offline
+- [EsenthelEngine](https://github.com/Esenthel/EsenthelEngine) - Full Source of Esenthel Engine and its Tools
+- [rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
+- [ShaderLoader](https://github.com/thatfunkymunki/ShaderLoader) - A FreeframeGL plugin to load shader files created from GLSL Sandbox and ShaderToy
+- [projectm](https://github.com/projectM-visualizer/projectm) - projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
+- [FreeframeMaker](https://github.com/leadedge/FreeframeMaker) - A source code template to create FreeframeGL plugins from shader and image files.
+- [fluid_sim](https://github.com/Erkaman/fluid_sim) - Flashy 2D fluid simulations experiments.
+- [Shrine](https://github.com/minexew/Shrine) - A TempleOS distro for heretics
+- [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
+- [Oscilloscope](https://github.com/kritzikratzi/Oscilloscope) - Oscilloscope for Mac/Windows written in OF.
+- [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine
+- [monkey](https://github.com/blitz-research/monkey) - Blitz Research Monkey Source
+- [raylib-lua](https://github.com/raysan5/raylib-lua) - A simple and easy-to-use Lua library to enjoy videogames programming
+- [firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+- [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - ðŸ–¼ Generating avatars on-the-fly with Nginx
+- [nordlicht](https://github.com/nordlicht/nordlicht) - Creates colorful timebars from video and audio files
+- [Papagayo](https://github.com/SteamNGears/Papagayo) - Lipsync tool for animators
+- [goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
+- [LVDOWin](https://github.com/Skylion007/LVDOWin) - Allow for binary files to be converted to Youtube videos on Windows. Ported from LVDO.
+- [Game-GUI](https://github.com/sp4cerat/Game-GUI) - Game GUI is a skin-able GL based Widget Class for Games
+- [klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
+- [ShaderMaker](https://github.com/leadedge/ShaderMaker) - A source code template to create FreeframeGL plugins from GLSL Sandbox and ShaderToy shaders.
+- [vsxu](https://github.com/vovoid/vsxu) - Visual programming language; Real-time OpenGL graphics; Embeddable; GPL/LGPL Licensed; Audio/Music Visualizer; Animation tool
+- [MrsWatson](https://github.com/teragonaudio/MrsWatson) - A command-line VST plugin host
+- [IBNIZ](https://github.com/viznut/IBNIZ) - A virtual machine designed for extremely compact low-level audiovisual programs.
+- [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
+- [yeti3DS](https://github.com/smealum/yeti3DS) - quick and very dirty port of yeti3D for the 3DS. supports touchscreen, circlepad and 3D. requires devkitarm and ctrulib.
+- [3ds_hb_menu](https://github.com/smealum/3ds_hb_menu) - 3ds homebrew menu (ninjhax edition)
+- [unpaper](https://github.com/unpaper/unpaper) - A post-processing tool for scanned sheets of paper.
+- [keen](https://github.com/keendreams/keen) - Keen Dreams on Greenlight!
+- [WolfEngine_old](https://github.com/Wolfos/WolfEngine_old) - Old WolfEngine repo, please refer to the new (cleaned up) version
+- [mztx06a](https://github.com/yaolet/mztx06a) - Raspberry Pi mztx06a library
+- [fbtft](https://github.com/notro/fbtft) - Linux Framebuffer drivers for small TFT LCD display modules
+- [librekinect](https://github.com/xxorde/librekinect) - Depth data from a kinect sensor! Small and fast kernel driver. Also for embedded devices like the raspberry pi!
+- [opencscad](https://github.com/smcameron/opencscad) - Little C library to do OpenSCAD metaprogramming.  Note, this was written a long time ago when OpenSCAD was less capable than it is now. Many things can be done directly in OpenSCAD now.
+- [flowers-by-opengl](https://github.com/hack4code/flowers-by-opengl) - a simple 2D opengl program
+- [js1k](https://github.com/kristopolous/js1k) - my js1k spring 2k13 submission
+- [winamp-midi-control](https://github.com/agrover/winamp-midi-control) - This Winamp plugin allows you to control Winamp using a MIDI keyboard
+- [MoSync](https://github.com/MoSync/MoSync) - Cross-Platform SDK for mobile phones
+- [Broadway](https://github.com/mbebenita/Broadway) - A JavaScript H.264 decoder.
+
+## C# # 
+
+- [Procedural-painting](https://github.com/IRCSS/Procedural-painting) - Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
+- [SidWiz2F](https://github.com/Zeinok/SidWiz2F) - A SidWiz2 version that I changed something, see commit log.
+- [CosineGradient](https://github.com/keijiro/CosineGradient) - Cosine gradient generator for Unity
+- [moonburst](https://github.com/Manu404/moonburst) - Arduino midi gateway for live performance
+- [LaspVfx](https://github.com/keijiro/LaspVfx) - Audio reactive Unity VFX with LASP
+- [PixelVision8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
+- [Building-Generator](https://github.com/BlendSmile/Building-Generator) - A software that generates procedural building based on parameters
+- [P8Coder](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+- [tinke](https://github.com/pleonex/tinke) - Viewer and editor for files of NDS games
+- [FamiStudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor
+- [Kinect-VFX-Graph](https://github.com/roelkok/Kinect-VFX-Graph) - Use Kinect's depth feed with Unity's VFX Graph
+- [SuperTileMapper](https://github.com/Dotsarecool/SuperTileMapper) - SNES PPU Memory Viewer & Editor
+- [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) - A tool to export any Unity GameObject into a FBX ASCII format
+- [Unity-Runtime-Animation-Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Record animations in Unity runtime. Can save to .anim, maya, or FBX ASCII format.
+- [c3IDE](https://github.com/armandoalonso/c3IDE) - An Integrated Development Environment For Construct 3 Plugins
+- [Danmaku-no-Kyojin](https://github.com/Noxalus/Danmaku-no-Kyojin) - Danmaku no Kyojin (å¼¾å¹•ã®å·¨äºº) is a 2D danmaku developed in C# with XNA.
+- [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
+- [UnityVSTHost](https://github.com/Chris-TopherW/UnityVSTHost) - VST plugin host for Unity engine. Supports 64bit VST2 plugins on Windows only. Does not support Midi input to plugins at this stage.
+- [Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
+- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator) - A simple procedural generator of alchemy circles
+- [taskmaster](https://github.com/mkahvi/taskmaster) - General bloaty thing to deal with Windows system maintenance and automatically fix certain annoyances.
+- [Fix_My_Pen](https://github.com/saveenr/Fix_My_Pen) - 
+- [Prairie](https://github.com/DigitalCarleton/Prairie) - A Game Development Toolkit for Historians
+- [VegasBluff](https://github.com/AlienArc/VegasBluff) - Extension Library for Sony Vegas Pro. Developed against version 12. Extensions I've created to help me with my video production.
+- [SonyVegasProScripting](https://github.com/WhatIfWeDigDeeper/SonyVegasProScripting) - Sony Vegas Pro Scripting
+- [ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
+- [GM48TT](https://github.com/Blokatt/GM48TT) - Automated screen capture tool designed for GameMaker users.
+- [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
+- [PlaceViewer](https://github.com/GregBahm/PlaceViewer) - A VR Unity project to viewing  reddit's 2017 "Place" data in 3D.
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+- [tooll](https://github.com/framefield/tooll) - Tooll is a new multi-purpose application for creating interactive 3d content and animations. It combines the best aspects of animation, compositing, and coding into a lightweight and intuitive UI. Your designs can be shared as executable or rendered to movies.
+- [ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
+- [TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
+- [neon2d](https://github.com/neon2d/neon2d) - a simple c# game engine
+- [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - Destroy Windows Spying tool
+- [unity-midi-bridge](https://github.com/keijiro/unity-midi-bridge) - NOTE: This project has been already discontinued. Use MidiJack instead.
+- [fuze-vj-kit](https://github.com/unity3d-jp/fuze-vj-kit) - VJKit for fuZe
+- [MusicEngine](https://github.com/geekdrums/MusicEngine) - make music synced game with Unity / ADX2 / Wwise
+- [rant](https://github.com/TheBerkin/rant) - (ARCHIVED) Rant â€“ The all-purpose procedural text library
+- [self-hosted-php-sql-leaderboard](https://github.com/tutsplus/self-hosted-php-sql-leaderboard) - How to Code a Self-Hosted PHP/SQL Leaderboard For Your Game
+- [Spriter2Unity](https://github.com/daseyb/Spriter2Unity) - Tool for converting SCML files into Unity prefabs and animations.
+- [ShipGen2D](https://github.com/MagiMaster/ShipGen2D) - Procedurally generated space ship floor plans.
+- [GenFu](https://github.com/MisterJames/GenFu) - GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.
+- [ColourLoversDotNet](https://github.com/scottt732/ColourLoversDotNet) - A simple .NET wrapper around the COLOURlovers API
+- [opensim](https://github.com/opensim/opensim) - This is a github mirror of the opensim git repository (synced every 10 minutes).  The cannonical master is on http://opensimulator.org/viewgit
+- [d2](https://github.com/diva/d2) - Diva Distro
+- [diva-distribution](https://github.com/diva/diva-distribution) - OpenSim + addons. This is the content that gets distributed in the d2 project.
+- [opensim](https://github.com/BlueWall/opensim) - This is a github mirror of the opensim git repository (synced every 10 minutes).  The cannonical master is on http://opensimulator.org/viewgit
+- [What-The-Hex](https://github.com/dHeinemann/What-The-Hex) - Colour picker application for Windows
+
+## C++ 
+
+- [BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth
+- [GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
+- [Juuke](https://github.com/ananords/Juuke) - RFID music player using DFPlayer Mini. Also includes a RFID card writer.
+- [obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
+- [libbulletml](https://github.com/thejustinwalsh/libbulletml) - A Modern Fork of libBulletML
+- [dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
+- [SketchSynthVideo-Simple](https://github.com/jeonghopark/SketchSynthVideo-Simple) - A video version of SketchSynth.
+- [EDGITOR](https://github.com/ENDESGA/EDGITOR) - minimal C++ pixelart editor
+- [VirtualAnalog](https://github.com/FigBug/VirtualAnalog) - Virtual Analog VST / AU plugin
+- [obs-kinect](https://github.com/SirLynix/obs-kinect) - OBS Plugin to access Kinect v1 (Xbox for 360 version) and Kinect v2 (Xbox One version) data (and setup a virtual green screen)
+- [vgm2midi](https://github.com/JamesDunne/vgm2midi) - Video game music (NSF, SPC) to MIDI converter tool based on byuu's higan (extremely accurate console emulation) project
+- [ulus](https://github.com/QaotechStudio/ulus) - a simple VJ application written in openFrameworks for VJ Shader Jam
+- [SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automated scene switcher for OBS Studio
+- [OBS-captions-plugin](https://github.com/ratwithacompiler/OBS-captions-plugin) - Closed Captioning OBS plugin using Google Speech Recognition
+- [obs-spout2-source-plugin](https://github.com/Off-World-Live/obs-spout2-source-plugin) - A Plugin for OBS Studio enabling Spout2 (https://github.com/leadedge/Spout2) as a source
+- [TwitchSwitcher](https://github.com/caitp/TwitchSwitcher) - OBS-Studio plugin to switch Twitch.tv game name and channel status automatically
+- [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - Bring your stream back to life with modern effects!
+- [spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
+- [SketchSynth-Simple](https://github.com/jeonghopark/SketchSynth-Simple) - 
+- [boundary-first-flattening](https://github.com/GeometryCollective/boundary-first-flattening) - 
+- [ImGuiFileDialog](https://github.com/aiekick/ImGuiFileDialog) - File Dialog for ImGui : https://github.com/aiekick/ImGuiFileDialog
+- [amame](https://github.com/jariseon/amame) - AMAME : mame synths as VST plugins
+- [chipmachine](https://github.com/sasq64/chipmachine) - Demoscene/Retro Music Player
+- [SpoutCapture](https://github.com/leadedge/SpoutCapture) - An Openframeworks application for Microsoft Windows that captures the visible desktop
+- [LightjamsSpout](https://github.com/matjacques/LightjamsSpout) - COM wrapper for Spout - Realtime video sharing framework for Windows - making it usable in c# and .Net in general
+- [visualization.shadertoy](https://github.com/xbmc/visualization.shadertoy) - Shadertoy visualizer for Kodi
+- [Adafruit_PixelDust](https://github.com/adafruit/Adafruit_PixelDust) - Library-ified version of "LED sand" code
+- [ffglplugin-examples](https://github.com/cyrilcode/ffglplugin-examples) - Some example FFGL plugins for Resolume
+- [synfig](https://github.com/ankit-kumar-dwivedi/synfig) - This is the Official source code repository of the Synfig project
+- [Pixel-Packing-Examples](https://github.com/nVoid/Pixel-Packing-Examples) - Pixel Packing Data Transfer with TouchDesigner, openFrameworks, and Processing
+- [synesthesia](https://github.com/thurbridi/synesthesia) - LED control via audio from USB
+- [Soompler](https://github.com/abbysoft-team/Soompler) - Soompler is JUCE based sampler VST and Standalone plugin for Linux, MacOS and Windows.
+- [midiomatic](https://github.com/SpotlightKid/midiomatic) - A collection of MIDI filter, generator and processor plugins
+- [SANA_8BIT_VST](https://github.com/m-masaki72/SANA_8BIT_VST) - 
+- [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders
+- [cinema4d-scripts](https://github.com/aknavj/cinema4d-scripts) - Cinema 4D - Useful scripts with scene setup (Python, Xpresso, Coffee Script) #forCommunity
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - ðŸŽ® A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+- [BeatDrop](https://github.com/mvsoft74/BeatDrop) - BeatDrop Music Visualizer
+- [Toyvox](https://github.com/HenriPK/Toyvox) - An unique voxel engine, very charmy, expandable, and easy-to-use.
+- [JuceOPLVSTi](https://github.com/bsutherland/JuceOPLVSTi) - A VST instrument which emulates the Yamaha OPL sound chip used in PC sound cards from the 90s.
+- [glslEditor_AudioPlugin](https://github.com/COx2/glslEditor_AudioPlugin) - GLSL Editor for Audio Plugin with JUCE Framework.   [Plugin formats]VST3/AudioUnit(AU) and more...
+- [VVISF-GL](https://github.com/mrRay/VVISF-GL) - 
+- [snes9x](https://github.com/snes9xgit/snes9x) - Snes9x - Portable Super Nintendo Entertainment System (TM) emulator
+- [password_codecs](https://github.com/bisqwit/password_codecs) - Collection of password encoders and decoders created with the video series at: https://www.youtube.com/playlist?list=PLzLzYGEbdY5nEFQsxzFanSDv_38Hz0w7B
+- [FlexCHOP](https://github.com/vinz9/FlexCHOP) - NVIDIA FleX 1.2 solver integration in TouchDesigner as a CHOP
+- [spinnaker-spout-cinder](https://github.com/mediamonks/spinnaker-spout-cinder) - 
+- [BeatDrop](https://github.com/leadedge/BeatDrop) - BeatDrop Music Visualizer
+- [freeframePlugins-win](https://github.com/robksawyer/freeframePlugins-win) - sfFreeFrame is a collection of open source visual plugins for FreeFrame 1.5 compatible hosts. This means they can be used for live visual performance using programs like Resolume Avenue, VDMX, MaxMSP/Jitter and more. http://sffreeframe.sourceforge.net/
+- [MQ-Sprite](https://github.com/eigenbom/MQ-Sprite) - A sprite editor.
+- [digital_nametag](https://github.com/gigapudii/digital_nametag) - A digital nametag based on the Nokia 3310 screen, making you interesting during fairs.
+- [spriterGM](https://github.com/Gillmog/spriterGM) - Spriter 2D implementation for GameMaker Studio
+- [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings.
+- [360-VJ](https://github.com/DanielArnett/360-VJ) - Add another dimension to your VJing with the 360-VJ effect pack! Rotate 360 and Fisheye videos, convert 360 and Flat videos to Fisheye. Great for fulldome and immersive VJing.
+- [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
+- [quark](https://github.com/OpenGenus/quark) - Stay happy while offline | World's first offline search engine.
+- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
+- [juced](https://github.com/kunitoki/juced) - community based juce
+- [openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [OpenMF-Archived](https://github.com/MafiaHub/OpenMF-Archived) - Abandoned C++ version. Contains useful format utils and parsers.
+- [KlakSpout](https://github.com/keijiro/KlakSpout) - Spout plugin for Unity
+- [Spout-for-Python](https://github.com/spiraltechnica/Spout-for-Python) - A modified Spout library using Boost::Python to enable Spout texture sharing using Python.
+- [color4d](https://github.com/vidarn/color4d) - Color4D is a Color Management plugin for Cinema4D providing a streamlined way to work color.
+- [MDS](https://github.com/benkuper/MDS) - MultiDisplaySpout
+- [ScreenShare](https://github.com/spiraltechnica/ScreenShare) - Share your screen as a texture via the Spout texture sharing framework.
+- [ofxPiMapper](https://github.com/kr15h/ofxPiMapper) - Projection mapping addon for openFrameworks that works on the Raspberry Pi
+- [ColaborativeDrawing](https://github.com/Vamoss/ColaborativeDrawing) - People can draw in their mobile browser and send their draw via WebSocket to Openframeworks, it makes a drawing buffer and send the resulting texture via Spout, so you can manipulate with a VJ software.
+- [MGen](https://github.com/rualark/MGen) - MGen: Windows PC C++ music generation and analysis laboratory, playing into MIDI port and exporting MIDI
+- [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game Engine - yet another open source game engine
+- [Sidewalk](https://github.com/fwilleke80/Sidewalk) - An object plugin that generates parametric euro-style sidewalks
+- [Fugio](https://github.com/bigfug/Fugio) - An open visual programming system designed for fast development and long-term preservation of digital art and creative exploration
+- [midicloro](https://github.com/ramstorm/midicloro) - MIDI clock generator and router
+- [Intrinsic](https://github.com/begla/Intrinsic) - Intrinsic is a Vulkan based cross-platform game and rendering engine. The project is currently in an early stage of development.
+- [Spout2](https://github.com/leadedge/Spout2) - A video frame sharing system for Microsoft Windows
+- [3DCoat_Applinks](https://github.com/sshumihin/3DCoat_Applinks) - Export-import plugins for Softimage and Cinema 4D to 3D-Coat
+- [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+- [MyoMapper](https://github.com/balandinodidonato/MyoMapper) - Myo Mapper is an open-source application to map Myo armband data into OSC.
+- [Resolume](https://github.com/danielfilipealmeida/Resolume) - 
+- [dpixel](https://github.com/marcoc2/dpixel) - A Pixel Art Remastering Tool using classic algorithms
+- [FFGLDummyParams](https://github.com/Leskos/FFGLDummyParams) - FFGL plugin with 16 dummy parameters for linking external software to Resolume's parameter system
+- [Vox](https://github.com/AlwaysGeeky/Vox) - Voxel Engine and Voxel Game Development
+- [instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
+- [Spout-AfterEffects](https://github.com/benkuper/Spout-AfterEffects) - The After Effects plugin for sending textures to Spout enabled apps.
+- [SpoutControls](https://github.com/leadedge/SpoutControls) - Control a Sender from a Receiver
+- [reymenta-mixnmap](https://github.com/brucelane/reymenta-mixnmap) - Mix several sources from different Spout-enabled apps in a lightweight app for video-mapping
+- [ShaderLoader](https://github.com/t3kt/ShaderLoader) - A FreeframeGL plugin to load shader files created from GLSL Sandbox and ShaderToy
+- [gaia](https://github.com/cutgarnetgames/gaia) - Prototype World Generator in Haxe+Flixel
+- [airharp](https://github.com/AdamSomers/airharp) - Prototype Motion controlled harp demo
+- [ShaderLoader](https://github.com/leadedge/ShaderLoader) - A FreeframeGL plugin to load shader files created from GLSL Sandbox and ShaderToy
+- [ofxSpout2](https://github.com/Kj1/ofxSpout2) - Openframeworks addon for SpoutV2
+- [Ai2Canvas](https://github.com/mikeswanson/Ai2Canvas) - A plug-in for Adobe Illustrator that exports artwork and animation to a HTML5 canvas
+- [lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Googleâ€™s container stack, which provides Linux application containers.
+- [UE4ToSpout](https://github.com/Allar/UE4ToSpout) - Sends desired render target texture to Spout if UE4 is running in OpenGL mode
+- [pixelcity](https://github.com/skeeto/pixelcity) - Shamus Young's procedural city project
+- [pixelcity](https://github.com/jovanbrakus/pixelcity) - Shamus Young's procedural city project
+- [FractalLab](https://github.com/alanbrady/FractalLab) - An application that explores the different kinds of fractals
+- [GameYob](https://github.com/Drenn1/GameYob) - [Super] Gameboy [Color] emulator for the Nintendo [3]DS
+- [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine.
+- [hexanoise](https://github.com/Nocte-/hexanoise) - 2D/3D noise DSL for generating voxel worlds.
+- [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.
+- [ofxColourLovers](https://github.com/borg/ofxColourLovers) - openFrameworks addon for quick and easy exploration of the wonderful world of ColourLovers.com
+- [mkxp](https://github.com/Ancurio/mkxp) - Free Software implementation of the Ruby Game Scripting System (RGSS)
+- [Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+- [OpenNI](https://github.com/OpenNI/OpenNI) - OpenNI
+- [OpenNI2](https://github.com/occipital/OpenNI2) - OpenNI2
+- [topologic](https://github.com/ef-gy/topologic) - Visualiser for basic geometric primitives and fractals in arbitrary-dimensional spaces
+- [Drawpile](https://github.com/drawpile/Drawpile) - A collaborative drawing program
+- [indesign](https://github.com/libreliodev/indesign) - InDesign plug-in - Librelio Digital Publishing Suite
+- [MSPhysics](https://github.com/AntonSynytsia/MSPhysics) - A NewtonDynamics wrapper for SketchUp.
+- [colors](https://github.com/mkehrt/colors) - Color palette generator.
+- [Natron](https://github.com/MrKepzie/Natron) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
+- [NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
+- [tradigitools](https://github.com/kattkieru/tradigitools) - open source animation workflow plugin for Maya
+- [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - Tuttle OFX is a library to connect and batch operations with OpenFx plugins. It comes with a set of plugins that allows you to batch process on movies and file sequences.
+- [libKeyFinder](https://github.com/ibsh/libKeyFinder) - Musical key detection for digital audio, GPL v3
+- [is_KeyFinder](https://github.com/ibsh/is_KeyFinder) - Musical key detection software for digital DJs, for Mac OSX and Windows, released under GPL v3
+- [Torque3D](https://github.com/GarageGames/Torque3D) - MIT Licensed Open Source version of Torque 3D from GarageGames
+- [primus](https://github.com/amonakov/primus) - Low-overhead client-side GPU offloading
+- [OgreCrowd](https://github.com/duststorm/OgreCrowd) - Crowds for Ogre using Recast/Detour
+- [ofxKuler](https://github.com/alinakipoglu/ofxKuler) - An Openframeworks addon for working with Adobe Kuler Service
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+- [Squeenote](https://github.com/julesfern/Squeenote) - Presentations done live with HTML5!
+- [fontbuilder](https://github.com/andryblack/fontbuilder) - Bitmap font generator
+
+## CMake 
+
+- [obs-vintage-filter](https://github.com/cg2121/obs-vintage-filter) - An OBS Studio filter where the source can be set to be black & white or sepia.
+
+## CSS 
+
+- [figma-github-data](https://github.com/brianlovin/figma-github-data) - Populate data from GitHub into Figma mocks
+- [foodfont](https://github.com/artsmc/foodfont) - Font icons for baking goods
+- [easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
+- [armorpaint_docs](https://github.com/armory3d/armorpaint_docs) - ArmorPaint Documentation
+- [figma-looper](https://github.com/kuldar/figma-looper) - ðŸŒ€ A Figma plugin for creating trippy generated graphics.
+- [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ãƒ•ã‚¡ãƒŸã‚³ãƒ³é¢¨CSSãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯
+- [clock-shop](https://github.com/drawcall/clock-shop) - ðŸ•™â°ðŸ•° Clock Shop is a website that collects beautiful clock codes
+- [CSS-Micro-Reset](https://github.com/vladocar/CSS-Micro-Reset) - Minimal barebone CSS Reset
+- [strawberry](https://github.com/jfet97/strawberry) - A new flexbox based CSS micro-framework.
+- [box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
+- [purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [lit](https://github.com/ajusa/lit) - World's smallest responsive ðŸ”¥ css framework (395 bytes)
+- [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
+- [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
+- [air-light](https://github.com/digitoimistodude/air-light) - WordPress starter theme - designed to be minimal, lightweight and easy for all kinds of WordPress projects.
+- [pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [tania](https://github.com/Tanibox/tania) - A PHP based, free, and open source farming management system.
+- [emojitwo](https://github.com/EmojiTwo/emojitwo) - Fork of the last fully free EmojiOneâ„¢ 2 artwork
+- [_bootstraps](https://github.com/tareq1988/_bootstraps) - A WordPress starter theme based on underscores (_s) from Automattic and bootstrap from twitter.
+- [Fate-of-the-Samurai](https://github.com/tenshis/Fate-of-the-Samurai) - Fate of the Samurai (Construct 2 Project)
+- [stranger-things](https://github.com/wbobeirne/stranger-things) - Intro of the show Stranger Things in CSS
+- [radiobox.css](https://github.com/720kb/radiobox.css) - :radio_button: Tiny set of pure CSS animations for your radio inputs. https://720kb.github.io/radiobox.css/
+- [AESTHETIC.css](https://github.com/wcerfgba/AESTHETIC.css) - 
+- [pills](https://github.com/rohitkrai03/pills) - A simple responsive CSS Grid for humans. View Demo -
+- [universal.css](https://github.com/marmelab/universal.css) - The only CSS you will ever need
+- [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
+- [One-ui-kit](https://github.com/OssamaZ/One-ui-kit) - Minimal ui kit for Bootstrap 4
+- [trinkbrunnen](https://github.com/Jugendhackt/trinkbrunnen) - Trinkbrunnen in der Umgebung finden
+- [twentysixteen](https://github.com/WordPress/twentysixteen) - Twenty Sixteen is a theme now included in all WordPress installs. To report any issues please go here: https://core.trac.wordpress.org/newticket
+- [Kayzen-GS](https://github.com/esr360/Kayzen-GS) - Kayzen-GS is a powerful framework for building responsive grid systems for the web
+- [drum_synthesis](https://github.com/chrislo/drum_synthesis) - Examples of drum synthesis using the Web Audio API
+- [trianglify-background-generator](https://github.com/alssndro/trianglify-background-generator) - Generate backgrounds using the trianglify plugin
+- [tacit](https://github.com/yegor256/tacit) - CSS Framework for Dummies, Without Classes
+- [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling.
+- [precure-color-scheme](https://github.com/deroter/precure-color-scheme) - ãƒ—ãƒªã‚­ãƒ¥ã‚¢ã®è‰²
+- [littlebox](https://github.com/cmaddux/littlebox) - Super simple to implement, CSS-only icons.
+- [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
+- [8biticon](https://github.com/matveyco/8biticon) - 8biticon picture generator. Create your own funny profile pics!
+- [icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
+- [FlowupLabels.js](https://github.com/ENFOS/FlowupLabels.js) - Augments form labels to behave like placeholders, but with a twist.  See:
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [doodle](https://github.com/yuany90/doodle) - html5 canvas draw
+- [papercraft](https://github.com/jxnblk/papercraft) - Hand-coded SVG lettering
+- [waves-js](https://github.com/mateogianolio/waves-js) - Wave-like text animation in pure JavaScript
+- [paths-js-demo](https://github.com/andreaferretti/paths-js-demo) - Demo application for paths.js
+- [codoodler](https://github.com/pubnub/codoodler) - Doodle with strangers on InterWeb!
+- [google-type](https://github.com/femmebot/google-type) - Collaborative typography project using select passages from Aesop's Fables set to Google Fonts
+- [picnic](https://github.com/franciscop/picnic) - :handbag: A beautiful CSS library to kickstart your projects
+- [backbone-colors](https://github.com/marsh73/backbone-colors) - A simple backbone color palette builder pulling random colors from colourlovers.com api
+- [marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
+- [g-colors](https://github.com/asarode/g-colors) - Sass partial with all Google material colors as variables
+- [c-tiles16](https://github.com/atelierbram/c-tiles16) - Colorscheming with Variables
+- [monosocialiconsfont](https://github.com/drinchev/monosocialiconsfont) - Mono Social Icons Font
+- [iconizr](https://github.com/jkphl/iconizr) - A PHP command line tool for converting SVG images to a set of CSS icons (SVG & PNG, single icons and / or CSS sprites) with support for image optimization and Sass output. Created by Joschi Kuphal (@jkphl), licensed under the terms of the MIT license
+- [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+- [mfglabs-iconset](https://github.com/MfgLabs/mfglabs-iconset) - Awesome web font icon by MFG Labs
+- [patternbolt](https://github.com/buseca/patternbolt) - A fine selection of SVG pattern background, packed in a single CSS or SCSS file. Add patterns just adding a class.
+- [Gradianto](https://github.com/pmilla1606/Gradianto) - Quickly create gradients across elements
+- [bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
+- [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
+- [kk_timeline](https://github.com/kreativkonzentrat/kk_timeline) - Timeline mit NewseintrÃ¤gen oder Produkten im JTL Shop 3
+- [Splitchar.js](https://github.com/razvanbalosin/Splitchar.js) - Style and design the first, second or both halves of a character
+- [pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs
+- [grid](https://github.com/jordanlev/grid) - A simple guide to responsive design.
+- [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+- [Adaptive-Backgrounds](https://github.com/benhowdle89/Adaptive-Backgrounds) - A JavaScript plugin for extracting the dominant color from images and applying the color to their parent.
+- [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+- [colours](https://github.com/idooo/colours) - Color picker for people
+- [bones](https://github.com/eddiemachado-zz/bones) - A Mobile-First, Responsive WordPress starter theme based off 320 and Up & HTML5 Boilerplate.
+- [onetimebox](https://github.com/oliversong/onetimebox) - Easily create and share single-use, live web folders.
+- [Diaphanous](https://github.com/Jonic/Diaphanous) - A barebones theme for Ghost
+- [Linen](https://github.com/ThemeSpectre/Linen) - A Starter Theme for Ghost
+- [shop](https://github.com/stripe/shop) - Single-page shop
+- [cicadaJS](https://github.com/matthewlein/cicadaJS) - A tiny JavaScript to create endless nearly non-repeating stripe patterns based on prime (or coprime) numbers
+- [color](https://github.com/Realmhua/color) - dream in color
+- [resblogsive](https://github.com/reimersjan/resblogsive) - soon to be a responsive WordPress blogging theme
+- [weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) - This is like Google Web Fonts, but for Open Source Icon Fonts. Hurray!
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!
+- [tiff](https://github.com/yemutex/tiff) - A visual typeface diff tool
+- [Base-CSS-Framework](https://github.com/GurudayalKhalsa/Base-CSS-Framework) - A lightweight Responsive CSS Framework
+- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
+- [flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
+- [Colour-Scheme-Blending](https://github.com/atelierbram/Colour-Scheme-Blending) - Intuitive tool for quick finding and testing (harmonious) colour blends with selected colours from a colorscheme.
+- [gallery-css](https://github.com/benschwarz/gallery-css) - CSS only Gallery
+- [appframework](https://github.com/intel/appframework) - The definitive HTML5 mobile javascript framework
+- [almost-flat-ui](https://github.com/websymphony/almost-flat-ui) - Almost Flat UI Theme for Foundation Framework
+- [HTML-KickStart](https://github.com/joshuagatcke/HTML-KickStart) - Ultraâ€“Lean HTML Building Blocks for Rapid Website Production
+- [NiceNiceJPG](https://github.com/timboisvert/NiceNiceJPG) - The only image placeholder service on the web bringing you nothing but Vanilla Ice jpgs. You're welcome.
+- [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
+- [toolkit](https://github.com/at-import/toolkit) - Toolkit for Responsive Web Design and Progressive Enhancement with Compass
+- [thegoodman](https://github.com/podrivo/thegoodman) - An experiment with basic CSS3 animations.
+- [webstiles](https://github.com/namanyayg/webstiles) - The modern tool to help prototyping in the browser
+- [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+- [junior](https://github.com/justspamjustin/junior) - A front-end framework for building html5 mobile apps with a native look and feel.
+- [kickstarter](https://github.com/somawater/kickstarter) - Landing pages we created to help our kickstarter succeed
+- [colors.less](https://github.com/10xLaCroixDrinker/colors.less) - Use LESS to create color schemes
+- [Makisu](https://github.com/soulwire/Makisu) - CSS 3D Dropdown Concept
+- [foggy](https://github.com/nbartlomiej/foggy) - jQuery plugin for blurring page elements
+- [css-shaky-animation](https://github.com/tylergaw/css-shaky-animation) - Shits shakin' yo
+- [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
+- [css3-patterned-buttons](https://github.com/catalinred/css3-patterned-buttons) - CSS3 buttons with base64 noise pattern effect.
+- [wirefy](https://github.com/cjdsie/wirefy) - Wirefy is a browser based responsive wireframe tool, which allows you to create functional wireframes using standard elements. Think of it as the foundation for your content to be built on. This allows you to focus on the content rather than the design to get faster sign off. Wirefy is not a one-solution answer.
+- [rwdgrid](https://github.com/gsvineeth/rwdgrid) - Responsive Grid System for your Next Project /  1200px to Mobile
+- [draw_nothing](https://github.com/ngokevin/draw_nothing) - simple doodle app with different colors/brush sizes and image loader
+- [Free-Web-Font-Combinations](https://github.com/bueltge/Free-Web-Font-Combinations) - Beautiful web type combinations
+- [ed.gridpak](https://github.com/erskinedesign/ed.gridpak) - The responsive grid generator.
+- [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
+- [lavish](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image
+- [_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+- [susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass
+- [960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
+- [windex](https://github.com/desandro/windex) - Pretty up your localhost. No more 1996 jank.
+- [slippy](https://github.com/Seldaek/slippy) - HTML Presentations
+- [Helveticards](https://github.com/zachwaugh/Helveticards) - 100% CSS playing cards, originally created for the Pitboss poker server, you can see live demo at link below
+- [3dtransforms](https://github.com/desandro/3dtransforms) - :package: Introduction to CSS 3D transforms
+- [slide-em-up](https://github.com/nono/slide-em-up) - Write some slides in markdown, choose a style and slide'em up displays them in HTML5.
+- [inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [Foldy960](https://github.com/davatron5000/Foldy960) - A responsive version of the 960 grid, the Pvel way!
+- [Golden-Grid-System](https://github.com/jonikorpi/Golden-Grid-System) - A folding grid for responsive design.
+- [slideshow.html](https://github.com/dmfrancisco/slideshow.html) - yet another HTML5 Presentation Assembler
+- [Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework
+- [Balloons.IO](https://github.com/rickyrauch/Balloons.IO) - Balloons.IO is a web multi-room chat server and client ready to use. Itâ€™s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook
+- [themeroller.jquerymobile.com](https://github.com/jquery/themeroller.jquerymobile.com) - Theme Roller site for jQuery Mobile
+- [animate.css](https://github.com/animate-css/animate.css) - ðŸ¿ A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [WP-Skeleton-Theme](https://github.com/wycks/WP-Skeleton-Theme) - A responsive WordPress bare-bones theme based on the getskeleton framework
+- [color-schemer](https://github.com/at-import/color-schemer) - A sassy way to build color schemes
+- [open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
+
+## Clojure 
+
+- [klangmeister](https://github.com/ctford/klangmeister) - A musical scratchpad.
+- [falkor](https://github.com/owainlewis/falkor) - Open Source web scraping API. Falkor turns web pages into queryable JSON
+- [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [imogen](https://github.com/mattdw/imogen) - An image evolution app in Clojure.
+- [leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
+- [overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
+
+## CoffeeScript 
+
+- [leapjs-rigged-hand](https://github.com/leapmotion/leapjs-rigged-hand) - Control hand models with the Leap Motion
+- [letters](https://github.com/adamschwartz/letters) - Draw non-overlapping text on a canvas
+- [zui53](https://github.com/florianguenther/zui53) - ZUI53 is a JavaScript Library to create powerfull webbased Zoomable User Interfaces (ZUIs) with new technologies like HTML5 and CSS3.
+- [walma](https://github.com/opinsys/walma) - Collaborative Whiteboard
+- [cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
+- [color-scheme-js](https://github.com/c0bra/color-scheme-js) - Generate pleasant color schemes in JavaScript
+- [fontello-cli](https://github.com/paulyoung/fontello-cli) - Command line interface for fontello.
+- [engine](https://github.com/gss/engine) - GSS engine
+- [skuler](https://github.com/senocular/skuler) - Simple, web-based sketching app using swappable Kuler themes/palettes/swatches
+- [maskew](https://github.com/dmotz/maskew) - Add some diagonal rhythm to your elements
+- [morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
+- [audio](https://github.com/pushmatrix/audio) - Step-sequencer driven by google maps markers
+- [tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app
+- [stljs](https://github.com/cubehero/stljs) - Read and write STL (3D printable model) files to your heart's content
+- [docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.
+- [jquery.markdown.js](https://github.com/bih/jquery.markdown.js) - A WYSIWYG Markdown editor built as a jQuery plugin (written in CoffeeScript + SASS).
+- [itunes-colors](https://github.com/lukasklein/itunes-colors) - Porting Panic's iTunes album art color algortithm (http://www.panic.com/blog/2012/12/itunes-11-and-colors/) to JavaScript
+- [ColorTunes](https://github.com/dannvix/ColorTunes) - HTML5 version of the iTunes 11 album view
+- [release-cycles](https://github.com/RothschildGames/release-cycles) - An abstract racing game where you fight against the clock and the computer to get as far as you can in a products life-cycle.
+- [allen](https://github.com/jsantell/allen) - Utilities for the Web Audio API
+- [words](https://github.com/matthewhudson/words) - JS module for generating words from characters. Helpful (for cheating) when playing games like Letterpress, Words with Friends, and Scrabble.
+- [violin](https://github.com/latentflip/violin) - Violin
+- [jquery.shapeshift](https://github.com/AshesOfOwls/jquery.shapeshift) - A dynamic grid system with drag and drop functionality.
+- [canvbg](https://github.com/dorey/canvbg) - a proof of concept allowing you to set an element's CSS background-image to the contents of a canvas
+- [oriDomi](https://github.com/dmotz/oriDomi) - Fold up DOM elements like paper
+- [pasteboard](https://github.com/JoelBesada/pasteboard) - Clipboard and drag & drop image sharing web app
+- [aurora.js](https://github.com/audiocogs/aurora.js) - JavaScript audio decoding framework
+- [plunker](https://github.com/filearts/plunker) - Plnkr.co front-end and backend
+- [RYB](https://github.com/friggeri/RYB) - RYB Generator
+- [restatic](https://github.com/binaryage/restatic) - Google Docs content parser
+- [BankersBox](https://github.com/twilio/BankersBox) - redis-like wrapper for javascript storage
+- [chaplin](https://github.com/chaplinjs/chaplin) - HTML5 application architecture using Backbone.js
+- [bubbles](https://github.com/franzenzenhofer/bubbles) - little unfinished particles game - MIT license
+- [JPC2000](https://github.com/stevegraham/JPC2000) - a javascript drum machine
+- [jquery-endless-scroll](https://github.com/fredwu/jquery-endless-scroll) - Endless/infinite scrolling/pagination.
+- [orona](https://github.com/stephank/orona) - Bolo, a game of tank warfare, rewritten for modern browsers.
+- [revolver](https://github.com/johnnyfreeman/revolver) - A javascript library for building your own content slider.
+
+## D 
+
+- [Dplug](https://github.com/AuburnSounds/Dplug) - Make audio plug-ins with D
+
+## DIGITAL Command Language 
+
+- [blocklists](https://github.com/jmdugan/blocklists) - Shared lists of problem domains people may want to block with hosts files
+
+## Elixir 
+
+- [ephemeral2](https://github.com/losvedir/ephemeral2) - Ephemeral P2P over websockets, Phoenix/Elixir.
+
+## Elm 
+
+- [cppn-playground](https://github.com/silky/cppn-playground) - CPPN Playground
+
+## GDScript 
+
+- [aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
+- [material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring tool based on the Godot game engine
+- [aseprite-import](https://github.com/IoriBranford/aseprite-import) - Import Aseprite animations into Godot Engine
+- [stylized-planet-generator](https://github.com/Bauxitedev/stylized-planet-generator) - A stylized procedural planet generator written in Godot 3.0.
+- [Rakugo](https://github.com/rakugoteam/Rakugo) - Framework (inspired by Ren'Py) for story driven games in Godot.
+
+## GLSL 
+
+- [synesthesia-uniforms-display](https://github.com/kylegrover/synesthesia-uniforms-display) - Synesthesia.live synScene for displaying the various uniforms
+- [obs-shaderfilter](https://github.com/Oncorporation/obs-shaderfilter) - OBS Studio filter for applying an arbitrary shader to a source.
+- [ofxVVISF](https://github.com/danzeeeman/ofxVVISF) - Interactive Shader Format addon for openFrameworks
+- [ISF-Files](https://github.com/Vidvox/ISF-Files) - ISF generators and filters
+- [ISF](https://github.com/icalvin102/ISF) - shaders for vdmx
+- [ShaderSketches](https://github.com/keijiro/ShaderSketches) - KodeLife shader sketches I wrote while commuting
+- [SdfFontDesigner](https://github.com/aiekick/SdfFontDesigner) - Repo of SdfFontDesigner
+- [NoodlesPlate](https://github.com/aiekick/NoodlesPlate) - Repo of NoodlesPlate
+- [TexGraph-Public](https://github.com/galloscript/TexGraph-Public) - TexGraph public folder content with nodes json descriptors and shaders.
+- [godot-motion-blur](https://github.com/Bauxitedev/godot-motion-blur) - A motion blur shader for Godot 3.0
+- [vjzual2](https://github.com/t3kt/vjzual2) - modular video processing system
+
+## Game Maker Language 
+
+- [PushEd](https://github.com/GameMakerDiscord/PushEd) - 2D/3D level editor for GameMaker: Studio 1.4
+
+## Go 
+
+- [chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+- [libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
+- [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
+- [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
+- [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+- [heim](https://github.com/euphoria-io/heim) - A real-time community platform.
+- [webfont-downloader](https://github.com/jpillora/webfont-downloader) - A small web service which converts webfonts into zip archives
+- [Conception-go](https://github.com/shurcooL-legacy/Conception-go) - An unfinished Go implementation of Conception.
+- [localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
+
+## Gosu 
+
+- [GoogleAppsScript](https://github.com/entaq/GoogleAppsScript) - Sample code for Google Apps Script.
+
+## HLSL 
+
+- [Urho3DBitmapFontGenerator](https://github.com/1vanK/Urho3DBitmapFontGenerator) - 
+- [SpriteWrap](https://github.com/JosyahDooley/SpriteWrap) - Wraps a sprite using Construct 3
+- [c3-effects](https://github.com/Ludonaut/c3-effects) - Effects for Scirra Construct 3
+- [vvvv-sandbox](https://github.com/clomie/vvvv-sandbox) - 
+- [AlphaDitherEffect](https://github.com/Josephblt/AlphaDitherEffect) - Alpha Dither Effect for Construct 2.
+
+## HTML 
+
+- [megacorp-generator](https://github.com/girasquid/megacorp-generator) - Generates plausible-enough names for megacorps.
+- [htmlifier](https://github.com/SheepTester/htmlifier) - The HTMLifier "converts" Scratch 3.0 projects to an HTML file by putting all the project data and the entire Scratch engine into one enormous file
+- [jsdo](https://github.com/xl1/jsdo) - salvaged codes from jsdo.it
+- [variable-fonts](https://github.com/jpamental/variable-fonts) - 
+- [obs-cam-overlay](https://github.com/BorkStick/obs-cam-overlay) - 
+- [cassetter](https://github.com/person0b/cassetter) - Cassetter is a MIDI controlled granular sampler
+- [purecss-lace](https://github.com/cyanharlow/purecss-lace) - HTML/CSS drawing inspired by Flemish baroque oil portraits. Hand-coded entirely in HTML & CSS.
+- [concrete.css](https://github.com/louismerlin/concrete.css) - A simple and to the point CSS microframework
+- [digger](https://github.com/lutzroeder/digger) - Boulderdash in HTML5 and JavaScript
+- [talk](https://github.com/yuanchuan/talk) - 
+- [shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
+- [beepster](https://github.com/zenzoa/beepster) - A tiny music generator
+- [Animatopy](https://github.com/sarthology/Animatopy) - ðŸŽ© Just-add-water simple CSS animations snippets
+- [pico8-google-analytics](https://github.com/mtthsflk/pico8-google-analytics) - Easy Google Analytics event tracking for all your PICO-8 games.
+- [pico-8-shooter](https://github.com/ztiromoritz/pico-8-shooter) - A space shooter in 16 gifs
+- [SimpleMixer](https://github.com/Richard-Burns/SimpleMixer) - A video mixer built in TouchDesigner
+- [Model-Platformer](https://github.com/babalugats76/Model-Platformer) - Model platform game used to teach Construct 2 as part of Introduction to Game Design class
+- [GameDev](https://github.com/goodwin88/GameDev) - Construct 2 Files
+- [flexy](https://github.com/vladocar/flexy) - Flexy is minimal CSS framework made with Flex
+- [60gs](https://github.com/vladocar/60gs) - 60GS - 60 Columns Grid System based on CSS Grid Layout
+- [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
+- [Effex-for-C4D](https://github.com/mikeerla/Effex-for-C4D) - Effex for Cinema 4D
+- [SMART-CSS-GRID](https://github.com/vladocar/SMART-CSS-GRID) - SMART CSS GRID - CSS Framework
+- [video2audioJS](https://github.com/ayunami2000/video2audioJS) - web audio api converter
+- [Canvas004](https://github.com/ryukau/Canvas004) - Turmite
+- [spiralToy](https://github.com/Aeium/spiralToy) - mouse toy and data set
+- [PonziLand](https://github.com/bluedha/PonziLand) - 
+- [pyrofpyr](https://github.com/powhcrab16/pyrofpyr) - 
+- [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [PonziLand](https://github.com/dadas190/PonziLand) - 
+- [css_loading_animation](https://github.com/Chippd/css_loading_animation) - A "coding" animation made with pure css
+- [wasap.js](https://github.com/conversabit/wasap.js) - Click to start a WhatsApp chat from your website!
+- [css-shapes-patterns](https://github.com/yuanchuan/css-shapes-patterns) - CSS Shapes Patterns
+- [PQusic](https://github.com/arpit1997/PQusic) - A Music playlist app
+- [Ronin](https://github.com/hundredrabbits/Ronin) - Experimental Graphics Terminal
+- [map-dl](https://github.com/publicarray/map-dl) - A tool to download Google Map images
+- [web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
+- [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) - An experimental SVG letter animation inspired by the Dribbble shot ["Shading Letters in Illustrator"](https://dribbble.com/shots/2943049-Shading-Letters-in-Illustrator) by Jake Bartlett's. Powered by Julian Garnier's [anime.js](http://anime-js.com/).
+- [beatboxer](https://github.com/siggy/beatboxer) - Drum machine in a few hundred lines of html/js/css
+- [honeycomb-js](https://github.com/fbngrm/honeycomb-js) - A bee came in my room today ...
+- [amen_pi](https://github.com/AZOPCORP/amen_pi) - Amen Break sequencer based on PI digits numbers.
+- [LiveBeats](https://github.com/g200kg/LiveBeats) - Audio / Visual Live-Performance tool on Browser
+- [word-visualizer](https://github.com/jlam55555/word-visualizer) - A word visualizer using HTML5 canvas with a few graphic effects
+- [keyboardSounds](https://github.com/NafeezJS/keyboardSounds) - Make sound and visual effects while pressing keys.
+- [SingleDivProject](https://github.com/manrajgrover/SingleDivProject) - â˜ï¸One &lt;div&gt;. Many possibilities.
+- [knobman3d](https://github.com/g200kg/knobman3d) - Knob Image Design Tool
+- [PubNubSendImageDemo](https://github.com/pubnub/PubNubSendImageDemo) - 
+- [jam-api](https://github.com/dinubs/jam-api) - Parse web pages using CSS query selectors
+- [presentation-template](https://github.com/deis/presentation-template) - A barebones reveal.js deck for Deis presentations.
+- [javascript-racer](https://github.com/jakesgordon/javascript-racer) - How to build an outrun-style racing game in javascript
+- [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+- [64sts](https://github.com/kosamari/64sts) - pattern generator in 64 stitches
+- [paradeiser](https://github.com/lucidlemon/paradeiser) - small and sleek mobile navigation
+- [Blend4Web](https://github.com/TriumphLLC/Blend4Web) - Blend4Web is a tool for interactive 3D visualization on the Internet
+- [csssans](https://github.com/yusugomori/csssans) - CSS SANS is the font created with CSS, the computer language for web designing and typesetting.
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [dress-simulator](https://github.com/mmastrac/dress-simulator) - Opinionated Dress Color Simulator
+- [leaderboardC2](https://github.com/htejera/leaderboardC2) - A self hosted Open Source PHP Leaderboard for Construct2. Post, fetch and display high scores.
+- [ibnjs](https://github.com/asiekierka/ibnjs) - ibniz in JavaScript.
+- [chordgenerator](https://github.com/peterkmurphy/chordgenerator) - A Django application for enumerating all possible chords in a selected scale.
+- [slabText](https://github.com/freqdec/slabText) - A jQuery plugin for producing big, bold & responsive headlines
+- [jSlabify](https://github.com/gschoppe/jSlabify) - This is a fork from freqdec's slabtext jQuery plugin.  The Slabbing algorithm has been rewritten, from scratch, to support vertical heights and better optimize page space usage
+- [roll20-character-sheets](https://github.com/Roll20/roll20-character-sheets) - Character sheet templates created by the community for use in Roll20 VTT. Contact team@roll20.net if critical hotfixes need to be requested.
+- [Universal-LPC-Spritesheet-Character-Generator](https://github.com/Gaurav0/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
+- [minBlock.js](https://github.com/flouthoc/minBlock.js) - Is a Pure Javascript Canvas Implementation of Matrix Grid ( Primary Application was to Generate Github Like Random Avatar using minBlock.js or Pixel Pattern)
+- [gravit-hub](https://github.com/quasado/gravit-hub) - The Gravit Hub containing releases and issue tracking
+- [useful-photowall](https://github.com/WoollyMittens/useful-photowall) - The script arranges collections of images into a brick pattern.
+- [Pixel.Tools](https://github.com/prominentdetail/Pixel.Tools) - Complete Pixel-Art editor with peer to peer collaboration features
+- [font-loading](https://github.com/filamentgroup/font-loading) - Research on fonts
+- [cryogen](https://github.com/cryogen-project/cryogen) - A simple static site generator written in Clojure
+- [personal-website](https://github.com/vreyn/personal-website) - Personal website with portafolio of work, research, courses and projects
+- [lorem-ipsum-illustration](https://github.com/MarieSchweiz/lorem-ipsum-illustration) - Lorem Ipsum Illustration. http://marieschweiz.github.io/lorem-ipsum-illustration/
+- [guitar-tuner](https://github.com/jbergknoff/guitar-tuner) - Browser-based guitar tuner
+- [grid](https://github.com/aekaplan/grid) - A simple guide to responsive design.
+- [Painter](https://github.com/yanhaijing/Painter) - åŸºäºŽhtml5 Canvas çš„ç”»å›¾ç¨‹åº
+- [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [fitter-happier-text](https://github.com/jxnblk/fitter-happier-text) - Performant, fully fluid headings
+- [Hartija---CSS-Print-Framework](https://github.com/vladocar/Hartija---CSS-Print-Framework) - Universal CSS for web printing
+- [metaflop-www](https://github.com/metaflop/metaflop-www) - A free and open source (FOSS) web application for modulating your own METAFONTs
+- [typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
+- [iwanthue](https://github.com/medialab/iwanthue) - Colors for data scientists.
+- [templates](https://github.com/sendwithus/templates) - Sendwithus Open Source Email Templates
+- [geomicons-open](https://github.com/jxnblk/geomicons-open) - Open Source Icons for the Web
+- [appear](https://github.com/creativelive/appear) - execute callbacks when dom elements appear in and out of view
+- [HeavyTable.js](https://github.com/victordarras/HeavyTable.js) - Control and edit easely all table in your page.
+- [relax](https://github.com/brunobord/relax) - Free clone of noisli.com - a multiple-file markdown editor, ambient sounds and uncluttered interface
+- [bootflat.github.io](https://github.com/bootflat/bootflat.github.io) - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
+- [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
+- [colourblind](https://github.com/Altreus/colourblind) - Colour blindness bookmarklet
+- [x-gif](https://github.com/geelen/x-gif) - A custom element for flexible GIF playback
+- [brick](https://github.com/alfredxing/brick) - Open-source webfont service
+- [responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
+- [miniCodeEditor](https://github.com/xem/miniCodeEditor) - A mini HTML/CSS/JS code editor
+- [MCSS](https://github.com/operatino/MCSS) - [Frozen] Multilayer CSS organization methodology
+- [embedresponsively](https://github.com/jeffehobbs/embedresponsively) - Embed Responsively helps web content producers transform fixed width embedded content into fluid responsive embeds.
+- [responsive-design-bookmarklet-generator](https://github.com/benkeen/responsive-design-bookmarklet-generator) - Generates custom bookmarklets for testing responsive layouts to show how they look in different viewport sizes.
+- [brainstormer](https://github.com/bgr/brainstormer) - game design idea generator
+- [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [colourco.de](https://github.com/tamino-martinius/colourco.de) - Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
+- [animatescroll.js](https://github.com/rampatra/animatescroll.js) - A Simple jQuery Plugin for Animating Scroll
+- [skylo](https://github.com/colintoh/skylo) - Twitter Bootstrap Extension to add progress bar at the top of the page.
+- [clowncar](https://github.com/estelle/clowncar) - Clown Car Responsive Image Technique
+- [sympathetic-synth](https://github.com/stuartmemo/sympathetic-synth) - Sympathetic Synthesizer System Mk1
+- [geo-bootstrap](https://github.com/divshot/geo-bootstrap) - A timeless Twitter Bootstrap theme built for the modern web.
+- [jquery.mb.audio](https://github.com/pupunzi/jquery.mb.audio) - An audio API for mobile HTML5 that tries to actually work :-)
+- [HoverForMore.js](https://github.com/lukifer/HoverForMore.js) - { text-overflow: ellipsis; } on steroids
+- [redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum.
+- [jsfiddle-utils](https://github.com/kubetz/jsfiddle-utils) - Access user's fiddles from JavaScript - backup, process, etc.
+- [groundwork](https://github.com/groundworkcss/groundwork) - Say hello to responsive design made easy.
+- [desckit](https://github.com/elis/desckit) - Custom Desktop Wallpaper Generator with NodeJS and PhantomJS
+- [inplaceeditor](https://github.com/xreader/inplaceeditor) - Edit static HTML pages with simple InPlaceEditor
+- [Leaflet-MiniMap](https://github.com/Norkart/Leaflet-MiniMap) - A minimap control plugin for Leaflet
+- [dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
+- [html-resume](https://github.com/buu700/html-resume) - HTML rÃ©sumÃ© template + PDF generator
+- [imgLiquid](https://github.com/karacas/imgLiquid) - jQuery plugin to resize images to fit in a container.
+- [pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
+- [facesjs](https://github.com/dumbmatter/facesjs) - A JavaScript library for generating vector-based cartoon faces
+- [drawic](https://github.com/hail2u/drawic) - Drawic is a small set of SVG social icons. We're Living in a World of Retina!
+- [SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
+- [SignalsLite.js](https://github.com/CaptainN/SignalsLite.js) - SignalsLite for JavaScript
+- [bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
+- [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
+- [IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) - A package of flat vector icons together with an installable ligature font
+- [openwebicons](https://github.com/pfefferle/openwebicons) - A font!
+- [valdemarorn.github.com](https://github.com/ValdemarOrn/valdemarorn.github.com) - Webpage
+- [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
+- [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+- [kickstart](https://github.com/adamjgrant/kickstart) - Kickstart is a CSS library designed for modularity and fast page performance
+- [Box-CSS-Framework](https://github.com/vladocar/Box-CSS-Framework) - Box - CSS Framework
+- [jquery-full-house](https://github.com/catamphetamine/jquery-full-house) - (obsolete, deprecated) fills an html block with predefined text, so that font size automatically adjusts itself to the maximum
+- [screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [CSS3-Click-Chart](https://github.com/impressivewebs/CSS3-Click-Chart) - Example Code and Support Chart for new CSS Features
+- [beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
+- [scriptaculous](https://github.com/madrobby/scriptaculous) - script.aculo.us is an open-source JavaScript framework for visual effects and interface behaviours.
+- [hail2u.github.com](https://github.com/hail2u/hail2u.github.com) - GitHub Pages of Kyo Nagashima.
+- [masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
+- [html5demos](https://github.com/remy/html5demos) - Collection of hacks and demos showing capability of HTML5 apps
+- [colorwheel](https://github.com/jweir/colorwheel) - A scaleable color picker implemented using Raphael and JQuery
+- [html5readiness.com](https://github.com/paulirish/html5readiness.com) - visualization of html5 and css3 features and when they are implemented
+- [Jatt](https://github.com/Mottie/Jatt) - Just another Tooltip
+- [jquery-animate-enhanced](https://github.com/benbarnett/jquery-animate-enhanced) - Extend $.animate() to detect CSS transitions for Webkit, Mozilla, IE&gt;=10 and Opera and convert animations automatically.
+- [shower](https://github.com/shower/shower) - Shower HTML presentation engine
+- [isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
+- [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
+- [dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
+- [chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
+- [FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
+- [jQuery-Image-Gallery](https://github.com/blueimp/jQuery-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
+- [css3patterns](https://github.com/LeaVerou/css3patterns) - The popular CSS3 patterns gallery, now on Github :)
+- [sonic.js](https://github.com/padolsey/sonic.js) - :loop: Create loopy loading animations
+- [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
+- [Markdown-CSS](https://github.com/simonlc/Markdown-CSS) - ðŸ—’ï¸ A style sheet for Markdown
+- [NetLogo](https://github.com/NetLogo/NetLogo) - turtles, patches, and links for kids, teachers, and scientists
+- [zoom.js](https://github.com/hakimel/zoom.js) - zoom in on any element in the DOM
+
+## HaXe 
+
+- [triad](https://github.com/triplefox/triad) - Haxe gaming library
+
+## Haskell 
+
+- [palette](https://github.com/diagrams/palette) - Tools for creating color schemes.
+- [colorful](https://github.com/deweyvm/colorful) - procedural palette generator
+- [webify](https://github.com/ananthakumaran/webify) - webfont generator - converts ttf to woff, eot and svg
+- [Pricetory](https://github.com/thlorenz/Pricetory) - Historical market prices efficient and fast
+
+## Haxe 
+
+- [armorpaint](https://github.com/armory3d/armorpaint) - 3D PBR Texture Painting Software
+- [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
+- [TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
+- [GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments) - 
+
+## Inno Setup 
+
+- [windows-installer](https://github.com/boot2docker/windows-installer) - Install Boot2Docker cli, msys-git and VirtualBox
+
+## Java 
+
+- [SporeModder-FX](https://github.com/emd4600/SporeModder-FX) - The most advanced and modern Spore modding tool.
+- [SnakeEyes21](https://github.com/TuckerBurke/SnakeEyes21) - Modified version of black jack.
+- [Geom_Kisrhombille](https://github.com/johnalexandergreene/Geom_Kisrhombille) - Kisrhombille geometry classes and methods
+- [jugglinglab](https://github.com/jkboyce/jugglinglab) - Juggling Lab juggling animator
+- [talos](https://github.com/rockbite/talos) - Talos Particle Engine
+- [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free) - Cordova AdMob Plugin
+- [cordova-plugin-speechrecognition](https://github.com/pbakondy/cordova-plugin-speechrecognition) - :microphone: Cordova Plugin for Speech Recognition
+- [voxelshop](https://github.com/simlu/voxelshop) - This is the official repositiory for VoxelShop
+- [TrebleMaker](https://github.com/shiehn/TrebleMaker) - TrebleMaker
+- [delverengine](https://github.com/Interrupt/delverengine) - Delver game engine and editor
+- [Canvas2ImagePlugin](https://github.com/devgeeks/Canvas2ImagePlugin) - PhoneGap / Cordova plugin for iOS to save the contents of an HTML canvas to the device's Photo Library
+- [SpeechSynthesisPlugin](https://github.com/macdonst/SpeechSynthesisPlugin) - W3C Web Speech API - Speech synthesis plugin for PhoneGap
+- [FlatMapper](https://github.com/frankiezafe/FlatMapper) - Main repo is here:
+- [j-mc-2-obj](https://github.com/jmc2obj/j-mc-2-obj) - Java-based Minecraft-to-OBJ exporter.
+- [hbci4java](https://github.com/willuhn/hbci4java) - Moved to https://github.com/hbci4j/hbci4java/  - please use the new repository!
+- [cordova-plugin-play-games-services](https://github.com/artberri/cordova-plugin-play-games-services) - Cordova Plugin For Google Play Game Service
+- [TempleOS_MobileApp](https://github.com/johnhagstrom/TempleOS_MobileApp) - 
+- [3x3x3-Rubiks-Cube-Solver](https://github.com/HaginCodes/3x3x3-Rubiks-Cube-Solver) - A Rubik's cube solver that uses the Webcam to solve your cube!
+- [Forsythia](https://github.com/johnalexandergreene/Forsythia) - Forsythia fractal
+- [nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
+- [JavaMusicGenerator](https://github.com/kevbot-git/JavaMusicGenerator) - A MIDI music generator for my Creative Audio project
+- [SporeModder](https://github.com/emd4600/SporeModder) - A modding tool for the videogame Spore.
+- [flowchat](https://github.com/dessalines/flowchat) - A reddit alternative featuring communities and live-updating threaded conversations.
+- [BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout) - You donâ€™t want your apps look and feel boring, do you? Add some bubbles!
+- [colourlovers](https://github.com/triss/colourlovers) - Processing Library Template for Eclipse
+- [SpoutProcessing](https://github.com/leadedge/SpoutProcessing) - Processing library for Spout texture sharing between applications on Windows
+- [AI-909](https://github.com/TaylorPeer/AI-909) - Intelligent drum machine powered by Numenta's Hierarchical Temporal Memory
+- [SocialSketch](https://github.com/dimkir/SocialSketch) - Processing PDE tool for fetching processing sketche sources code from Twitter and viewing in PDE
+- [MineLeapMod](https://github.com/LeapTeam/MineLeapMod) - LeapMotion into Minecraft.
+- [MarkovComposer](https://github.com/anbud/MarkovComposer) - Algorithmic composer based on machine learning using a second order Markov chain.
+- [MultiLayeredVideoSequencer](https://github.com/MAKIO135/MultiLayeredVideoSequencer) - A multi layered video sequencer created with Processing, GSVideo, GLGraphics and ControlP5
+- [computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition
+- [libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
+- [ColorLovers](https://github.com/Spidy88/ColorLovers) - WIP - An Android demo app for interacting with ColourLovers.com
+- [guacamole-client](https://github.com/glyptodon/guacamole-client) - The Guacamole project is now Apache Guacamole (http://guacamole.apache.org/). This repository has been repurposed as the base for the Apache Guacamole packages built for Glyptodon Enterprise.
+- [quzah](https://github.com/danieldk/quzah) - Generate sets of distinct colors
+- [LeapMotionP5](https://github.com/Neurogami/LeapMotionP5) - Processing  library for the Leap Motion controller
+- [tablelayout](https://github.com/EsotericSoftware/tablelayout) - Table-based layout for Java UI toolkits: libgdx, Swing, Android, TWL
+- [spine-superspineboy](https://github.com/EsotericSoftware/spine-superspineboy) - Example platformer game for spine-libgdx.
+- [JDrafter](https://github.com/hashrock/JDrafter) - Illustrator like drawing tool
+- [commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
+- [spritely](https://github.com/gamesbyangelina/spritely) - Spritely is a tool for autogenerating simple placeholder game sprites from images found on the web.
+- [spine-workshop](https://github.com/EsotericSoftware/spine-workshop) - Files from a very, very old Spine coding workshop.
+- [bateman](https://github.com/fearofcode/bateman) - (ABANDONED) Simple stock trading system that optimizes its parameters with particle swarm optimization
+- [SpineJsonToXml](https://github.com/seoushi/SpineJsonToXml) - Spine Tool for converting json to xml format for skeletons and animations.
+- [gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transportâ„¢
+- [Pixel-Reskin](https://github.com/garrettcolas/Pixel-Reskin) - Pixel Reskin is an application meant for pixel artist who need to quickly re-skin multiple sprite sheets.
+- [abmash](https://github.com/alp82/abmash) - Web application automation based on the visible rendered output with Java.
+- [backbone-jax-cellar](https://github.com/ccoenraets/backbone-jax-cellar) - 
+- [scriptographer](https://github.com/scriptographer/scriptographer) - Open-Source Scripting Plugin for Adobe Illustrator
+- [webradio](https://github.com/johanneswuerbach/webradio) - Webradio
+- [WordCram](https://github.com/danbernier/WordCram) - open-source word clouds for Processing
+
+## JavaScript 
+
+- [juggling](https://github.com/debel/juggling) - A JavaScript interpreter and simulator for the site-swap juggling notation
+- [pernyblom.github.io](https://github.com/pernyblom/pernyblom.github.io) - 
+- [neon](https://github.com/Stanko/neon) - Generative art piece made using 2d vector field
+- [Bullet-Hell-Pattern-Generator](https://github.com/ReiwuKleiwu/Bullet-Hell-Pattern-Generator) - A highly customizable program which allows you to create radial bullet-hell patterns.
+- [cli](https://github.com/ElectronForConstruct/cli) - A small utility to manage your ElectronForConstruct projects
+- [tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
+- [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
+- [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - jsdo.it archives
+- [construct-plugins-and-addons](https://github.com/el3um4s/construct-plugins-and-addons) - Plugins for Construct 3
+- [construct-demo](https://github.com/el3um4s/construct-demo) - My collection of demo projects
+- [construct3](https://github.com/athofficial/construct3) - Construct 3 module to connect to portal web socket
+- [heartbeat](https://github.com/abudaan/heartbeat) - a javascript MIDI/Audio sequencer for your browser
+- [mini-padder](https://github.com/Dinir/mini-padder) - A simple and clear input overlay for your gamepads and joysticks.
+- [pose-animator](https://github.com/yemount/pose-animator) - 
+- [bitsy-3d](https://github.com/aloelazoe/bitsy-3d) - bitsy with 3d editor panel
+- [cordova-plugin-openwith](https://github.com/j3k0/cordova-plugin-openwith) - Get your Cordova App in the O.S. "Share" menu on iOS and Android
+- [construct2-identity](https://github.com/JeyDotC/construct2-identity) - 
+- [domino](https://github.com/Ragzouken/domino) - a tool for collaging thoughts
+- [twitch-chat-listener](https://github.com/guilhermerodz/twitch-chat-listener) - Component for OBS Studio that listens your Twitch.tv channel messages. Includes BTTV emojis!
+- [parse-magica-voxel](https://github.com/kevzettler/parse-magica-voxel) - Parse MagicaVoxel .vox files to javascript objects works in browser or server
+- [picobot](https://github.com/Objelisks/picobot) - :paperclip: twitter bot; generates gifs with pico-8 palette
+- [DevTools](https://github.com/jsmars/DevTools) - A collection of scripts and tools for developers categorized by application
+- [electron-c2-preview](https://github.com/Floflis/electron-c2-preview) - Preview Construct 2 games in a Electron prebuilt exe
+- [Colyseus](https://github.com/Keevle/Colyseus) - Construct 2 client for Colyseus compatiable with Colyseus V 12.x
+- [Adobe-Illustrator](https://github.com/Silly-V/Adobe-Illustrator) - Some useful Adobe Illustrator scripts
+- [my-jsdoit-codes](https://github.com/calmbooks/my-jsdoit-codes) - 
+- [jsdoit-backup](https://github.com/naotaro0123/jsdoit-backup) - jsdo.itã®ã‚µãƒ¼ãƒ“ã‚¹çµ‚äº†ã«ä¼´ã„ã‚³ãƒ¼ãƒ‰ã®Backup
+- [hoffnung3000](https://github.com/adzialocha/hoffnung3000) - Platform for decentralized, anonymized, self-curated festivals
+- [atree](https://github.com/anvaka/atree) - Just a simple Christmas tree, based on reddit story
+- [36c3-generator](https://github.com/bleeptrack/36c3-generator) - generator for 36c3 visuals
+- [webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
+- [Aseprite-Scripts](https://github.com/haloflooder/Aseprite-Scripts) - Scripts for Aseprite!
+- [shadertoy-frame-exporter](https://github.com/tdhooper/shadertoy-frame-exporter) - Save PNG frames from Shadertoy
+- [gunswap](https://github.com/yDgunz/gunswap) - Javascript Siteswap Animator
+- [pico8-mobile-template](https://github.com/nucleartide/pico8-mobile-template) - Custom HTML template for PICO-8 and mobile devices.
+- [workshop-webgl-glsl](https://github.com/mattdesl/workshop-webgl-glsl) - A workshop on WebGL and GLSL
+- [jszm](https://github.com/sehugg/jszm) - A tiny public-domain Z-machine interpreter written in JavaScript/ES6
+- [bahnhofsquartett](https://github.com/pbock/bahnhofsquartett) - A card game with train stations and open data
+- [spine.ts](https://github.com/flyover/spine.ts) - A TypeScript API for the Spine JSON animation data format.
+- [serverless-videochat](https://github.com/namaggarwal/serverless-videochat) - This is a peer to peer video chat service. For signaling you need to exchange information on a separate chat session.
+- [spacekit](https://github.com/typpo/spacekit) - Javascript library for 3D space visualizations
+- [hedron](https://github.com/nudibranchrecords/hedron) - Perform live shows with your three.js creations
+- [generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [emerald-mine](https://github.com/steffest/emerald-mine) - Javascipt/Emscipten port of the X11 Emerald Mine engine - play classic Amiga Emerald Mine in your browser
+- [BassoonTracker](https://github.com/steffest/BassoonTracker) - Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files
+- [c3_spine_plugin](https://github.com/gritsenko/c3_spine_plugin) - Spine plugin for construct 3
+- [swag-api-construct2-dev](https://github.com/TeachMeInc/swag-api-construct2-dev) - Repository for the SWAG API Connect2 Plugin
+- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+- [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
+- [twit](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API)
+- [layered-vj](https://github.com/ko-yelie/layered-vj) - VJ web app. Drag and drop to switch visuals.
+- [e-sum](https://github.com/anvaka/e-sum) - Visualization of exponential sums
+- [Construct2-OK-iframe-SDK](https://github.com/DevMule/Construct2-OK-iframe-SDK) - Odnoklassniki social network api sdk
+- [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - .wav/.ogg/.mp3 recorder with Web Audio API
+- [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
+- [android-messages-for-desktop](https://github.com/Android-Messages-For-Desktop/android-messages-for-desktop) - An Electron wrapper around android messages web interface enhanced with native notifications and badges
+- [Pilot](https://github.com/hundredrabbits/Pilot) - Orca's best friend.
+- [c3-reactpluginexample](https://github.com/nagyv/c3-reactpluginexample) - This is an example plugin to render UI with React in Construct 3.
+- [MusiViz](https://github.com/flaredragon/MusiViz) - A Visualization App powered by Spotify which helps better understand your favourite music
+- [wikidata-cardgame](https://github.com/blinry/wikidata-cardgame) - Use Wikidata to generate fact cards on arbitrary topics!
+- [cut-and-project-tiling](https://github.com/gglouser/cut-and-project-tiling) - Cut-and-project tiling generator.
+- [infinitune](https://github.com/jakealbaugh/infinitune) - Turning epochs into unique procedurally-generated musical compositions.
+- [Illustrator-Scripts-Archive](https://github.com/Shanfan/Illustrator-Scripts-Archive) - Scripts to perform pixel perfect vector manipulations in Illustror.
+- [illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts
+- [Illustrator](https://github.com/kilkucom/Illustrator) - Adobe Illustrator Scripts and tricks
+- [walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG elements.
+- [nw-offscreen-tab](https://github.com/rogerwang/nw-offscreen-tab) - Offscreen rendering web pages with NW.js; Supports accelerated graphics and plugins etc.
+- [Switchcase-construct-plugin](https://github.com/andygilbert/Switchcase-construct-plugin) - C2 and C3 version of the Switch-Case plugin for constuct
+- [modded-beepbox-2.3](https://github.com/Theepicosity/modded-beepbox-2.3) - 
+- [Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
+- [Construct2-PluginDrawline](https://github.com/Okimi-/Construct2-PluginDrawline) - Pluging for Construct2 for drawing lines at runtime
+- [VOIP-C2](https://github.com/NotBadDevs/VOIP-C2) - A voice chat plugin for Construct 2
+- [presentations](https://github.com/rssilva/presentations) - 
+- [c3addons](https://github.com/Straskal/c3addons) - Construct 3 addons
+- [rallax.js](https://github.com/ChrisCavs/rallax.js) - Dead simple parallax scrolling.
+- [construct-save-share-image](https://github.com/andygilbert/construct-save-share-image) - Construct plugin to allow native image saving and sharing on iOS and Android
+- [omdb-graphql-wrapper](https://github.com/xxczaki/omdb-graphql-wrapper) - :rocket: GraphQL wrapper for the OMDb API
+- [35c3-circuit-generator](https://github.com/bleeptrack/35c3-circuit-generator) - Generative circuit generator in 35c3 style
+- [construct-plugins](https://github.com/erenertugrul/construct-plugins) - plugins of construct 2&3
+- [bulletml.js](https://github.com/daishihmr/bulletml.js) - JavaScript BulletML library.
+- [multiplayer-drawing-prototype](https://github.com/endel/multiplayer-drawing-prototype) - Multiplayer Drawing Prototype using Construct3 and Colyseus
+- [behavior-system](https://github.com/luizbills/behavior-system) - :package: A behavior system for JavaScript games
+- [rough](https://github.com/colludium/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [wallpaper_engine_plitri](https://github.com/sftblw/wallpaper_engine_plitri) - simple Construct 2 - Wallpaper Engine plugin
+- [timelinefx](https://github.com/gooddoggy/timelinefx) - javascript port of timelinefx particle system
+- [overflower](https://github.com/bleeptrack/overflower) - 
+- [simple-construct2-plugins](https://github.com/menkaix/simple-construct2-plugins) - if you ever need just a list of about 37000 french words to use in your construct2 game
+- [Json-to-C2-Array](https://github.com/jamesqquick/Json-to-C2-Array) - This is a Construct 2 plugin used to convert a raw JSON array to a JSON string that is readable by a Construct 2 Array
+- [webaudio-mod-player](https://github.com/jhalme/webaudio-mod-player) - MOD/S3M/XM module player for Web Audio
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [isect](https://github.com/anvaka/isect) - Segments intersection detection library
+- [color-names](https://github.com/meodai/color-names) - Massive color dictionary ðŸŒˆ
+- [golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that creates cohesive color schemes.
+- [Origami](https://github.com/robbykraft/Origami) - computational origami
+- [pickr](https://github.com/Simonwep/pickr) - ðŸŽ¨ Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
+- [critters](https://github.com/GoogleChromeLabs/critters) - ðŸ¦” A Webpack plugin to inline your critical CSS and lazy-load the rest.
+- [horror](https://github.com/jxnblk/horror) - :scream: React HTML elements with CSS-in-JS
+- [frag3d.js](https://github.com/but0n/frag3d.js) - WebGL shader tools
+- [flexibility](https://github.com/jonathantneal/flexibility) - A JavaScript polyfill for Flexbox
+- [Construct2-Plugins](https://github.com/sabereen/Construct2-Plugins) - MQT Construct 2 Plugins
+- [timelapse.js](https://github.com/enkimute/timelapse.js) - :video_camera: Video retiming for the web.
+- [simpleqrscanner](https://github.com/rafaelfl/simpleqrscanner) - Simple QR Code Scanner plugin for Construct 2
+- [eu-cookie-opt-in](https://github.com/creativeaura/eu-cookie-opt-in) - This is cookie opt in-out library as per  the new EU law released on the 26th May.
+- [spine-scripts](https://github.com/EsotericSoftware/spine-scripts) - Scripts to export from PhotoShop and other tools to Spine's JSON data format.
+- [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder) - Cross browser audio/video/screen recording. It supports Chrome, Firefox, Opera and Microsoft Edge. It even works on Android browsers. It follows latest MediaRecorder API standards and provides similar APIs.
+- [Tan4iki](https://github.com/dzanis/Tan4iki) - Construct 2 Game  https://dzanis.github.io/Tan4iki/
+- [RoboGame](https://github.com/roland006/RoboGame) - C2 game
+- [c2-network](https://github.com/norman74/c2-network) - 
+- [minesweeper](https://github.com/wengh/minesweeper) - Minesweeper+ powered by Construct2
+- [C2Serial](https://github.com/ikzq/C2Serial) - Construct 2 Serial Plugin for NW
+- [looper](https://github.com/spite/looper) - Looperepool
+- [phaser3-rex-notes](https://github.com/rexrainbow/phaser3-rex-notes) - Notes of phaser3 engine
+- [SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate death screens from Sierra games
+- [c2-ChangeCSSID](https://github.com/Thndr/c2-ChangeCSSID) - Plugin for Construct 2 to find a specific CSS ID and replace it. Used in conjunction with the HTML Input functions that C2 provides.
+- [y8-construct-sdk](https://github.com/webgroup-limited/y8-construct-sdk) - Construct 2 (c2) Plugin for Y8
+- [colors.js](https://github.com/gianghl1983/colors.js) - It colorifies your html page just by adding a simple js file :)
+- [mandingajs](https://github.com/pacoelayudante/mandingajs) - MandingaJS, plugin for linking de planes of Construct 2 and Javascript together
+- [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+- [eventPluginConstruct2](https://github.com/mattcusprime/eventPluginConstruct2) - A plugin to create a sequence of events in C2
+- [wordbin](https://github.com/cktang88/wordbin) - A place to store text snippets (https://wordbin.netlify.com/)
+- [GMEdit](https://github.com/GameMakerDiscord/GMEdit) - A high-end code editor for GameMaker: Studio / GameMaker Studio 2
+- [jspaint](https://github.com/1j01/jspaint) - ðŸŽ¨ Classic MS Paint, ï¼²ï¼¥ï¼¶ï¼©ï¼¶ï¼¥ï¼¤ + âœ¨Extras
+- [AI-Kingdoms](https://github.com/API-Beast/AI-Kingdoms) - ProcJam 2014
+- [Geometry.js](https://github.com/nijikokun/Geometry.js) - Javascript Geometry Class for Games / Etc
+- [SinChord](https://github.com/ryukau/SinChord) - Audio synthesizer that focused to make complex chords.
+- [mutag](https://github.com/chunqiuyiyu/mutag) - A simple library to get metadata of MP3 files.
+- [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - A comprehensive collection of front end tutorials and resources for developers
+- [EthereumC2Plugin](https://github.com/jquentin/EthereumC2Plugin) - Two plugins to integrate the Ethereum Blockchain in your Construct 2 game
+- [illustratorPlugin-Examples](https://github.com/ArtezGDA/illustratorPlugin-Examples) - Example of an Illustrator (Plugin) script to automatically draw outlines
+- [indesign-scripts](https://github.com/melchiorb/indesign-scripts) - Useful script(s) for Adobe InDesignÂ®Â©â„¢.
+- [ai-scripts](https://github.com/egagarin/ai-scripts) - Scripts for Adobe Illustrator.
+- [vox.js](https://github.com/daishihmr/vox.js) - MagicaVoxel *.vox file parser and Three.js mesh builder.
+- [psst](https://github.com/chandru89new/psst) - js function that handles drag-drop and paste events in your web app
+- [Plume](https://github.com/ragekit/Plume) - Scratchpad as a simple html page
+- [IllustratorMapTileExporter](https://github.com/Omnifi/IllustratorMapTileExporter) - A JavaScript plugin to export maptiles from Adobe Illustrator
+- [acebusters-economy](https://github.com/acebusters/acebusters-economy) - Acebusters Economy Contracts
+- [PonziCoin](https://github.com/reparadocs/PonziCoin) - A Social Experiment Pyramid Scheme
+- [powhcrab16](https://github.com/powhcrab16/powhcrab16) - He just bought in. Dump it.
+- [flusight](https://github.com/reichlab/flusight) - Influenza forecasts visualizer
+- [ShaderBlocks](https://github.com/sketchpunk/ShaderBlocks) - 
+- [cryptopunks](https://github.com/larvalabs/cryptopunks) - Collectible 8-bit characters on the Ethereum blockchain.
+- [wallet](https://github.com/iotaledger/wallet) - IOTA Wallet
+- [codepan](https://github.com/egoist/codepan) - Like codepen and jsbin but works offline.
+- [TenMinus](https://github.com/jquentin/TenMinus) - 
+- [webaudiofont](https://github.com/surikov/webaudiofont) - Use full GM set of musical instruments to play MIDI and single sounds or effects. Support for reverberation and equaliser. No plugins, no Flash. Pure HTML5 implementation compatible with desktop and mobile browser. See live examples.
+- [metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [c2-numbertoalias](https://github.com/matosummer/c2-numbertoalias) - Construct2 plugin for change number to alias/symbol
+- [crypto-currencies-values-ext](https://github.com/CVarisco/crypto-currencies-values-ext) - Google Chrome extension to show crypto currencies values ðŸ’°ðŸ“ˆ
+- [qrize](https://github.com/qrize/qrize) - JavaScript library for generating tiny QR codes for your web pages.
+- [twitter-analysis](https://github.com/MichaelKreil/twitter-analysis) - Framework, data and results of the twitter analysis of "social bots, fake news and filter bubbles"
+- [JeyDotc-C2-Extensions](https://github.com/JeyDotC/JeyDotc-C2-Extensions) - Construct2 extensions by JeyDotC
+- [auto-like-my-gf-insta-pic](https://github.com/gulzar1996/auto-like-my-gf-insta-pic) - Bot to automatically like your friend's Instagram post and notify you on Slack
+- [joy](https://github.com/ncase/joy) - make happy little programs
+- [pixel-shaders](https://github.com/electronicwhisper/pixel-shaders) - 
+- [via.js](https://github.com/AshleyScirra/via.js) - Write JS code that runs in a different context. E.g. use the DOM in a Web Worker.
+- [construct2-plugin](https://github.com/ElectronForConstruct/construct2-plugin) - 
+- [muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
+- [gh-star-repos](https://github.com/progrmoiz/gh-star-repos) - :octocat: Github user repo by star
+- [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
+- [animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
+- [Magistross.github.io](https://github.com/Magistross/Magistross.github.io) - 
+- [marvel-vue-demo](https://github.com/xphong/marvel-vue-demo) - Demo for Marvel API + Vuepack (Vue + Vuex) Blog Post https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
+- [c2-scorm-plugin](https://github.com/Mimiste/c2-scorm-plugin) - A Scorm 1.2 and 2004 Plugin for Construct 2
+- [ping.js](https://github.com/alfg/ping.js) - :bell: Ping the web with Javascript.
+- [hexo-theme-hueman](https://github.com/ppoffice/hexo-theme-hueman) - A redesign of Alx's wordpress theme Hueman, ported to Hexo.
+- [c2-addon-assistant](https://github.com/TobyReeno/c2-addon-assistant) - Construct addon development assistant
+- [c2-addon-parser](https://github.com/Armaldio/c2-addon-parser) - Extract informations / ACE table from a Construct 2 plugin
+- [C2_Plugins_Pode](https://github.com/JohnnySheffield/C2_Plugins_Pode) - Pode's repository for Construct2 plugins & behaviors
+- [inline-comments-for-c2](https://github.com/jpiamjariyakul/inline-comments-for-c2) - In-line (wedgable) comments for Construct 2.
+- [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
+- [fontselect-jquery-plugin](https://github.com/tommoor/fontselect-jquery-plugin) - A font selector for the Google Web Fonts api
+- [Construct2Ink](https://github.com/CeyFun/Construct2Ink) - An addon for Construct 2 made with inkjs by y-lohse.
+- [C2-Plugin-Tween](https://github.com/colludium/C2-Plugin-Tween) - A tween behavior plugin for c2, based on easing.js and bezier-easing library
+- [wavefunctioncollapse](https://github.com/kchapelier/wavefunctioncollapse) - Javascript port of https://github.com/mxgmn/WaveFunctionCollapse
+- [PocketVJ-CP-v3](https://github.com/magdesign/PocketVJ-CP-v3) - PocketVJ 3.x Control Panel
+- [hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
+- [tumult](https://github.com/ScottyFillups/tumult) - Yet another Javascript noise library :leaves::seedling::deciduous_tree:
+- [ReColorImage](https://github.com/MarmisDev/ReColorImage) - One of the tools to re-color the image
+- [colyseus-construct-plugin](https://github.com/polpoy/colyseus-construct-plugin) - Colyseus client adapter for Construct 2.
+- [colyseus-construct-plugin-example](https://github.com/polpoy/colyseus-construct-plugin-example) - 
+- [tilt.js](https://github.com/gijsroge/tilt.js) - A tiny 60+fps parallax tilt hover effect for jQuery.
+- [quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript
+- [musicgenerator](https://github.com/Riib11/musicgenerator) - This is a program that generates tones according to algorithms that may end up sounding like music
+- [amplitudejs](https://github.com/521dimensions/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+- [flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
+- [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript.
+- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [Editor](https://github.com/Xtruct/Editor) - The Xtruct Editor
+- [colourandom](https://github.com/peiche/colourandom) - Twenty Sixteen Child Theme with color randomization, powered by the ColourLovers API.
+- [jsconf-2017](https://github.com/nestedloops/jsconf-2017) - 
+- [AIML.js](https://github.com/raethlein/AIML.js) - AIML Interpreter written in node.js
+- [Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Randomly generated Turing machines draw images and animations on a 2D canvas.
+- [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
+- [designgenerator](https://github.com/sha2017/designgenerator) - The Free Speech / SHA Flag generator in javascript for dank effects, this is for the house, the car, the boat, the village. Most fun for you and your dog.
+- [wp-editor](https://github.com/benjaminprojas/wp-editor) - WP Editor
+- [PitchDetect](https://github.com/cwilso/PitchDetect) - Pitch detection in Web Audio using autocorrelation
+- [Facebook-Reactions-JS](https://github.com/99points/Facebook-Reactions-JS) - A simple & easy solution to add Facebook style "Like" button with reactions.
+- [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+- [icon-machine](https://github.com/BrianMacIntosh/icon-machine) - Web application for randomly generating pixel art icons.
+- [nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
+- [MusicalInteractions](https://github.com/codrops/MusicalInteractions) - Some experimental ideas for playful musical interactions powered by MIDI.js.
+- [wordseer](https://github.com/Wordseer/wordseer) - The WordSeer text analysis tool, written in Flask.
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: ðŸŒª Super-fast 3D framework for Web Applications ðŸ¥‡ & Games ðŸŽ®. Based on Three.js
+- [airconsole-construct2](https://github.com/AirConsole/airconsole-construct2) - Construct2 Plugin for AirConsole
+- [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. ðŸŽ¨
+- [legalese-indesign](https://github.com/legalese/legalese-indesign) - Adobe InDesign converts the filled XML to PDF.
+- [InDesign-Tools](https://github.com/bozhink/InDesign-Tools) - Tools for automated processing in Adobe InDesign
+- [fontSwitcher](https://github.com/freginold/fontSwitcher) - Dynamically add Google & Adobe web fonts and apply them on the fly.  Create or add font stacks with a single line of JavaScript.
+- [mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+- [ShaderParticleEngine](https://github.com/squarefeet/ShaderParticleEngine) - A GLSL-heavy particle engine for THREE.js. Originally based on Stemkoski's great particle engine (see README)
+- [zoom.js](https://github.com/nishanths/zoom.js) - CONTRIBUTIONS ONLY: No jQuery dependency port of fat/zoom.js
+- [reddit-heatmap](https://github.com/vinnyoodles/reddit-heatmap) - Find your Reddit consumption
+- [wo-ist-markt.github.io](https://github.com/wo-ist-markt/wo-ist-markt.github.io) - A map visualization of periodic markets in different cities.
+- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [clubber](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations
+- [ui-knob-behavior-c2](https://github.com/gidenilson/ui-knob-behavior-c2) - Knob behavior to Construct2
+- [construct2-lore](https://github.com/CodeOtter/construct2-lore) - Event-based system for Construct2
+- [c2-project-translate](https://github.com/Armaldio/c2-project-translate) - 
+- [tvcl](https://github.com/hiquest/tvcl) - A simple TV show tracker CLI
+- [primitive.js](https://github.com/ondras/primitive.js) - JS port of primitive.lol
+- [react-construct](https://github.com/MarcoWorms/react-construct) - React + Construct2
+- [islands](https://github.com/exupero/islands) - An island generator
+- [jsmidgen](https://github.com/dingram/jsmidgen) - A pure-JavaScript MIDI generator
+- [Otomata](https://github.com/stelabouras/Otomata) - Otomata music generator made in HTML5 using canvas
+- [Genesis](https://github.com/samj1912/Genesis) - Almighty Book Downloader
+- [vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
+- [plainCanvas](https://github.com/shspage/plainCanvas) - Adobe Illustrator add-on which loads and executes Tool type script files using paper.js.
+- [AI_MeterMuster](https://github.com/Creatide/AI_MeterMuster) - MeterMuster is Adobe Illustrator script for creating circular scales.
+- [illustrator-scripts](https://github.com/nvkelso/illustrator-scripts) - JavaScript ExtendScript for automating and extending Adobe Illustrator
+- [illustrator-scripts](https://github.com/shspage/illustrator-scripts) - JavaScript scripts for Adobe Illustrator CSx.
+- [resolume-collector](https://github.com/stellatigre/resolume-collector) - "Collect All & Save" for Resolume.  Intended for migrating or archiving whole compositions.
+- [gif-gazer](https://github.com/stellatigre/gif-gazer) - basically Videodrone for GIFs
+- [storm](https://github.com/wybiral/storm) - Simulate lightning and thunder using Javascript.
+- [C2-Plugin---Not-Quite-Random](https://github.com/colludium/C2-Plugin---Not-Quite-Random) - 
+- [beame-insta-ssl](https://github.com/beameio/beame-insta-ssl) - HTTP is over. Donâ€™t get left behind. Get free, secure HTTPS tunneling to your machine! Quick start here!
+- [extrude-by-path](https://github.com/substack/extrude-by-path) - extrude a 2d shape along a 3d path to build a simplicial complex
+- [github-audio](https://github.com/debugger22/github-audio) - Listen to music generated by events happening across GitHub :octocat: ðŸŽ·
+- [uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
+- [front_ninja](https://github.com/alberto-hortelano/front_ninja) - The free and open source front end development environment for webs and apps
+- [jsfxr-scirra-construct-2](https://github.com/Oxnardson/jsfxr-scirra-construct-2) - 
+- [MobileMedias](https://github.com/BenoitFreslon/MobileMedias) - Generate Icons, iTunes & Google play screenshots, Splash screens with Photoshop scripts
+- [pageAccelerator](https://github.com/EvandroLG/pageAccelerator) - A very light solution to load web pages faster
+- [checkbox.css](https://github.com/720kb/checkbox.css) - :ballot_box_with_check: Tiny set of pure CSS animations for your checkbox input. https://720kb.github.io/checkbox.css/
+- [vexwarp](https://github.com/0xfe/vexwarp) - Audio Time Stretching and Pitch Shifting
+- [beats](https://github.com/mikesea/beats) - A simple drum sequencer, built with React.
+- [atom-tonetype](https://github.com/jhsu/atom-tonetype) - generate music as you type :musical_note:
+- [TinyMusic](https://github.com/kevincennis/TinyMusic) - A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
+- [react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
+- [terrain](https://github.com/mewo2/terrain) - Fantasy map generator
+- [htmltemplategenerator](https://github.com/Chalarangelo/htmltemplategenerator) - An HTML5 template page generator.
+- [superembed.js](https://github.com/corbindavenport/superembed.js) - Fluid width for YouTube, Vimeo, Vine, VideoPress, DailyMotion, and more embedded videos.
+- [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
+- [palettable](https://github.com/alecortega/palettable) - Create color palettes using the knowledge of millions of designers.
+- [dead-simple-audio-recorder](https://github.com/maxenceC/dead-simple-audio-recorder) - Record audio input from the user microphone, export to .wav or ArrayBuffer, uses web workers & Recorderjs
+- [chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
+- [openPlanB](https://github.com/MichaelKreil/openPlanB) - Konvertiert plan-Dateien in csv
+- [GLITCHGIFVJ](https://github.com/AZOPCORP/GLITCHGIFVJ) - A 100% HTML5 JAVASCRIPT VJ SOFTWARE THAT RUN IN BROWSER
+- [party-mode](https://github.com/preziotte/party-mode) - An experimental music visualizer using d3.js and the web audio api.
+- [decoraki](https://github.com/vitorabner/decoraki) - :house: 3D Simulator for interior design
+- [djent](https://github.com/RossMcMillan92/djent) - A metal breakdown generator
+- [javascript-mode-processing](https://github.com/fjenett/javascript-mode-processing) - Former ProcessingJS mode (Processing 1.5) that became JavaScript mode (Processing 2.0 beta) that has now been moved out of the Processing IDE.
+- [quietflow.js](https://github.com/paulkr/quietflow.js) - âœ¨ A jQuery library for creating beautiful dynamic or static visual effects.
+- [audio-visualizations](https://github.com/stacyhuang/audio-visualizations) - Audio effects and visualizations with Web Audio API
+- [milkshake](https://github.com/gattis/milkshake) - WebGL Milkdrop Preset Renderer
+- [brexit.js](https://github.com/indus/brexit.js) - For all the people who think borders would help to make anything better!
+- [Construct2-Duel-Simulator](https://github.com/joeyapa/Construct2-Duel-Simulator) - A plugin for Construct 2. A fight duel simulator intended for Construct 2 game developers.
+- [NodeMMOServer](https://github.com/olixis/NodeMMOServer) - Backend for Phaser and Construct2(OpenMMO) online games
+- [OpenMMO](https://github.com/olixis/OpenMMO) - Construct2 plugin for realtime comunnication between players
+- [construct2-speech](https://github.com/chrisizatt/construct2-speech) - This is a speech recognition plugin for construct2, the game engine.
+- [JSON_for_construct2](https://github.com/FrenchYann/JSON_for_construct2) - JSON plugin for Construct2
+- [c2-translate](https://github.com/Armaldio/c2-translate) - A construct 2 plugin that allow you to translate
+- [webaudio-controls](https://github.com/g200kg/webaudio-controls) - GUI parts library for Web application using WebComponents
+- [gl-rock](https://github.com/Erkaman/gl-rock) - Procedural Generation of Rocks in WebGL
+- [bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
+- [jquery-background-video](https://github.com/BGStock/jquery-background-video) - Easily improve your HTML5 background videos with a single line of jQuery
+- [visual-center](https://github.com/javierbyte/visual-center) - Find the visual center of your images.
+- [lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [angularjs-hubbub](https://github.com/PubNubDevelopers/angularjs-hubbub) - Angular JS HubBub chat application
+- [MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - â™¬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON objects.
+- [hublin](https://github.com/linagora/hublin) - DEPRECATED - An easy and free video conference service based on WebRTC
+- [scrolly-gif](https://github.com/mathisonian/scrolly-gif) - Animate a gif as the user scrolls the page
+- [quiet-js](https://github.com/quiet/quiet-js) - Transmit data with sound using Web Audio -- Javascript binding for libquiet
+- [3dp.rocks](https://github.com/MarkDurbin104/3dp.rocks) - All source from 3DP.Rock website and blog
+- [VisualMusic](https://github.com/surunzi/VisualMusic) - HTML5 music visualization (Chrome only)
+- [moggio](https://github.com/mjibson/moggio) - A multi-source music player in Go
+- [loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
+- [taxontree](https://github.com/bpodgursky/taxontree) - Visualization of the taxonomic tree of all known species
+- [photoshop-google-maps-tile-cutter](https://github.com/bramus/photoshop-google-maps-tile-cutter) - PS_Bramus.GoogleMapsTileCutter - A Photoshop script that cuts image tiles from any image for direct use with Google Maps
+- [tiler](https://github.com/borbit/tiler) - Library for working with infinite grid of tiles.
+- [tabletop_to_leaflet](https://github.com/csessig86/tabletop_to_leaflet) - Template for converting data from Google spreadsheet to Leaflet using Tabletop
+- [C2Plugins](https://github.com/rexrainbow/C2Plugins) - Plugins of Construct 2
+- [Poker](https://github.com/geobalas/Poker) - An online poker app
+- [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+- [strichliste](https://github.com/hackerspace-bootstrap/strichliste) - DEPRECATED - strichliste is a tool to replace a tally sheet inside a hackerspace, this module is the api for the strichliste
+- [Creature_WebGL](https://github.com/kestrelm/Creature_WebGL) - 2D Skeletal Animation WebGL Runtimes for Creature ( PixiJS, PhaserJS, ThreeJS, BabylonJS, Cocos Creator )
+- [Gesturio.github.io](https://github.com/Gesturio/Gesturio.github.io) - Special for #3DJam
+- [goojs](https://github.com/GooTechnologies/goojs) - 3D WebGL engine.
+- [Legofy](https://github.com/Wildhoney/Legofy) - Legofy your images with retina support using SVG.
+- [leapgim](https://github.com/Zeukkari/leapgim) - Leap Motion Gesture Input Mapper
+- [vrt](https://github.com/oddmarthon-lende/vrt) - Realtime Visualization Application using HTML5 in the browser
+- [LeapJS-Plugin-for-Construct-2](https://github.com/thehen/LeapJS-Plugin-for-Construct-2) - An implementation of LeapJS for the Construct 2 game engine
+- [leap-midi-instrument](https://github.com/anselanza/leap-midi-instrument) - Use Leap Motion to generate MIDI output for other software
+- [Finger-twist](https://github.com/ebeal/Finger-twist) - Leap Motion Web App
+- [LeapWebVisualizer](https://github.com/markmsmith/LeapWebVisualizer) - Project to visualize the hand and finger data from the Leap Motion in a web browser
+- [leapsound](https://github.com/pschroedl/leapsound) - A Leap Motion js and Web Audio API Experiment
+- [leap-tube](https://github.com/kazukimochizuki/leap-tube) - LeapMotionã‚’ä½¿ç”¨ã—ãŸéŸ³ã‚²ãƒ¼ã€‚
+- [zoomooz](https://github.com/jaukia/zoomooz) - An easy-to-use jQuery plugin for making zooming web pages.
+- [blenderaddons](https://github.com/varkenvarken/blenderaddons) - It's all in the name: these are Blender add-ons ;-)
+- [ShaderFrog-Runtime](https://github.com/AndrewRayCode/ShaderFrog-Runtime) - Runtime library for ShaderFrog
+- [StarCraft](https://github.com/gloomyson/StarCraft) - HTML5 version of StarCraft game
+- [drive-music-player](https://github.com/gsuitedevs/drive-music-player) - Fully client side Music Player for Google Drive
+- [jquery-collagePlus](https://github.com/ed-lea/jquery-collagePlus) - Create an image gallery like Google+ Albums
+- [chromatic-ui](https://github.com/crispymtn/chromatic-ui) - The open source parts of Chromatic
+- [FlodJS](https://github.com/photonstorm/FlodJS) - JavaScript Amiga Tracker Player (SoundTracker, ProTracker and lots more formats)
+- [CODEF](https://github.com/N0NameN0/CODEF) - Canvas Oldskool Demo Effects Framework
+- [ai2html](https://github.com/newsdev/ai2html) - A script for Adobe Illustrator that converts your Illustrator artwork into an html page.
+- [responsively-lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images
+- [color-mixer](https://github.com/kosamari/color-mixer) - Manipulate colors like you write Sass. Mix some colors like you paint.
+- [spine-c2-plugin](https://github.com/flyover/spine-c2-plugin) - A Construct 2 plugin for creating a Spine animation object.
+- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [tapatar](https://github.com/Tapfiliate/tapatar) - 
+- [soundplayer-widget](https://github.com/kosmetism/soundplayer-widget) - Embeddable SoundCloud players
+- [hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
+- [ParisHilton.js](https://github.com/fbrandel/ParisHilton.js) - "ParisHilton.js - removes everything between the &lt;head&gt;&lt;/head&gt; tags." via https://twitter.com/iamdevloper/status/461635611141898240
+- [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit
+- [HTML5_Genetic_Cars](https://github.com/red42/HTML5_Genetic_Cars) - A genetic algorithm car evolver in HTML5 canvas.
+- [polyhedronisme](https://github.com/levskaya/polyhedronisme) - A tool to construct and explore polyhedra.
+- [Up1](https://github.com/Upload/Up1) - Client-side encrypted image host web server
+- [enhance.js](https://github.com/round/enhance.js) - Not maintained. Zoom & dynamically crop images. Based on http://github.com/fat/zoom.js by @fat.
+- [input-suggest](https://github.com/1000ch/input-suggest) - Show suggestions when you input.
+- [favicon-bug](https://github.com/benjamingr/favicon-bug) - Demonstrates Chrome/Firefox/Safari download 1GB favicons
+- [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+- [loop-drop-app](https://github.com/mmckegg/loop-drop-app) - [unmaintained] MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs
+- [global-game-jam-2015](https://github.com/mvcds/global-game-jam-2015) - 
+- [c2-car-physics](https://github.com/qertis/c2-car-physics) - Construct2 CarPhysics Behavior ðŸš—
+- [teddyjs](https://github.com/technohippy/teddyjs) - Experimental Implementation of Teddy in JS
+- [visual6502](https://github.com/trebonian/visual6502) - Transistor level 6502 Hardware Simulation in Javascript
+- [visulator](https://github.com/thlorenz/visulator) - A machine emulator that visualizes how each instruction is processed
+- [Knwl.js](https://github.com/benhmoore/Knwl.js) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
+- [npp](https://github.com/emmetio/npp) - Emmet plugin for Notepad++
+- [viktor](https://github.com/nicroto/viktor) - Synthesizer built on the WebAudio API.
+- [juno106](https://github.com/stevengoldberg/juno106) - Emulation of the Roland Juno-106 analog synth
+- [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis
+- [agar.io-clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
+- [postcss-cssnext](https://github.com/MoOx/postcss-cssnext) - `postcss-cssnext` has been deprecated in favor of `postcss-preset-env`.
+- [me-api](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations
+- [c2hue](https://github.com/jakubkoziol/c2hue) - Philips Hue plugin for Construct 2
+- [pagePark](https://github.com/scripting/pagePark) - I wrote this simple Node.js folder-based HTTP server that serves static and dynamic pages for domains I've bought but not yet used.
+- [raphael-paragraph](https://github.com/jbreckmckye/raphael-paragraph) - Add paragraphs of wrapped text in Raphael.js (deprecated)
+- [framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
+- [dodgercms](https://github.com/ChrisZieba/dodgercms) - A static markdown CMS built on top of Amazon S3.
+- [Twitter-Post-Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter 1.1 API. Pure JavaScript! By Jason Mayes
+- [FractalLab](https://github.com/zz85/FractalLab) - WebGL interactive fractal renderer
+- [twitter-growthhack-toolkit](https://github.com/karanjthakkar/twitter-growthhack-toolkit) - Growthhacking toolkit for twitter
+- [egg.js](https://github.com/mikeflynn/egg.js) - A simple javascript library to add easter eggs to web pages.
+- [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+- [amok](https://github.com/amokjs/amok) - Development on hold, playing around with different approaches at the moment
+- [typeslab](https://github.com/geelen/typeslab) - Simple, shareable typographic posters
+- [kolor](https://github.com/Justineo/kolor) - Color manipulation in sexy syntax.
+- [syncscroll](https://github.com/asvd/syncscroll) - scroll two or more areas simultaneously
+- [tangram-docs](https://github.com/tangrams/tangram-docs) - Documentation for the Tangram map renderer
+- [Banboom](https://github.com/banboocha/Banboom) - jodo de aviÃ£o
+- [chopbuddy](https://github.com/skaulana/chopbuddy) - ChopBuddy - A Social Game for Healthy Eating
+- [textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
+- [cartodb](https://github.com/CartoDB/cartodb) - Location Intelligence & Data Visualization tool
+- [Shadershop](https://github.com/cdglabs/Shadershop) - 
+- [newtab-angular](https://github.com/jakke-korpelainen/newtab-angular) - Custom New Tab -page (AngularJs, RequireJS)
+- [sapo.js](https://github.com/doup/sapo.js) - Interactive procedural texture generator for fun
+- [gibber](https://github.com/gibber-cc/gibber) - An audiovisual live coding environment for the browser
+- [goya](https://github.com/jackschaedler/goya) - Pixel art editor built on Clojurescript + Om
+- [c2-state-machine](https://github.com/anpur/c2-state-machine) - State Machine behavior plugin for Construct 2
+- [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [Spine-EaselJS](https://github.com/patrickmatte/Spine-EaselJS) - Rendering a Spine animation with EaselJS
+- [colorSpike](https://github.com/aschwa32/colorSpike) - randomize color schemes with javascript
+- [Color-Schemes](https://github.com/TexasWebDevelopers/Color-Schemes) - Javascript to build color schemes for the sight impaired
+- [Palettes](https://github.com/eempey/Palettes) - Javascript color picker for planning website color schemes
+- [colors](https://github.com/mlvl/colors) - Flat UI based color scheme for visualizations
+- [cocolour](https://github.com/zenozeng/cocolour) - Color schemes generator based on machine learning
+- [bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
+- [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
+- [github-star-tagger](https://github.com/ockle/github-star-tagger) - A web app to allow better organisation of your Github stars
+- [starving](https://github.com/bryangarza/starving) - github stars viewer
+- [GitHub-Stars-Viewer](https://github.com/jeremyfelt/GitHub-Stars-Viewer) - A script to aid in viewing recent star data from those that you follow on GitHub
+- [fontsinfo](https://github.com/thisarmy/fontsinfo) - Extract info out of the Google Fonts archive.
+- [Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
+- [WebLooper](https://github.com/chpmrc/WebLooper) - A loop recorder made with Web Audio and WebRTC. Inspired by Boss RC50 and Roland RC505 (used by the great Dub FX).
+- [react-cassette-player](https://github.com/chadpaulson/react-cassette-player) - Simple ReactJS HTML5 audio player component built with SVG icons from The Noun Project.
+- [plumin.js](https://github.com/byte-foundry/plumin.js) - Create and manipulate fonts like there's no tomorrow.
+- [shadowjs](https://github.com/kreldjarn/shadowjs) - A simple script for casting shadows from a dynamic point lightsource
+- [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+- [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [Composer](https://github.com/rhuangab/Composer) - A composer that can generate a melody sequence automatically by matching lyric sequence.
+- [Primix](https://github.com/MiLk/Primix) - Melody generator from numbers through prime decomposition.
+- [anima-character-generator](https://github.com/jmbowman/anima-character-generator) - Character generator for the Anima: Beyond Fantasy RPG
+- [wp-colors](https://github.com/crowdfavorite/wp-colors) - Selection of color swatches from Adobe Kuler.
+- [colormunch-js](https://github.com/BK4D/colormunch-js) - Javascript library for the Adobe Kuler API
+- [kateKuler](https://github.com/kaytea/kateKuler) - 
+- [nice-colour-palettes](https://github.com/edorgeville/nice-colour-palettes) - Grabs most popular palettes from colourlovers.com and returns it in a nice JSON.
+- [sass-colour-lover](https://github.com/magicink/sass-colour-lover) - Auto-magically generate Sass color variables using palettes from COLOURLovers.
+- [colour-lovers-palettes](https://github.com/noeldelgado/colour-lovers-palettes) - :lemon: Random Color Palettes (via ColourLovers' API)
+- [LeapSound](https://github.com/markkohdev/LeapSound) - A project which utilizes the LeapMotion JavaScript API and Web Audio API for procedural music generation.
+- [Procedural-Generation](https://github.com/sh999/Procedural-Generation) - Sandbox repository for procedural generation, computer-generated art, etc.
+- [Turing-Tunes](https://github.com/maximecb/Turing-Tunes) - Procedural music generation engine using Turing machines.
+- [leafletc2](https://github.com/nicodinh/leafletc2) - Leafletjs plugin for Scirra Construct 2
+- [glyphr](https://github.com/crtr0/glyphr) - Transcodes words like "heart" into Unicode characters like â™¥.
+- [Avatar-Generator](https://github.com/didizlatkova/Avatar-Generator) - generates avatars for you
+- [avatar-generator](https://github.com/cyclelove/avatar-generator) - 
+- [capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
+- [NodeJS-Ableton-Piano](https://github.com/sksmatt/NodeJS-Ableton-Piano) - Controlling Ableton Live via the browser in real time using Node.JS, Express, Socket.IO and MIDI.
+- [pixel-sprite-generator](https://github.com/cfreeley/pixel-sprite-generator) - JavaScript procedural sprite generator
+- [pixel-sprite-generator](https://github.com/zfedoran/pixel-sprite-generator) - JavaScript procedural sprite generator
+- [Mondrian-Automaton](https://github.com/sherbondy/Mondrian-Automaton) - Generate Mondrian-esque images with processing.js
+- [Booty5](https://github.com/mrmop/Booty5) - HTML5 JavaScript game engine that accompanies the Booty5 game editor
+- [ColorSteps.htm](https://github.com/iterami/ColorSteps.htm) - :art: CC0 step pattern generator simulation. https://iterami.github.io/ColorSteps.htm/
+- [jsdotpattern](https://github.com/imagico/jsdotpattern) - Generator for random periodic dot and symbol patterns for use in map rendering
+- [gradients](https://github.com/nfosterky/gradients) - A simple css gradient pattern maker.
+- [random_commander](https://github.com/jakealbaugh/random_commander) - Random music sequencer
+- [texgen.js](https://github.com/mrdoob/texgen.js) - Procedural Texture Generator
+- [construct2](https://github.com/plippe/construct2) - 
+- [Construct2-RubberBand](https://github.com/simulated-tea/Construct2-RubberBand) - Rubber Band behavior for Construct 2
+- [jim-knopf](https://github.com/eskimoblood/jim-knopf) - :o: small JavaScript library to create knobs using SVG
+- [gerstnerizer](https://github.com/eskimoblood/gerstnerizer) - :diamond_shape_with_a_dot_inside: pattern generator based on the idea of the book "Forms of Colors"
+- [seamless-images](https://github.com/kjell/seamless-images) - 
+- [HTML5-image-PatternVGA.js](https://github.com/kaigani/HTML5-image-PatternVGA.js) - A VGA-style pattern generator for images and canvas patterns
+- [Pattern-Gallery](https://github.com/ian-cox/Pattern-Gallery) - Full screen image gallery for tiled patterns using css background images
+- [Knitwit](https://github.com/arnfred/Knitwit) - A web app for creating a knitting pattern from an image
+- [geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
+- [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [p2.js](https://github.com/schteppe/p2.js) - JavaScript 2D physics library
+- [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web â–²â— â– 
+- [tileset-gen](https://github.com/EduardoLopes/tileset-gen) - A tileset generator
+- [chernoff-faces](https://github.com/gnarmis/chernoff-faces) - Multivariate data visualization using D3.js and React.js
+- [jgen](https://github.com/angrycoding/jgen) - JavaScript Game Engine
+- [c2-nfc](https://github.com/Armaldio/c2-nfc) - nfc plugin for construct 2 phonegap/cordova
+- [bigpicture.js](https://github.com/josephernest/bigpicture.js) - bigpicture.js is a Javascript library that allows infinite panning and infinite zooming in HTML pages.
+- [infiniteart](https://github.com/cggaurav/infiniteart) - Inifinitely Zooming Images
+- [faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
+- [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
+- [screentunes](https://github.com/marekdedic/screentunes) - Play tones through an LCD monitor from a web page using an electronics quirk in some displays.
+- [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
+- [hrtf-simulation](https://github.com/kai5z/hrtf-simulation) - WebGL / Web Audio API interface for listening to the CIPIC HRTF database
+- [MIDIElements](https://github.com/ghztomash/MIDIElements) - Wrapper library for easy MIDI programming on Teensy
+- [christmas-cardboard](https://github.com/bezzer/christmas-cardboard) - 
+- [orthogami](https://github.com/mikolalysenko/orthogami) - Orthogonal polyhedra origami
+- [mmodm](https://github.com/MMODM/mmodm) - Massively Multiplayer Online Drum Machine
+- [pixelpals](https://github.com/eternalthinker/pixelpals) - A web based collaborative public pixel canvas
+- [rudolph-runner](https://github.com/albertxing/rudolph-runner) - Rudolph Runner, a game.
+- [tab-snooze](https://github.com/athyuttamre/tab-snooze) - Deprecated. Snooze tabs for later.
+- [wysihtml](https://github.com/Voog/wysihtml) - Open source rich text editor for the modern web
+- [focusable](https://github.com/zzarcon/focusable) - :flashlight: Set a spotlight focus on DOM element adding a overlay layer to the rest of the page
+- [TRON](https://github.com/kreldjarn/TRON) - TRON implemented on a cloth modelling grid
+- [vclfiddle](https://github.com/vclfiddle/vclfiddle) - 
+- [MagicEye.js](https://github.com/peeinears/MagicEye.js) - Generate "Magic Eye" images in the browser
+- [3d.city](https://github.com/lo-th/3d.city) - 3d city builder game
+- [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+- [thereminjs](https://github.com/philnash/thereminjs) - 
+- [moshpits.js](https://github.com/mattbierbaum/moshpits.js) - A javascript implementation of the moshpits project for any browser
+- [Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
+- [mindmaps](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application leveraging HTML5 technologies
+- [synth](https://github.com/steveblue/synth) - Synth is a video synthesizer for the web. Convert video to 3D objects.
+- [BuildCamp](https://github.com/MattHarrington/BuildCamp) - BuildCamp 2014
+- [Circle](https://github.com/mutuware/Circle) - C2 Behavior for circular paths.
+- [contents](https://github.com/gajus/contents) - Table of contents generator.
+- [kurakuroket](https://github.com/codepolitanlab/kurakuroket) - Kurakuroket game created using Construct 2
+- [color-tide](https://github.com/ryan-ludwig/color-tide) - Pulls in palettes from the Colourlovers API, transitions between them. http://ryan-ludwig.github.io/color-tide/
+- [particular-pinboard](https://github.com/joelcarranza/particular-pinboard) - An enhanced pinboard bookmarklet for the persnickety
+- [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
+- [realtime-hacker-news](https://github.com/dstaley/realtime-hacker-news) - A realtime clone of the Hacker News homepage backed by HN's Firebase API
+- [dudelpad](https://github.com/evil0/dudelpad) - Realtime multi-touch and multi-user sketchpad using node.js and socket.io (proof-of-concept)
+- [drawingwithus](https://github.com/ZastrO/drawingwithus) - Collaborative Drawing App
+- [Whiteboard](https://github.com/Pholey/Whiteboard) - A collaborative whiteboard powered by WebGL + react-fiber
+- [collabdraw](https://github.com/anandtrex/collabdraw) - HTML5 collaborative whiteboard
+- [drawnby](https://github.com/stephenmcd/drawnby) - Drawn By is a collaborative real-time sketching app built for the 2011 Django Dash.
+- [jmCanvas.js](https://github.com/jmjuanes/jmCanvas.js) - Simple script to draw in a HTML5 Canvas.
+- [csgo-drawing-board](https://github.com/DuckSyrup/csgo-drawing-board) - A tool for developing CS: GO strategies.
+- [Paint-board](https://github.com/malyw/Paint-board) - Paint-board on HTML5 canvas (canvas, drag-and-drop, localstorage, js file API, AJAX)
+- [canvas-painter](https://github.com/almirfilho/canvas-painter) - An web application like the old Paint (of Windows) using HTML5 Canvas and Canvas' API implemented to my Computer Graphics course, during my computer science graduation program.
+- [miniPaint](https://github.com/viliusle/miniPaint) - online image editor
+- [wPaint](https://github.com/websanova/wPaint) - jQuery Paint Plugin
+- [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) - Lazy Line Painter - A Modern JS library for SVG path animation
+- [synthogram](https://github.com/amitayd/synthogram) - HTML5 Synthesizer for canvas paintings
+- [impressionist](https://github.com/mattdesl/impressionist) - :art: generative painting using perlin noise for motion
+- [fractal-paint](https://github.com/sirxemic/fractal-paint) - Little online tool to create fractal-ish images from simple drawings using HTML5 canvases.
+- [scribble](https://github.com/kig/scribble) - Canvas painting app
+- [Tiny-HTML5-Music-Player](https://github.com/mrt-prodz/Tiny-HTML5-Music-Player) - Tiny HTML5 Music Player, a dependency free music player for your website.
+- [JqueryPlugin-MusicPlayer](https://github.com/arnireynir/JqueryPlugin-MusicPlayer) - Writing jquery plugin with HTML5 ended being music player
+- [Trolo1ko](https://github.com/MD4/Trolo1ko) - Minimalist sheet music player !
+- [audiojs](https://github.com/kolber/audiojs) - A cross-browser javascript wrapper for the html5 audio tag
+- [bbplayer](https://github.com/73rhodes/bbplayer) - A sleek HTML5 audio player with playlists.
+- [AudioRift](https://github.com/Zylann/AudioRift) - A visual HTML5 audio player
+- [match3](https://github.com/hugeen/match3) - JavaScript Grid-Based Match-3 Lib
+- [PixelTool](https://github.com/Swalden/PixelTool) - 
+- [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
+- [juliusjs](https://github.com/zzmp/juliusjs) - A speech recognition library for the web
+- [greyboard](https://github.com/asiekierka/greyboard) - Greyboard is an HTML5 multiplayer whiteboard.
+- [whiteboard](https://github.com/fnando/whiteboard) - A small app using Canvas + Socket.IO to provide a shared whiteboard.
+- [whiteboard](https://github.com/vidyamantra/whiteboard) - whiteboard
+- [aetherboard](https://github.com/GraftJS/aetherboard) - Collaborative Whiteboard as a microservice
+- [howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+- [screenshot-as-a-service](https://github.com/fzaninotto/screenshot-as-a-service) - Website screenshot service powered by node.js and phantomjs
+- [jsfxr](https://github.com/mneubrand/jsfxr) - as3fxr (http://code.google.com/p/as3sfxr/) synth port to JavaScript
+- [colors](https://github.com/sleepysort/colors) - A simple game where you try to pop all the colored balls without getting hit.
+- [draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
+- [midnight.js](https://github.com/Aerolab/midnight.js) - Switch your nav's design on the fly
+- [twitch-plays-tinder](https://github.com/xasos/twitch-plays-tinder) - Dating with data, streamed from Twitch.
+- [illookinati](https://github.com/herkyl/illookinati) - Illookinati is watching us
+- [auto-typo-adbe-id](https://github.com/fabianmoronzirfas/auto-typo-adbe-id) - This is the code repository for the FH-Potsdam ;-âŸ© project week "Typografie und Automation"
+- [csv-fingerprint](https://github.com/setosa/csv-fingerprint) - Qualitative visualization of the data types of CSV files
+- [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
+- [kubos](https://github.com/marko-knoebl/kubos) - web-based 3D modelling and printing
+- [indesign-scripts](https://github.com/henryhadlow/indesign-scripts) - InDesign scripts, tested in version CS6
+- [Auto-Layout](https://github.com/tlindner/Auto-Layout) - Script for InDesign
+- [tassendesken](https://github.com/universitas/tassendesken) - Indesign script tassen
+- [porky](https://github.com/Schreiber-und-Freunde/porky) - JavaScript ExtendScript Toolkit (ESTK) automation library with SQL database, JSON, XML, File, CSV access for Adobe InDesign
+- [indesign_ParaStyleList](https://github.com/macmillanpublishers/indesign_ParaStyleList) - Creates a list of the paragraph styles in use in the document and the first page on which they occur
+- [InDesign-Calendar-Script](https://github.com/sarahbethfederman/InDesign-Calendar-Script) - In-progress - automatic dating for my indesign calendar template
+- [indesign_scripts](https://github.com/danfitzpatrick/indesign_scripts) - A collection of InDesign scripts in JavaScript
+- [InDesign-Toolbox](https://github.com/jpobojewski/InDesign-Toolbox) - A toolbox of short scripts
+- [palette](https://github.com/maxwellito/palette) - Angular app to generate color palettes
+- [palettable](https://github.com/bvaughn/palettable) - Generates an HTML color palette from SASS or Stylus source.
+- [palette-producer](https://github.com/cheshire137/palette-producer) - Generate color palettes and individual colors that are pleasing to the eye.
+- [page_colourizer](https://github.com/cheshire137/page_colourizer) - Chrome extension that grabs a random ColourLovers.com palette and applies it to the current page.
+- [SVGPathEditor](https://github.com/ynakajima/SVGPathEditor) - SVG ã® Path è¦ç´ ã‚’ç·¨é›†ã™ã‚‹ãŸã‚ã® JavaScript ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
+- [colorswap.js](https://github.com/numtel/colorswap.js) - Instantly replace colors on your page!
+- [roBrowser](https://github.com/vthibault/roBrowser) - roBrowser is a free and open-source implementation of the Ragnarok Online MMORPG for web browsers written from scratch using the latest web standards (WebGL, HTML5, File API, Javascript, Threads, ...).
+- [metapolator](https://github.com/metapolator/metapolator) - Design fonts and font families faster
+- [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
+- [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+- [xkcd-pixels](https://github.com/chromakode/xkcd-pixels) - The frontend code behind "Pixels".
+- [sensei-grid](https://github.com/datazenit/sensei-grid) - Simple and lightweight data grid in JS/HTML
+- [IDMap](https://github.com/fabianmoronzirfas/IDMap) - Creating Maps in InDesign
+- [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
+- [css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors.
+- [JS-face-tracking-demo](https://github.com/kdzwinel/JS-face-tracking-demo) - JavaScript face tracking demo.
+- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
+- [verlet](https://github.com/Skookum/verlet) - Verlet integration on HTML5 canvas
+- [bayan](https://github.com/benzguo/bayan) - qwerty chromatic button accordion
+- [ansiedit](https://github.com/andyherbert/ansiedit) - Network-enabled web based ANSi art application
+- [blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
+- [pdf2svg](https://github.com/pramodhkp/pdf2svg) - A PDF to SVG converter written using PDF.js
+- [webaudiox](https://github.com/jeromeetienne/webaudiox) - helpers for WebAudio API
+- [js1k](https://github.com/premasagar/js1k) - 1KB JavaScript apps ~ #1: Phi
+- [hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
+- [fenix](https://github.com/coreybutler/fenix) - A simple and visual static web server with collaboration features.
+- [op_poster](https://github.com/almcd/op_poster) - A script to generate a print-ready poster in InDesign of your OpenPaths location data.
+- [colour_extractor](https://github.com/cheshire137/colour_extractor) - Chrome extension that pulls colors from the current web page and lets you make a ColourLovers.com palette from them.
+- [colourlovers](https://github.com/jpmonette/colourlovers) - COLOURlovers for Node.js is a connection library for COLOURlovers API, giving you access to an infinite database of colors, palettes, patterns and a lot more provided by COLOURlovers.
+- [odyssey.js](https://github.com/CartoDB/odyssey.js) - Making it easy to merge map and narrative
+- [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+- [gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
+- [Thunder-simulation](https://github.com/kai5z/Thunder-simulation) - Simulating thunder
+- [jsfxr](https://github.com/grumdrig/jsfxr) - Dead easy game sound effects generator. A port of sfxr to HTML5.
+- [jfxr](https://github.com/ttencate/jfxr) - A browser-based tool to create sound effects for games.
+- [ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
+- [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [Recordmp3js](https://github.com/Audior/Recordmp3js) - Record MP3 files directly from the browser using JS and HTML
+- [jsfx](https://github.com/loov/jsfx) - Javascript Sound Effect Generator
+- [simplify-js](https://github.com/mourner/simplify-js) - High-performance JavaScript polyline simplification library
+- [wp-launchpad](https://github.com/micahblu/wp-launchpad) - A Wordpress development starter using composer, node and grunt
+- [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - ðŸ¦Ž A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
+- [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
+- [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+- [wavegl](https://github.com/gre/wavegl) - Generate Audio in the GPU and pipe to the Audio Card.
+- [Palette](https://github.com/alanwright/Palette) - A simple and beautiful color palette generator.
+- [ColorsAngularApp](https://github.com/d4rkr00t/ColorsAngularApp) - Color Scheme Builder
+- [LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - (v0.31) Gesture and pose learning and recognition for the Leap Motion
+- [leapiano](https://github.com/AVGP/leapiano) - A demo of a finger-controlled piano, based on the LeapMotion Javascript API. Done solely with HTML, CSS and JavaScript.
+- [gestification](https://github.com/jaanga/gestification) - Apps for the Leap Motion device. Demos here:
+- [LSD--Layer-Synthesis-Device-](https://github.com/teetteet/LSD--Layer-Synthesis-Device-) - Use LSD to VJ live video on the web! Choose video clips and images and blend them together using the mixer controls 		or the interactive mouse mode. Create your customized hallucination directly in your browser and share with your friends!
+- [codemagic](https://github.com/varemenos/codemagic) - Codemagic.gr is a powerful online code editor for web development
+- [mfiddle](https://github.com/montagejs/mfiddle) - 
+- [velocity-articleintros](https://github.com/AnthonyPAlicea/velocity-articleintros) - Velocity.JS powered article introductory effects.
+- [smallworld.js](https://github.com/mikefowler/smallworld.js) - It's a (small utility for generating a) small world.
+- [waterpipe.js](https://github.com/dragdropsite/waterpipe.js) - waterpipe.js is a jQuery plugin for smoky backgrounds generation (HTML5 Canvas)
+- [seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
+- [clrs](https://github.com/bit101/clrs) - Color lib for HTML/JS. Lots of easy ways to generate colors for use in CSS or Canvas drawing.
+- [4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
+- [gerstner.js](https://github.com/runemadsen/gerstner.js) - Generate CSS styles from JS
+- [Construct-2-plugin](https://github.com/ludei/Construct-2-plugin) - 
+- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+- [beeplay](https://github.com/watilde/beeplay) - Write A Song In JavaScript
+- [kuler-d3](https://github.com/benknight/kuler-d3) - D3.js implementation of the color wheel UI found on http://color.adobe.com, formerly known as Adobe Kuler
+- [C2RPG-Essentials](https://github.com/Ubivis/C2RPG-Essentials) - Essential Plugins and Behaviour to help developing RPGs in Construct 2
+- [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
+- [SVGInjector](https://github.com/iconic/SVGInjector) - Fast, caching, dynamic inline SVG DOM injection library
+- [500lines](https://github.com/audreyt/500lines) - 500 Lines or Less
+- [Ailove-RenderingTileserver](https://github.com/ailove-lab/Ailove-RenderingTileserver) - Ailove-RenderingTileserver
+- [stochator](https://github.com/heydenberk/stochator) - Little utility library for random value generation.
+- [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
+- [prototypo](https://github.com/byte-foundry/prototypo) - Create your own font in a few clicks
+- [grunt-fontello](https://github.com/jubalm/grunt-fontello) - grunt task for downloading fonts from fontello.com
+- [CSV.js](https://github.com/knrz/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.
+- [eight-bit-color-picker](https://github.com/bilalq/eight-bit-color-picker) - Color Picker for 256 color palettes
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [famous](https://github.com/Famous/famous) - This repo is being deprecated. Please check out http://github.com/famous/engine
+- [gridster-bootstrap](https://github.com/nadeesha/gridster-bootstrap) - Gridster layouts in Bootstrap
+- [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [obelisk.js](https://github.com/nosir/obelisk.js) - Build pixel isometric graphics with HTML5 canvas
+- [datamaps](https://github.com/markmarkoh/datamaps) - Customizable SVG map visualizations for the web in a single Javascript file using D3.js
+- [geo-googledocs](https://github.com/mapbox/geo-googledocs) - Tools to integrate Mapbox with Google Docs
+- [simple-slider](https://github.com/ruyadorno/simple-slider) - :carousel_horse: The 1kb JavaScript Carousel
+- [wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
+- [Olly.js](https://github.com/abeisgoat/Olly.js) - Translate URLs into Rich Media
+- [metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
+- [WebHexPlanet](https://github.com/rSimulate/WebHexPlanet) - HexPlanet port to HTML5 + WebGL
+- [Glyphr-Studio-1](https://github.com/glyphr-studio/Glyphr-Studio-1) - A free, web-based font editor, focusing on font design hobbyists.
+- [jquery.bum-smack](https://github.com/mrjoelkemp/jquery.bum-smack) - For when you hit the bottom... of a dom element while scrolling.
+- [polygonz](https://github.com/ZachNagengast/polygonz) - Beautifully Algorithmic Backgrounds
+- [mrsynth](https://github.com/joemclean/mrsynth) - A synthesizer built with the WebAudio API.
+- [copyrun](https://github.com/kuanyingchou/copyrun) - 
+- [plategy](https://github.com/benjycook/plategy) - GGJ 2014
+- [noisejs](https://github.com/josephg/noisejs) - Javascript 2D Perlin & Simplex noise functions
+- [planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
+- [Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
+- [jMID.js](https://github.com/steelsojka/jMID.js) - A javascript library for reading, manipulating, writing, and timing MIDI files.
+- [construct2_firebase_plugin](https://github.com/tomlarkworthy/construct2_firebase_plugin) - 
+- [LeSequencer](https://github.com/kaneel/LeSequencer) - A sequencer for whatever you need to sequence according to a given BPM and a Tick-Per-Beat.
+- [sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets.
+- [stylizer](https://github.com/willread/stylizer) - A simple one-page web app which generates colour schemes using the colourlovers.com API.
+- [colourlovers](https://github.com/ysle/colourlovers) - colourlovers API example with angularJS
+- [colors](https://github.com/vassilis/colors) - Experimenting with colors.
+- [Ghost](https://github.com/TryGhost/Ghost) - ðŸ‘» The #1 headless Node.js CMS for professional publishing
+- [sprite-factory](https://github.com/arcturial/sprite-factory) - Plugin for Construct 2 that allows sprites to be spawned from a factory.
+- [3d-piano-player](https://github.com/reality3d/3d-piano-player) - 3D Piano player demo. Uses three.js and MIDI.js
+- [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine
+- [drawingboard.js](https://github.com/Leimi/drawingboard.js) - A canvas based drawing app that you can integrate easily on your website.
+- [easelSif](https://github.com/haramanai/easelSif) - An html5 Synfig player for createjs.Easeljs
+- [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.
+- [shapdar](https://github.com/nhmood/shapdar) - shape radar w/ html5 + js
+- [Construct](https://github.com/ZnelArts/Construct) - ScirraÂ´s Construct 2 addons
+- [CLNDR](https://github.com/kylestetz/CLNDR) - :calendar: a jQuery calendar plugin that uses HTML templates
+- [generator-bitmaps](https://github.com/tomkrcha/generator-bitmaps) - Adobe Generator for Photoshop - Getting bitmaps from Photoshop
+- [kuler](https://github.com/normanzb/kuler) - another experimental color manipulation library
+- [template-color-switcher](https://github.com/rusuandreirobert/template-color-switcher) - Template Color Switcher is a basic system that will offer your visitors the posiblity to change the look of your website, just the color for now.
+- [Color-animation-jQuery-plugin](https://github.com/edwinm/Color-animation-jQuery-plugin) - Color animation jQuery-plugin
+- [Hexorator.js](https://github.com/jfmyers/Hexorator.js) - A jQuery plugin for generating similar groups of HEX color codes and assigning those HEX values to HTML elements based on text values. Useful if you have a number of tags and would like to visually differentiate each tag with a specific background or font color.
+- [ClicColorPicker](https://github.com/ClicData/ClicColorPicker) - Awesome HTML5 color picker
+- [vexchords](https://github.com/0xfe/vexchords) - JavaScript Chord Charts
+- [formbuilder](https://github.com/dobtco/formbuilder) - [Needs Maintainer] Formbuilder is a small graphical interface for letting users build their own webforms.
+- [parallax](https://github.com/SeanJM/parallax) - A JavaScript plugin that adds parallax scrolling animation to HTML elements
+- [chirp](https://github.com/rezoner/chirp) - Online chiptune composer
+- [gravatarjs](https://github.com/mazondo/gravatarjs) - Generate gravatar URL's in js without a jQuery dependency
+- [node-scheduler-demo](https://github.com/DHTMLX/node-scheduler-demo) - Demo of dhtmlxScheduler with NodeJs + MongoDB as backend
+- [generator-assets](https://github.com/adobe-photoshop/generator-assets) - Generator Plug-in for Adobe Photoshop CC that helps users export image assets
+- [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
+- [shopper](https://github.com/nybblr/shopper) - Nothing special: just my repo of Photoshop/Illustrator scripts and the like for when I go 'shopping.
+- [illustrator-scripts](https://github.com/geishatokyo/illustrator-scripts) - Illustratorç”¨ã®ä¾¿åˆ©åŒ–ã‚¹ã‚¯ãƒªãƒ—ãƒˆé›†ã§ã™ã€‚
+- [FontFunFriday](https://github.com/PDXIII/FontFunFriday) - A Adobe Indesign script for font nerds.
+- [Novelty](https://github.com/GitBruno/Novelty) - InDesign scripts for bookdesigners
+- [Indesign-Graphic-Credit-Generator](https://github.com/ka1/Indesign-Graphic-Credit-Generator) - Creates a list of figures in the document with the caption title, page number and additional xmp meta data read from the file
+- [githubiverse-template](https://github.com/garyhodgson/githubiverse-template) - A Github Page template to show off your 3D printer model or project.
+- [thingiview.js](https://github.com/tbuser/thingiview.js) - Javascript 3D Model Viewer
+- [colours](https://github.com/saltire/colours) - A simple web-based colour management tool
+- [glitch](https://github.com/pushmatrix/glitch) - Art project made for Stockholm Art Hack Day. Corrupts data with your plaintext thoughts.
+- [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [KickJS](https://github.com/mortennobel/KickJS) - A WebGL game engine for modern web-browsers.
+- [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline.
+- [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
+- [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
+- [cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
+- [Leaflet.print](https://github.com/aratcliffe/Leaflet.print) - Plugin for printing a Leaflet map using either Mapfish or the GeoServer print module.
+- [band.js](https://github.com/meenie/band.js) - Band.js - Music composer interface for the Web Audio API.
+- [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
+- [Construct2Plugins](https://github.com/blackberry/Construct2Plugins) - Plugins for Construct 2
+- [cool-kitten](https://github.com/jalxob/cool-kitten) - A parallax scrolling responsive framework
+- [feed-me-word-things](https://github.com/beaugunderson/feed-me-word-things) - ðŸ‘¾ a space-themed typing game, my entry to Ludum Dare #27
+- [projector.js](https://github.com/noiv/projector.js) - Inter- and Audioactive VJ Software for Chrome 23+
+- [LSD--Layer-Synthesis-Device-](https://github.com/odbol/LSD--Layer-Synthesis-Device-) - Use LSD to VJ live video on the web! Choose video clips and images and blend them together using the mixer controls 		or the interactive mouse mode. Create your customized hallucination directly in your browser and share with your friends!
+- [midiplayer](https://github.com/skybrian/midiplayer) - Web Audio-based Music Synthesizer
+- [html5-piano](https://github.com/Mpdreamz/html5-piano) - A piano made with canvas and audio tags, can play chords from single notes. see http://www.html5piano.com
+- [BalancedGallery](https://github.com/repp/BalancedGallery) - A balanced photo gallery plugin for jQuery.
+- [voodoo.js](https://github.com/brentongunning/voodoo.js) - Javascript framework for mixing 2D and 3D
+- [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
+- [8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds.
+- [RandomArray2](https://github.com/nutmix/RandomArray2) - Construct 2 random array generator
+- [sculptgl](https://github.com/stephomi/sculptgl) - A WebGL sculpting stuff - DEVELOPMENT STOPPED - I'm working a mobile version (closed source/commercial)
+- [pentizr](https://github.com/TimPietrusky/pentizr) - A simple jQuery plugin to show CodePen's on a personal website.
+- [webgl-demo](https://github.com/glecollinet/webgl-demo) - 
+- [locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
+- [animatic](https://github.com/lvivski/animatic) - CSS animations engine
+- [CubicVR.js](https://github.com/cjcliffe/CubicVR.js) - CubicVR 3D Engine, WebGL Edition
+- [summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [stylie](https://github.com/jeremyckahn/stylie) - A graphical CSS3 animation tool
+- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
+- [C2_LL](https://github.com/0plus1/C2_LL) - Construct 2 Plugin for local leaderboards.
+- [cornelius](https://github.com/restorando/cornelius) - Cohort viz tool
+- [flamingo](https://github.com/rriepe/flamingo) - Better colors for basic Bootstrap
+- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [shapefile-js](https://github.com/calvinmetcalf/shapefile-js) - Convert a Shapefile to GeoJSON. Not many caveats.
+- [MoonDemo](https://github.com/CoryG89/MoonDemo) - A 3D Moon Demo in WebGL and JavaScript -- Texture map from Clementine spacecraft data
+- [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [ImageGrab](https://github.com/biscoe916/ImageGrab) - ImageGrab allows you to quickly and easily save images from websites to the server of your choice using a bookmarklet and short php script.
+- [phonebook](https://github.com/mtrpcic/phonebook) - A lightweight AJAX wrapper to make your code cleaner and more maintainable.
+- [Contextly](https://github.com/TonyXie/Contextly) - Contextly is a chrome extension that allows developers to quickly design their pages, relying on the Twitter Bootstrap Framework
+- [gamedevwebtools](https://github.com/hyp/gamedevwebtools) - A set of browser based tools primarily aimed for game development.
+- [leftrightspace](https://github.com/maryrosecook/leftrightspace) - Entry for Ludum Dare 26
+- [jquery.swatches](https://github.com/mixinmax/jquery.swatches) - A jQuery plugin that turns a one-line div into a sweet color swatch
+- [Pxxl.js](https://github.com/remcoder/Pxxl.js) - With pxxl.js and the included BDF font files you can 'render' a text to an array of pixel coordinates. You can then use the pixel coordinates to do your own drawing.
+- [epic-twitter](https://github.com/mpezzi/epic-twitter) - A simple HTML5 page that pulls in some epic tweets.
+- [Timeline](https://github.com/wnyc/Timeline) - A beautiful vertical timeline made with Tabletop.js, Isotope.js & Handerlbarz.js. A collaboration between Balance Media and WNYC/John Keefe.
+- [mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
+- [ffos-list-detail](https://github.com/comoyo/ffos-list-detail) - A list/detail/view template for an Open Web App
+- [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+- [Editr.js](https://github.com/Idered/Editr.js) - âœ HTML, CSS and JavaScript playground
+- [recorder.js](https://github.com/jwagener-soundcloud/recorder.js) - *UNMAINTAINED* JavaScript library to record audio in browsers  as used in the SoundCloud Javascript SDK.
+- [wilderness](https://github.com/mbutler/wilderness) - An online multiplayer hex map. For use with real-time hex-based online games. Built with Construct 2 and Node.js
+- [store-reference](https://github.com/mateusazis/store-reference) - Construct 2 custom behaviour to store object references.
+- [packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts
+- [spine-js](https://github.com/tleunen/spine-js) - [DEPRECATED] Javascript runtime for Spine
+- [SoundFontJS](https://github.com/mudcube/SoundFontJS) - Node JS CLI for creating MIDI.JS ready sound fonts.
+- [picturefill](https://github.com/tysonmatanich/picturefill) - A Responsive Images approach that you can use today!
+- [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
+- [fragment.js](https://github.com/DanielRapp/fragment.js) - A tiny tool for easily loading html fragments and templates
+- [skycons](https://github.com/darkskyapp/skycons) - 
+- [sonic-creator](https://github.com/padolsey/sonic-creator) - 
+- [flat-surface-shader](https://github.com/wagerfield/flat-surface-shader) - Flat Surface Shader for rendering illuminated triangles
+- [speech-to-server](https://github.com/akrennmair/speech-to-server) - demo application for libmp3lame.js
+- [ReAnim8or](https://github.com/krisives/ReAnim8or) - A 3D modeler written in Javascript
+- [gameleon](https://github.com/victoralex/gameleon) - Gameleon Realm
+- [colorpal](https://github.com/nehacrosby/colorpal) - 
+- [piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [palette](https://github.com/lobostome/palette) - JavaScript color palette
+- [wColorPicker](https://github.com/websanova/wColorPicker) - jQuery Color Picker Plugin
+- [ColorPal](https://github.com/mwcz/ColorPal) - A JavaScript-based palette generation tool
+- [colorpicker](https://github.com/evoluteur/colorpicker) - jQuery UI widget for color picking (similar to the one in Microsoft Office 2010).
+- [albumcolors](https://github.com/chengyin/albumcolors) - A JavaScript script to create a 3-color palette based on an image. Inspired by iTunes 11.
+- [PatternPlanets](https://github.com/bsiegal/PatternPlanets) - A Paper.js pattern game for kids
+- [bootstro.js](https://github.com/clu3/bootstro.js) - Tiny JS library using bootstrap's popovers to help guide your users around your website
+- [c2synth](https://github.com/mrchay/c2synth) - HTML5 javascript synthesizer with Scirra construct 2 GUI
+- [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+- [colortools](https://github.com/zzolo/colortools) - A simple, presentation on various color tools.
+- [htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
+- [wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
+- [basil.js](https://github.com/basiljs/basil.js) - An attempt to port the spirit of the Processing visualization language to Adobe Indesign.
+- [juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
+- [mk.js](https://github.com/mgechev/mk.js) - Canvas implementation of basic fighting game which allows multiplayer over the network.
+- [ShareJS](https://github.com/josephg/ShareJS) - Collaborative editing in any app
+- [jquery-oembed-all](https://github.com/starfishmod/jquery-oembed-all) - A fork with improvements of the jquery-oembed project
+- [jquery.hrmny](https://github.com/Xiphe/jquery.hrmny) - A jQuery plugin that writes css rules for colors based on customizable rules and base colors.
+- [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
+- [one-web-boilerplate](https://github.com/akikoo/one-web-boilerplate) - A One Web Boilerplate for all your Responsive Web needs. Powered by Apache SSI, SMACSS, Sass and RequireJS. Also includes Ant build script with several useful tools, as well as an SSI-based fork of adactio's Pattern-Primer (https://github.com/akikoo/Pattern-Primer). For more modern test-driven workflow, see https://github.com/akikoo/grunt-frontend-workflow.
+- [worldMap](https://github.com/ftorghele/worldMap) - 
+- [magic-crayon](https://github.com/stuartwakefield/magic-crayon) - 
+- [SkyBrush](https://github.com/PlayMyCode/SkyBrush) - pure-JS HTML5 embeddable painting application
+- [princessJs](https://github.com/BlackPrincess/princessJs) - 
+- [morpheus](https://github.com/threepointone/morpheus) - A Brilliant Animator
+- [ImageInGame.js](https://github.com/jmpp/ImageInGame.js) - Simple sprites and images management for HTML5 games
+- [SteamSaleSlider](https://github.com/dbaines/SteamSaleSlider) - Steam Sale Slider: http://dbaines.com/blog/archive/steam-sale-slider-jquery/
+- [BoldFace](https://github.com/agirorn/BoldFace) - Bookmarklet to test Google Web fonts on any site
+- [Better-Google-Fonts](https://github.com/mattwiebe/Better-Google-Fonts) - Sorting chaff from wheat
+- [zoom-and-pick](https://github.com/codepo8/zoom-and-pick) - An image colour picker/CSS generator using HTML5 Canvas and Drag+Drop
+- [burn](https://github.com/Sinetheta/burn) - :fire: jQuery plugin to apply flame effect to text
+- [VirtualSky](https://github.com/slowe/VirtualSky) - A browser-based planetarium that can be customised and embedded in web pages.
+- [reddit-message-search-bookmarklet](https://github.com/klocatelli/reddit-message-search-bookmarklet) - A bookmarklet for searching your messages on reddit
+- [headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
+- [spine.js](https://github.com/flyover/spine.js) - A JavaScript API for the Spine JSON animation data format.
+- [SimpLESS](https://github.com/Paratron/SimpLESS) - A simple LESS compiler for Windows and mac
+- [papaheartzzi](https://github.com/carlosreig/papaheartzzi) - The game made in the Gandia Game Jam 2013. Made with Enchat.JS and HTML5.
+- [html5-virtual-game-controller](https://github.com/austinhallock/html5-virtual-game-controller) - An easy-to-implement, customizable virtual game controller for HTML5 games
+- [kropr](https://github.com/youngastronauts/kropr) - Kropr - Client-side Image Cropper
+- [isortope](https://github.com/KurtPreston/isortope) - Simple, animated JavaScript tablesorter using Isotope
+- [photoshop-layersearch](https://github.com/markupwand/photoshop-layersearch) - Quickly search through your photoshop layers (PS5). Focus by click.
+- [hypercube](https://github.com/PeteMichaud/hypercube) - 3D Javascript Toy
+- [voxel-engine](https://github.com/maxogden/voxel-engine) - 3D HTML5 voxel game engine
+- [wbb](https://github.com/WebBooks/wbb) - The Web Book Boilerplate - Your place to start writing books for every platform.
+- [pinboard-js](https://github.com/nathanpc/pinboard-js) - The Pinboard library for Javascript
+- [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) - Write Minecraft Plugins in JavaScript.
+- [Shibui](https://github.com/craftedpixelz/Shibui) - A simpler default
+- [huflip](https://github.com/Diablohu/huflip) - huFlip, a jQuery plugin for Windows 8 like flipping effect
+- [webiverse](https://github.com/jchavannes/webiverse) - Multiplayer 3d navigable room using THREE.js and Socket.io
+- [Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
+- [flowtime.js](https://github.com/marcolago/flowtime.js) - Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework
+- [psd2scml](https://github.com/flyover/psd2scml) - 
+- [draw](https://github.com/JohnMcLear/draw) - A real time collaborative drawing tool using nodejs, socket.io & paper.js
+- [wikiUp](https://github.com/pmtarantino/wikiUp) - Get Wikipedia descriptions in tooltips.
+- [3DTutorial](https://github.com/nint22/3DTutorial) - Lesson source code for the book "3D Computer Graphics: Software Revealed"
+- [fractal-trees](https://github.com/goodsteve/fractal-trees) - An HTML5 canvas fractal tree generator.
+- [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
+- [spriter.js](https://github.com/flyover/spriter.js) - A JavaScript API for the Spriter SCML/SCON animation data format.
+- [pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+- [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
+- [wizardry](https://github.com/diy/wizardry) - A task-based node.js library for GraphicsMagick / ImageMagick.
+- [mockup-designer](https://github.com/fatiherikli/mockup-designer) - The mockup tool that uses your local storage as backend.
+- [Cinemation](https://github.com/91pavan/Cinemation) - Cinemation is basically a very miniature movie search engine . You can search for any movie you want and get relevant movie details . Also , you get recent box office hits recommendation.
+- [socrates](https://github.com/segment-boneyard/socrates) - Write and read Markdown in real-time with anyone you want.
+- [ish.](https://github.com/bradfrost/ish.) - ish. is yet another viewport resizer
+- [zen-painting](https://github.com/edankwan/zen-painting) - 
+- [stalker](https://github.com/box/stalker) - A jQuery plugin allowing elements to follow the user as they scroll a page.
+- [Web-audio-API-canvas-demos](https://github.com/neilcarpenter/Web-audio-API-canvas-demos) - Simple experiments using Web Audio API and `canvas`
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [printThis](https://github.com/jasonday/printThis) - jQuery printing plugin; print specific elements on a page
+- [inspiritas-bootstrap](https://github.com/littke/inspiritas-bootstrap) - 
+- [windows-8-settings-ui](https://github.com/rmdort/windows-8-settings-ui) - Windows 8 Metro PC Settings in jQuery
+- [particle.js](https://github.com/city41/particle.js) - a particle system designer using HTML5 Canvas
+- [Simple-Rotating-Banner](https://github.com/EnzoMartin/Simple-Rotating-Banner) - A very simple and light-weight rotating banner jQuery plugin
+- [plugins](https://github.com/hankyu1/plugins) - plugins for Scirra construct 2
+- [yaak.js](https://github.com/Wappworks/yaak.js) - Yaak.js (Yet Another Audio Kit) is an Open Source HTML5 game audio system for web browsers and native HTML5 app accelerator platforms such as CocoonJs and AppMobi. The library is distributed under the FreeBSD license
+- [jscii](https://github.com/EnotionZ/jscii) - JavaScript image to ASCII converter
+- [sheetclip](https://github.com/warpech/sheetclip) - Copy/paste from your HTML5 web app to a spreadsheet
+- [gogh](https://github.com/ngokevin/gogh) - :pencil2: Procedural landscape painting generator on a Canvas.
+- [arctiles-old](https://github.com/andrewcollins/arctiles-old) - Random arcs with random colors and random orientation, using Processing.
+- [obfuscate-please](https://github.com/ericjeney/obfuscate-please) - A simple webpage that quickly obfuscates any email address.
+- [Slateboxjs](https://github.com/Slatebox/Slateboxjs) - Pure javascript mind-mapping and concept-drawing.
+- [scroogify](https://github.com/kaizau/scroogify) - Simpler responsive images for your mobile web site/app. No markup changes. No maintenance headaches.
+- [texter](https://github.com/tholman/texter) - Texter is a little app that lets you explore your creativity by drawing with text.
+- [construct2_plugins_behaviors](https://github.com/Pseudopode/construct2_plugins_behaviors) - Pode's repository for Construct2 plugins & behaviors
+- [Jnana](https://github.com/colinsullivan/Jnana) - "Jnana" is a generative musical accompaniment system integrated into Ableton Live.
+- [terraform](https://github.com/darwin/terraform) - Terraforming static websites
+- [simon](https://github.com/demircancelebi/simon) - A cool looking version of classic Simon game written in jQuery.
+- [alien-avatar-generator](https://github.com/TimPietrusky/alien-avatar-generator) - Create a freaking Alien Avatar to be your new best buddy.
+- [contrast-ratio](https://github.com/LeaVerou/contrast-ratio) - A tool to calculate the contrast ratio between any two valid CSS colors.
+- [Grid-A-Licious](https://github.com/suprb/Grid-A-Licious) - jQuery Grid-A-Licious plugin (v3)
+- [flipgrid.js](https://github.com/ericleong/flipgrid.js) - A simple, content-focused photo gallery inspired by Microsoft's Metro interface and CSS 3D transitions.
+- [jquery-lazyjson](https://github.com/rpnzl/jquery-lazyjson) - Load and display JSON easily and dynamically
+- [Synaesthesia.js](https://github.com/matthewpennell/Synaesthesia.js) - Simple and silly JavaScript to turn words into colours.
+- [palettes](https://github.com/drewnoakes/palettes) - Simple web page for displaying colour palettes
+- [scalable-css-playing-cards](https://github.com/donpark/scalable-css-playing-cards) - Scalable CSS-based playing cards with standard court images for face cards
+- [Responsivator](https://github.com/johnpolacek/Responsivator) - Website for viewing and sharing how web pages look at different screen sizes
+- [HexGL](https://github.com/BKcore/HexGL) - Source code of HexGL, a futuristic HTML5 racing game
+- [Balloon](https://github.com/vhmth/Balloon) - Sticky header with no jQuery dependency.
+- [ng-color-picker](https://github.com/configit/ng-color-picker) - angularJs demo
+- [crumble](https://github.com/tommoor/crumble) - Crumble makes it easy to create feature tours in your website or app.
+- [raw-colour-picker](https://github.com/MexUK/raw-colour-picker) - JavaScript Colour Picker
+- [sass-color-function-generator-thing](https://github.com/ethanmuller/sass-color-function-generator-thing) - This eats two colors and poops out the relationship between them in the form of a SASS function
+- [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+- [data-midi-lab](https://github.com/motin/data-midi-lab) - Data MIDI Lab - A Node.js-based MIDI Controller and web frontend that allows you to generate MIDI notes and control data from arbitrary chunks of data
+- [prettyCheckable](https://github.com/arthurgouveia/prettyCheckable) - A jQuery plugin to replace checkboxes and radios for custom images
+- [textFit](https://github.com/STRML/textFit) - A jQuery-free component that quickly fits single and multi-line text to the width (and optionally height) of its container.
+- [jq-tiles](https://github.com/elclanrs/jq-tiles) - Slider with css3 transitions and many effects
+- [tweetscroller](https://github.com/divshot/tweetscroller) - A pseudo-infinite tweet scroller that automatically refreshes a collection of your favorite tweets!
+- [fontificate](https://github.com/samlecuyer/fontificate) - a client-side font analysis library
+- [red-dwarf](https://github.com/rviscomi/red-dwarf) - Google Maps heatmap of GitHub repository stargazers
+- [color-palette-generator](https://github.com/phjardas/color-palette-generator) - Color Palette Generator
+- [camvas](https://github.com/cbrandolino/camvas) - HTML5 webcam to canvas stream
+- [Responsive-Measure](https://github.com/jbrewer/Responsive-Measure) - Responsive-Measure
+- [SPYR](https://github.com/cwreid/SPYR) - Landing page for SPYR Adobe Air application. Utilizing the Adobe Kuler API and the ColorMunch Library for AS3, SPYR allows users quick access to themes right from their desktop.
+- [thegrid2_client](https://github.com/stevenleeg/thegrid2_client) - A cleaner rework of thegrid (a web-based RTS game) in node.js.
+- [RandomColor](https://github.com/sterlingwes/RandomColor) - Javascript module for generating random, distinguishable, pleasing colors (ie: for chart series).
+- [FoldScroll](https://github.com/soulwire/FoldScroll) - Experimental CSS 3D scroll behavior
+- [lenticular.js](https://github.com/thomasxiii/lenticular.js) - tilt-controlled images
+- [wavepad](https://github.com/alexgibson/wavepad) - An experimental synthesizer built using the Web Audio API (PWA).
+- [bower](https://github.com/bower/bower) - A package manager for the web
+- [ccapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations at a fixed framerate
+- [jQuery-Stickem](https://github.com/davist11/jQuery-Stickem) - Make items sticky as you scroll, to a point.
+- [GREEN-2-RED](https://github.com/Glitchfinder/GREEN-2-RED) - Contains all of the data necessary for the game GREEN 2: RED.
+- [ColourScale](https://github.com/chrismichaelscott/ColourScale) - A simple javascript utility used for getting a colour from a scale - I wrote this to help build visualizations, such as heat maps
+- [element-capture](https://github.com/tlrobinson/element-capture) - A Chrome extension which will screen capture any HTML element of your choosing.
+- [bootup.js](https://github.com/TradeMe/bootup.js) - Cache and load static files from local storage.
+- [tiler](https://github.com/peterbe/tiler) - App for allowing you to host some huge ass photos on the web.
+- [slime-girls-visualization](https://github.com/deanputney/slime-girls-visualization) - 
+- [BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API.
+- [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - Avgrund is jQuery plugin with new modal concept for popups
+- [WP-Bootstrap-2.1](https://github.com/Alan01252/WP-Bootstrap-2.1) - bootstrap2.1.0 Wordpress Theme
+- [Multiple_file_drag_and_drop_upload](https://github.com/arunkumarsekar/Multiple_file_drag_and_drop_upload) - 
+- [roundabout](https://github.com/Aeon/roundabout) - A 3-D Turntable jQuery Plugin
+- [infoviz](https://github.com/nocoo/infoviz) - Information visualization.
+- [TiberSynth](https://github.com/prtcl/TiberSynth) - TiberSynth is an experimental audio synthesizer that runs in your web browser
+- [ld24](https://github.com/wibblymat/ld24) - This was my aborted entry for Ludum Dare 24. All of the forks/stars/watches appear to be related to the file 'autotracker.py' which isn't even my code.
+- [daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
+- [webchemy](https://github.com/bitbof/webchemy) - Cross-Platform Web-App for Sketching - based on Alchemy
+- [BigVideo.js](https://github.com/johnpolacek/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
+- [neosocial](https://github.com/maxdemarzi/neosocial) - Example application to connect to one of the social networks
+- [justgage](https://github.com/toorshia/justgage) - JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on RaphaÃ«l library for vector drawing.
+- [xlsx.js](https://github.com/stephen-hardy/xlsx.js) - XLSX.js is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! Please note that this library is licensed under the Microsoft Office Extensible File License - a license NOT approved by the OSI. While this license is based off of the MS-PL, which is OSI-approved, there are significant differences.
+- [infinity](https://github.com/airbnb/infinity) - UITableViews for the web (DEPRECATED)
+- [outline](https://github.com/Olical/outline) - A web based CSS grid generator.
+- [piecon](https://github.com/lipka/piecon) - A tiny javascript library for generating progress pie charts in your favicon.
+- [Radar](https://github.com/hakimel/Radar) - An audi-visual experiment
+- [FloraJS](https://github.com/vinceallenvince/FloraJS) - Simulate natural systems in a web browser.
+- [pedalboard.js](https://github.com/dashersw/pedalboard.js) - Open source JavaScript framework for developing audio effects for guitars using the Web Audio API.
+- [v3.desandro.com](https://github.com/desandro/v3.desandro.com) - All about me! In orange!
+- [enquire.js](https://github.com/WickyNilliams/enquire.js) - Awesome Media Queries in JavaScript
+- [forkit.js](https://github.com/hakimel/forkit.js) - an animated GitHub ribbon
+- [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
+- [rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js
+- [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - ThreeAudio helps you create music visualizations in Three.js or tQuery.
+- [Freshness-Pancake-Theme](https://github.com/zerosignalproductions/Freshness-Pancake-Theme) - Freshness Theme for Pancake
+- [sketch.js](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
+- [qwerty-hancock](https://github.com/stuartmemo/qwerty-hancock) - A keyboard for any musical eventuality. Works best with the Web Audio API.
+- [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
+- [picssel-art](https://github.com/chinchang/picssel-art) - An app to create pixel art using only CSS
+- [bonsai](https://github.com/uxebu/bonsai) - BonsaiJS is a graphics library and renderer
+- [Cube-engine](https://github.com/Nurgak/Cube-engine) - 3D engine completely written in HTML5 without OpenGL
+- [responsive-carousel](https://github.com/filamentgroup/responsive-carousel) - A jQuery-based script for responsive carousels that work with mouse, touch, and keyboard
+- [FontSheetGenerator](https://github.com/Irrelon/FontSheetGenerator) - Generates font sheets for use when rendering canvas output with reliable text.
+- [photon](https://github.com/thomasxiii/photon) - CSS 3D Lighting Engine
+- [colorPalette](https://github.com/dio-el-claire/colorPalette) - jquery color picker with palettes presets. Allow change colors palettes on the fly.
+- [web-app](https://github.com/sule0010/web-app) - A repository for the update of my web-app.
+- [sass-color-picker](https://github.com/arc90/sass-color-picker) - SASS Color Picker, an Arc90 Lab Experiment.
+- [web-midi-test-suite](https://github.com/jussi-kalliokoski/web-midi-test-suite) - A test suite for Web MIDI API
+- [post-forking](https://github.com/post-forking/post-forking) - WordPress Post Forking allows users to "fork" or create an alternate version of content to foster a more collaborative approach to WordPress content curation.
+- [web-app](https://github.com/Frederick-Iyela/web-app) - Web Application project files
+- [colorscale](https://github.com/bretttolbert/colorscale) - Color Scale Generator
+- [syte](https://github.com/rigoneri/syte) - A really simple but powerful packaged personal site that has social integrations like twitter, github, dribbble, instagram, foursquare, tumblr, wordpress, linkedin, spotify/last.fm, and much more...
+- [Freetile](https://github.com/yconst/Freetile) - Freetile jQuery layout plugin
+- [motio](https://github.com/darsain/motio) - Small JavaScript library for sprite based animations and panning.
+- [clippy.js](https://github.com/smore-inc/clippy.js) - Add Clippy or his friends to any website for instant nostalgia.
+- [gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
+- [colors](https://github.com/vastus/colors) - Playing w/ Meteor
+- [kittydar](https://github.com/harthur/kittydar) - [UNMAINTAINED] Face detection for cats in JavaScript - demo for TXJS 2012 talk
+- [superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
+- [objects.js](https://github.com/martinwells/objects.js) - Core class tools and object pooling for high-performance gaming in Javascript
+- [synthjs](https://github.com/mattdiamond/synthjs) - Extending the Web Audio API context with additional synth and DSP nodes
+- [productColorizer](https://github.com/nikorablin/productColorizer) - jQuery plugin that makes it easy to add color to product images
+- [javascript-piano](https://github.com/mrcoles/javascript-piano) - An HTML5 JavaScript synth piano that generates all of its sounds using data URIs.
+- [euphony](https://github.com/qiao/euphony) - MIDI visualizer in WebGL
+- [palettizer](https://github.com/kstolzenberg/palettizer) - Color Palette Generators
+- [pageguide](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3
+- [dynamo.js](https://github.com/jdan/dynamo.js) - Cycles through bits of text in place
+- [colorjoe](https://github.com/bebraw/colorjoe) - Scaleable color picker with touch and AMD support (MIT)
+- [fixie](https://github.com/ryhan/fixie) - Automatically add filler content to HTML documents based on semantic tags.
+- [chronoline.js](https://github.com/StoicLoofah/chronoline.js) - chronoline.js is a library for making a chronology timeline out of events on a horizontal timescale.
+- [powerpinkplay](https://github.com/mpj/powerpinkplay) - 
+- [illuminated.js](https://github.com/gre/illuminated.js) - Illuminated.js â€“ 2D lights and shadows rendering engine for HTML5 applications
+- [okvideo](https://github.com/okfocus/okvideo) - Fullscreen background videos for your webpages.
+- [punch-presenter](https://github.com/laktek/punch-presenter) - Create Quick HTML5 Presentations with Punch
+- [html5-game-template](https://github.com/dmose/html5-game-template) - minimalist html5 template of infrastructure useful for most games
+- [gradientfinder](https://github.com/aaronm67/gradientfinder) - Convert Images to CSS Gradients
+- [supershape.js](https://github.com/ahoiin/supershape.js) - Supershape.js let's you experiment with the 3D superformula in the browser.
+- [TimelineJS-Wordpress-Plugin](https://github.com/NUKnightLab/TimelineJS-Wordpress-Plugin) - A simple shortcode plugin to add the Timeline to Wordpress
+- [blog.drapache](https://github.com/louissobel/blog.drapache) - A blog CMS that runs on drapache
+- [Popout.js](https://github.com/lowtolerance/Popout.js) - 3D Layouts using HTML5's Canvas element.
+- [n64js](https://github.com/hulkholden/n64js) - 
+- [react-soundboard](https://github.com/Fensterbank/react-soundboard) - A React soundboard!
+- [wJSNova](https://github.com/websanova/wJSNova) - jQuery plugin that mimics jsfiddle functionality
+- [lss_toolbar](https://github.com/lssoft/lss_toolbar) - Extension of Google Sketchup
+- [Colour-Space](https://github.com/matthojo/Colour-Space) - Change the ammount of colours in the colour spectrum.
+- [jquery-mobile-iscrollview](https://github.com/watusi/jquery-mobile-iscrollview) - JQuery Mobile widget plug-in for easy use of the iScroll javascript scroller.
+- [divsugar](https://github.com/kitao/divsugar) - A CSS-based 3D graphics library
+- [TrianglePainter](https://github.com/richardanaya/TrianglePainter) - A triangle art maker.
+- [3D-text](https://github.com/jasonrobb/3D-text) - 3D text using LessCSS, Lettering.js, and CSS3 text-shadows.
+- [c2](https://github.com/00Rez/c2) - Construct 2 projects.
+- [indesign-qrcode](https://github.com/nbqx/indesign-qrcode) - 
+- [Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
+- [js1k](https://github.com/ehouais/js1k) - Stuff related to my entries for the 2012-2016 JS1K javascript contests
+- [pow.js](https://github.com/greim/pow.js) - Algorithmic sunburst generator via CSS, canvas and jQuery
+- [mojito](https://github.com/YahooArchive/mojito) - [archiving soon] Yahoo! Mojito Framework
+- [Simple-HTML5-Drawing-App](https://github.com/williammalone/Simple-HTML5-Drawing-App) - Simple drawing application created with HTML5 canvas and JavaScript
+- [recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
+- [quill](https://github.com/theycallmeswift/quill) - Quill is a simple blog engine inspired by Jekyll. Quill runs on node and has an easy command line interface. Themeing is as simple as editing a single html page.
+- [Twitter-Search](https://github.com/LeoAJ/Twitter-Search) - Simple search twitter jQuery plugin by using Twitter API
+- [locache](https://github.com/d0ugal/locache) - JavaScript caching framework for client side caching in the browser using localStorage - gracefully degrades when the browser doesn't support localStorage.
+- [chrome-ext-save-css](https://github.com/tomimick/chrome-ext-save-css) - Chrome extension to automatically save changes in CSS and JS into local disk.
+- [punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites
+- [superslides](https://github.com/nicinabox/superslides) - A fullscreen, hardware accelerated slider for jQuery.
+- [2012.beercamp.com](https://github.com/nclud/2012.beercamp.com) - A mischievous pop-up book site
+- [Presenteer.js](https://github.com/willemmulder/Presenteer.js) - Flexible HTML5 Presentation Tool
+- [minecraft-avatars](https://github.com/ion1/minecraft-avatars) - Draw a representation of a Minecraft skin using JavaScript
+- [mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
+- [prose](https://github.com/prose/prose) - A Content Editor for GitHub.
+- [game-shim](https://github.com/toji/game-shim) - Browser shims to normalize game-centric API
+- [JavaScript-RGB-Password](https://github.com/codeincontext/JavaScript-RGB-Password) - Generates a simple RGB colour pattern generated from a password using pure JavaScript.
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
+- [Cobalt-Calibur-3](https://github.com/tlhunter/Cobalt-Calibur-3) - HTML5 and Node.js: Multiplayer Browser Game
+- [live-cljs](https://github.com/ibdknox/live-cljs) - a clojurescript version of bret victor's editable game
+- [Construct2---Ping](https://github.com/0plus1/Construct2---Ping) - Checks if a user has internet connectivity
+- [css-color-palette-extractor](https://github.com/mauricesvay/css-color-palette-extractor) - Extract color palette from CSS
+- [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more
+- [reveal.js-threejs](https://github.com/dimroc/reveal.js-threejs) - Presentation on WebGL leveraging Hakim's CSS 3D slideshow tool Reveal and mr. doob's ThreeJS
+- [realstuffforabstractpeople.com](https://github.com/remcoder/realstuffforabstractpeople.com) - my website
+- [jquery.crayonpicker](https://github.com/vmichnowicz/jquery.crayonpicker) - Very simple jQuery color picker plugin
+- [CSS3D.js](https://github.com/unconed/CSS3D.js) - CSS 3D renderer for Three.js.
+- [CanvasCapture](https://github.com/zachstronaut/CanvasCapture) - An HTML5 Canvas screen capture tool written in JavaScript. Record animations from HTML5 Canvas in realtime. Create videos of HTML5 video games and demos.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [loveapp](https://github.com/animator/loveapp) - A WebGL based app designed to impress your love ones !
+- [MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.
+- [js1k_love](https://github.com/psenough/js1k_love) - "Spreading Love Liebe Amor" (js1k 2012 love entry)
+- [Flickable.js](https://github.com/tomlongo/Flickable.js) - Flickable: A Zepto Plugin to Enable Touch Gestures on Any HTML Element
+- [colorwheel-1k](https://github.com/bgrins/colorwheel-1k) - HSV colorpicker entry for js1k
+- [fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
+- [slide-drive](https://github.com/dseif/slide-drive) - Slideshow using audio/video to drive content
+- [three.js](https://github.com/brez/three.js) - Forked to add a c4d exporter (utils/exporters/c4d)
+- [csswarp.js](https://github.com/dirkweber/csswarp.js) - "warp" HTML text around an arbitrary path.
+- [Awwation](https://github.com/adityab/Awwation) - Prezi clone in HTML5, Js, and SVG. Can use different animation backends, for example impress.js. [I NO LONGER OWN AWWATION.COM]
+- [jQuery-Fullscreen-Plugin](https://github.com/darcyclarke/jQuery-Fullscreen-Plugin) - A full suite fullscreen plugin with fallback support
+- [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
+- [colors](https://github.com/trjordan/colors) - Visualizing interpolation of colors in various color spaces
+- [bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
+- [turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
+- [palette-map-js](https://github.com/shashashasha/palette-map-js) - Web Worker that can map imageData to a new palette given R, G, B or Alpha arrays
+- [scrollpath](https://github.com/JoelBesada/scrollpath) - A plugin for defining custom scroll paths.
+- [Bookmarkly](https://github.com/dangrossman/Bookmarkly) - Source of bookmarkly.com, a visual bookmarking site
+- [Kalendae](https://github.com/Twipped/Kalendae) - A javascript date picker that just works.
+- [jQuery.birdseye](https://github.com/ehmorris/jQuery.birdseye) - A jQuery plugin that automatically generates birdseye navigation for a content container
+- [d3_js_intro](https://github.com/maxdemarzi/d3_js_intro) - 
+- [js1k-love-entry](https://github.com/Prinzhorn/js1k-love-entry) - My love themed js1k entry
+- [cubecolors](https://github.com/plainas/cubecolors) - A colorscheme generator with an isometric visualization
+- [Parallaxjs](https://github.com/stolksdorf/Parallaxjs) - A Library for Javascript that allows easy page parallaxing
+- [webaudiosynth](https://github.com/aike/webaudiosynth) - Synthesizer application written in JavaScript using Web Audio API.
+- [curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED - This plugin allows you to create a web page with multiple fixed panels that unroll with an amusing effect.
+- [jQuery.superLabels](https://github.com/remybach/jQuery.superLabels) - Give your forms a helping of awesome!
+- [snake](https://github.com/horstjens/snake) - snake for Austria Game Jam 2012
+- [BookClub](https://github.com/ehmorris/BookClub) - An experiment in long form reading and typography in the browser
+- [jquery-anystretch](https://github.com/danmillar/jquery-anystretch) - Anystretch is a jQuery plugin that allows you to add a dynamically-resized background image to any page or block level element. The image will stretch to fit the page/element, and will automatically resize as the window size changes.
+- [palette](https://github.com/Farof/palette) - useful color assistant
+- [yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+- [CSS3Tiler](https://github.com/hyperandroid/CSS3Tiler) - A CSS3 3D based image slideshow.
+- [Palette](https://github.com/Anomareh/Palette) - A color palette web app that gives you room.
+- [jQuery-Palette](https://github.com/Anomareh/jQuery-Palette) - A simple, clean, color picker plugin for jQuery.
+- [wp-lightbox](https://github.com/vmassuchetto/wp-lightbox) - Modified WordPress Lightbox Plugin
+- [file_upload](https://github.com/jaimz/file_upload) - An HTML5 interaction design for an image uploader
+- [sticky-notes](https://github.com/radium-v/sticky-notes) - This is really old. Don't bother with it.
+- [backboneboilerplate](https://github.com/thomasdavis/backboneboilerplate) - The project aims at being a modular backbone environment with as little authority on development as possible such that developers can innovate and contribute in an attempt to mimic the success of backbone.js ambiguous nature.
+- [Chain-Reaction](https://github.com/Zirak/Chain-Reaction) - Code-golf Canvas game, possibly for js1k: http://js1k.com/2012-love/demo/1019
+- [Sequence](https://github.com/IanLunn/Sequence) - The responsive CSS animation framework for creating unique sliders, presentations, banners, and other step-based applications.
+- [meemoo-speak.js](https://github.com/forresto/meemoo-speak.js) - Meemoo module version: Text-to-Speech in JavaScript using eSpeak
+- [CloudPalette_OLD](https://github.com/hodavidhara/CloudPalette_OLD) - Image editing on the web.
+- [AppLayout](https://github.com/bruffridge/AppLayout) - A simple starting layout for a web application
+- [escapes.js](https://github.com/atdt/escapes.js) - Render ANSI art using HTML5 / JavaScript
+- [jmpress.js](https://github.com/jmpressjs/jmpress.js) - A jQuery plugin to build a website on the infinite canvas
+- [Crossbear](https://github.com/crossbear/Crossbear) - 
+- [color-thief](https://github.com/briandemant/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
+- [stellar.js](https://github.com/markdalgleish/stellar.js) - Stellar.js - Parallax scrolling made easy
+- [Colors](https://github.com/mbjordan/Colors) - A simple color manipulation javascript library.
+- [maki](https://github.com/mapbox/maki) - POI Icon Set
+- [streetview-stereographic](https://github.com/notlion/streetview-stereographic) - Shader Toy + Google Map + Panoramic Explorer
+- [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library
+- [slidedown](https://github.com/nakajima/slidedown) - Generate syntax-highlighted slides from Markdown
+- [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
+- [color-mix](https://github.com/gleuch/color-mix) - Creates random color palettes from a collection of color values.
+- [Uniform](https://github.com/AudithSoftworks/Uniform) - A jQuery plugin to make your form controls look how you want them to. Now with HTML-5 attributes!
+- [jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
+- [jquery-color](https://github.com/jquery/jquery-color) - jQuery plugin for color manipulation and animation support.
+- [jQuery-Colour-Swatch](https://github.com/damian/jQuery-Colour-Swatch) - An Extensible Colour Picker
+- [color.js](https://github.com/eligrey/color.js) - Color management JavaScript libary
+- [samegame](https://github.com/kadirpekel/samegame) - contestant in js1k 2010
+- [firepicker](https://github.com/thedarkone/firepicker) - Color picker extension for firebug.
+- [Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the userâ€™s browser.
+- [jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App
+- [emile](https://github.com/madrobby/emile) - emile.js is a no-frills stand-alone CSS animation JavaScript framework, named after Ã‰mile Cohl, early animator.
+- [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
+- [plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative runtimes, like Flash and Silverlight.
+- [signature-pad](https://github.com/thread-pond/signature-pad) - A jQuery plugin for assisting in the creation of an HTML5 canvas based signature pad. Records the drawn signature in JSON for later regeneration.
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [farbtastic](https://github.com/mattfarina/farbtastic) - jQuery Color Wheel
+- [shining](https://github.com/juliocesar/shining) - Awesome presentations in HTML + JS + CSS
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [Aristo-jQuery-UI-Theme](https://github.com/taitems/Aristo-jQuery-UI-Theme) - The "Aristo" theme for Cappuccino ported to a jQuery UI Theme
+- [colorscrub](https://github.com/mmonteleone/colorscrub) - simple pure-javascript tool for quickly viewing and sharing a local or remote color palette
+- [springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
+- [Color.Picker.js](https://github.com/mudcube/Color.Picker.js) - :rainbow: An assortment of beautiful color pickers to use in your HTML5 web-apps.
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [jquery-youtube-player](https://github.com/badsyntax/jquery-youtube-player) - [not maintained] A chromeless or embedded youtube video player, with custom toolbar and playlist.
+- [tween.js](https://github.com/tweenjs/tween.js) - Javascript tweening engine
+- [html-slideshow](https://github.com/robflaherty/html-slideshow) - Lightweight HTML5-based slideshow
+- [reformed](https://github.com/BigBlueHat/reformed) - Converting JSON into an HTML Form and back
+- [Colours](https://github.com/MrException/Colours) - A game based on colour patterns.
+- [pubnub-api](https://github.com/pubnub/pubnub-api) - APIs for developers building secure realtime mobile, web, and IoT apps.
+- [fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library
+- [undum](https://github.com/idmillington/undum) - A client-side framework for narrative hypertext interactive fiction.
+- [pdf.js](https://github.com/Marak/pdf.js) - Project Deprecated
+- [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
+- [vFFF](https://github.com/fabianmoronzirfas/vFFF) - Automated Publishing for Adobe InDesign
+- [store.js](https://github.com/cloudhead/store.js) - localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
+- [js1k-organ1k](https://github.com/cowboy/js1k-organ1k) - Organ1k: JS1k contest entry
+- [colorblendy](https://github.com/shazow/colorblendy) - Blend colors with different modes like multiply, overlay, dodge.
+- [PaintbrushJS](https://github.com/mezzoblue/PaintbrushJS) - A lightweight browser-based image processing library
+- [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
+- [jspiano](https://github.com/soldair/jspiano) - play a canvas piano. download client side generated audio. 100% client side wav generation for audio frequencies on the fly with some effects. kinda an audio generation javascript playground. too support chrome something awesome would have to happen in relation to porting ogg to js =)
+- [keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
+- [google-bouncing-balls](https://github.com/robhawkes/google-bouncing-balls) - A HTML5 canvas version of the Google bouncing balls logo
+- [jQuery-xcolor](https://github.com/infusion/jQuery-xcolor) - An easy to use color manipulation plugin for jQuery
+- [jquery-colors](https://github.com/Enideo/jquery-colors) - jQuery.colors helps developers manage colors through a simple, chainable color object.
+- [Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [mothereffingtextshadow](https://github.com/paulirish/mothereffingtextshadow) - CUZ WE NEED SOME MOTHER EFFING TEXT SHADOW
+- [jsmidi](https://github.com/sergi/jsmidi) - Library for reading/writing midi files in JavaScript
+- [KievII](https://github.com/cristiano-belloni/KievII) - KievII is a GUI and audio/DSP Javascript library that aims to help develop audio web applications.
+- [css3please](https://github.com/paulirish/css3please) - use Autoprefixer instead. &lt;3
+- [Google-Sketchup-Cutlister-Plugin](https://github.com/danawoodman/Google-Sketchup-Cutlister-Plugin) - [NOT MAINTAINED] A Google SketchUp plugin that allows cabinet makers to create printable cut lists for their cabinet parts.
+- [inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
+- [YouTube.js](https://github.com/sxtxixtxcxh/YouTube.js) - A JavaScript class for working with YouTube
+- [jasmid](https://github.com/gasman/jasmid) - UNMAINTAINED. A MIDI file reader and synthesiser in Javascript
+- [reddit.tv](https://github.com/octatone/reddit.tv) - HTML5 and AJAX display of videos from reddit.com to replace reddit.tv.  Includes any video embed type from reddit.  Only backend is reddit.com's API, everything else is clientside.
+- [adobe-javascripts](https://github.com/drumsoft/adobe-javascripts) - Adobe Photoshop Illustrator InDesign ç­‰ç”¨ã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆã§ã™
+- [theGrids](https://github.com/fabianmoronzirfas/theGrids) - 2 InDesign JavaScripts for Typo at FHP and some snippets
+- [youtubeplaylist](https://github.com/dan0/youtubeplaylist) - Turns a list of links to youtube pages into an inline playlist
+- [IKSforDrupal](https://github.com/evo42/IKSforDrupal) - Integration of the components of the IKS Semantic CMS EU Project into Drupal.
+- [JM-JS-2011](https://github.com/fabianmoronzirfas/JM-JS-2011) - JavaScripting for InDesign
+- [colourtoy](https://github.com/n3dst4/colourtoy) - Source for The Colour Toy
+- [stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
+- [jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
+- [history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
+- [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
+- [pow](https://github.com/chromakode/pow) - An experimental HTML5 presentation tool.
+- [filtrr](https://github.com/alexmic/filtrr) - Instagram-like image filters in pure JavaScript.
+- [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+- [slides](https://github.com/briancavalier/slides) - A slide presentation framework in HTML, JS, and OOCSS
+- [Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
+- [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting â€“ Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+- [PikaChoose](https://github.com/jeremyfry/PikaChoose) - jQuery Image Gallery
+- [Audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser
+- [philogl](https://github.com/senchalabs/philogl) - A WebGL Framework for Data Visualization, Creative Coding and Game Development
+- [one-color](https://github.com/One-com/one-color) - An OO-based JavaScript color parser/computation toolkit with support for RGB, HSV, HSL, CMYK, and alpha channels. Conversion between color spaces occurs implicitly, and all methods return new objects rather than mutating existing instances. Works in the browser and node.js.
+- [Noisy](https://github.com/DanielRapp/Noisy) - A jQuery plugin that adds random noise to the background of a given element.
+- [hsl-picker](https://github.com/imathis/hsl-picker) - A most excellent HSL color picker
+- [jQuery-Canvas-Background](https://github.com/methodin/jQuery-Canvas-Background) - Create dynamic HTML5 Canvas backgrounds using jQuery
+- [cssSandpaper](https://github.com/zoltan-dulac/cssSandpaper) - a CSS3 Polyfill that implements CSS3 transforms, box-shadow, gradients, opacity and RGBA/HSL/HSLA colours in browser that don't support them.
+- [Codename-Cuttlefish--Dark-Stylesheet](https://github.com/ryan-ludwig/Codename-Cuttlefish--Dark-Stylesheet) - A greasemonkey script which restyles colourlovers.com to a darker, less blindy version.
+- [zz85-bookmarklets](https://github.com/zz85/zz85-bookmarklets) - my collections of bookmarklets
+- [paralaxScrollGame](https://github.com/rajarju/paralaxScrollGame) - parallax Scroll Game. A simple scrolling shooter game using HTML JS.
+- [jQuery.backgroundPosition](https://github.com/Poetro/jQuery.backgroundPosition) - CSS get/set and animate background position values independently
+- [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: real-time collaborative document editor
+- [m3script](https://github.com/fullkawa/m3script) - Javascript library; makes novel game on enchant.js
+- [Effect-Games](https://github.com/jhuckaby/Effect-Games) - Classic DHTML JavaScript Game Engine and Web Based IDE
+- [kc-settings](https://github.com/kucrut/kc-settings) - Easily create plugin/theme settings page, custom fields metaboxes, term meta and user meta settings.
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
+- [css-inline-backgrounds](https://github.com/samcroft/css-inline-backgrounds) - Tiny jQuery plugin for adding css backgrounds for inline text elements
+- [melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+- [jrumble](https://github.com/jackrugile/jrumble) - jRumble is a jQuery plugin that rumbles, vibrates, shakes, and rotates any element you choose. It's great to use as a hover effect or a way to direct attention to an element. You can control the X, Y, and rotation range, the speed, and event trigger for the rumble.
+- [vegas](https://github.com/jaysalvat/vegas) - Vegas is a jQuery/Zepto plugin to add beautiful backgrounds and Slideshows to DOM elements.
+- [FlexiColorPicker](https://github.com/DavidDurman/FlexiColorPicker) - A pure JavaScript color picker - no images, external libraries, CSS or 1px divs.
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [fabric.js](https://github.com/philgran/fabric.js) - Fabric.js â€” Object Model for HTML5 Canvas + SVG-to-Canvas Parser.
+- [extendscript_snippets](https://github.com/milligramme/extendscript_snippets) - js, jsx, jsxbin snippets for InDesign, Illustrator, Photoshop
+- [hiro](https://github.com/valueof/hiro) - Framework for testing third-party JavaScript applications
+- [TypoStandard](https://github.com/fabianmoronzirfas/TypoStandard) - Some JavaScripts for InDesign
+- [huesound](https://github.com/Aeon/huesound) - color based music discovery
+- [LayerStyles](https://github.com/mrflix/LayerStyles) - just like you favorite graphic editor - but in your browser. And it creates CSS.
+- [IDQR](https://github.com/skilldrick/IDQR) - InDesign QR code generator
+- [FitText.js](https://github.com/chriscoyier/FitText.js) - A jQuery plugin for inflating web type
+- [Fuzz](https://github.com/chrishksang/Fuzz) - A simple jQuery plugin to generate noise using &lt;canvas&gt; and apply it as an element's background image. The noise generated is customisable. Useful for that subtle noise effect. Or an attack of random coloured boxes.
+- [frontend](https://github.com/photo/frontend) - The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
+- [COLOURlovers-patterns-search](https://github.com/ultranaut/COLOURlovers-patterns-search) - 
+- [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
+- [handsontable](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 data grid with spreadsheet look & feel. Available for React, Vue and Angular.
+- [deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
+- [jsGameSoup](https://github.com/chr15m/jsGameSoup) - Make games with Javascript.
+- [jamgrid](https://github.com/monitron/jamgrid) - JamGrid: collaborative music making for anyone
+- [noisecloud](https://github.com/dmrschmidt/noisecloud) - noisecloud collaboratively creates... well... noise. Right in your browser using Web Audio.
+- [colourtool](https://github.com/christopherdebeer/colourtool) - a bookmarklet tool for css colour workflow
+- [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [fathom](https://github.com/markdalgleish/fathom) - Fathom.js - Present JavaScript in its native environment.
+- [h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+- [visibilityjs](https://github.com/ai/visibilityjs) - Wrapper for the Page Visibility API
+- [wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
+- [ExtendScripts4AI-ID](https://github.com/moluapple/ExtendScripts4AI-ID) - Scripts for Adobe Illustrator & Indesign
+- [color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
+- [haz](https://github.com/philippbosch/haz) - See at a glance which of the latest HTML5 and CSS3 features are supported in your browser
+- [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
+- [Sprite3D.js](https://github.com/boblemarin/Sprite3D.js) - Sprite3D.js, a JS library for generating and manipulating CSS 3D transforms
+- [fireworks.js](https://github.com/scottschiller/fireworks.js) - A silly JavaScript animation experiment, originally written in 2005.
+- [Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
+- [ColourLovers-Wizard](https://github.com/zipang/ColourLovers-Wizard) - A small library to access an integrate ColourLovers API search into your pages.
+- [jquery.choose.color](https://github.com/stephband/jquery.choose.color) - Colour chooser using Canvas to display a colour wheel. Includes opacity chooser.
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+- [responsivepx](https://github.com/remy/responsivepx) - Helps you find the break point to help with responsive design
+- [Responsive-Design-Testing](https://github.com/mattkersley/Responsive-Design-Testing) - A simple HTML page to test out your responsive web design
+- [piknik](https://github.com/arnemart/piknik) - A funky full screen color picker thing
+- [spectrum](https://github.com/bgrins/spectrum) - The No Hassle JavaScript Colorpicker
+- [sparks.js](https://github.com/zz85/sparks.js) - a lightweight 3d particle engine in javascript, compatible with THREE.js and TWEEN.js
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
+- [mine3D](https://github.com/egraether/mine3D) - 
+- [Details-Polyfill](https://github.com/manuelbieh/Details-Polyfill) - Crossbrowser Polyfill for HTML5 &lt;details&gt; element
+- [supersynth](https://github.com/davidgovea/supersynth) - Interactive HTML5 Super Mario Synth
+- [Codeita](https://github.com/heavy-cloud/Codeita) - Web-based text editor and file management.
+- [clippy-jquery](https://github.com/jimmysawczuk/clippy-jquery) - A jQuery plugin to make clippy easy and quick to use
+- [ColourPicker](https://github.com/olivernn/ColourPicker) - 
+- [jquery-mentions-input](https://github.com/podio/jquery-mentions-input) - 
+- [fontviewer](https://github.com/saebekassebil/fontviewer) - A part of the Subito Project. Providing an easy way to list all glyphs contained by a SVG font file.
+- [hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
+- [web_color_palette](https://github.com/saucer-jp/web_color_palette) - 
+- [jcolour](https://github.com/lingo/jcolour) - Javascript colour manipulation.
+- [JSaw](https://github.com/MiracleBlue/JSaw) - JSaw - the JavaScript Audio Workstation
+- [tuitpix](https://github.com/sadasant/tuitpix) - Tuitpix is a free online HTML5 tool to configure, draw and publish pixel art avatars.
+- [animateskup](https://github.com/mipata/animateskup) - This is a custom animation plugin for Google Sketchup
+- [tinker](https://github.com/chiel/tinker) - Social code collaboration made simple.
+- [Remixer](https://github.com/boazsender/Remixer) - Popcorn.js HTML5 Video Remix Tooling
+- [deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs
+- [color_finder](https://github.com/kaaes/color_finder) - Color picker written in JavaScript that is fully operable with keyboard. Mainly canvas excersise, but I find it quite a useful tool :)
+- [sequencer](https://github.com/corbanbrook/sequencer) - create sequencer frames in sync with an audio or video tag which exports to JSON.
+- [ColorStash](https://github.com/bgrins/ColorStash) - 
+- [scroller](https://github.com/pbakaus/scroller) - Accelerated panning and zooming for HTML and Canvas
+- [css-colors](https://github.com/LeaVerou/css-colors) - Share & convert CSS colors
+- [etch](https://github.com/atomicjeep/etch) - An Etch A Sketch written in HTML5
+- [Neonflames](https://github.com/jwagner/Neonflames) - Neon flames is a crazy online HTML5 drawing tool.
+- [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
+- [playlister](https://github.com/kastner/playlister) - build playlists - uses backbone.js, rdio, echonest
+- [tunequeue](https://github.com/therabidbanana/tunequeue) - Simple turntable-ish clone
+- [BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
+- [okshadow](https://github.com/okfocus/okshadow) - Cursor as light source.
+- [Rainbow-Text](https://github.com/xoxco/Rainbow-Text) - jQuery plugin to create rainbow or gradient text, optionally animated
+- [chrome-devtools-autosave](https://github.com/NV/chrome-devtools-autosave) - Auto-saving CSS and JavaScript changes from the Chrome Developer Tools
+- [gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
+- [colorcat](https://github.com/Munter/colorcat) - Demo: CSS3 nyan cat with color adjustment inputs using One-color.js
+- [rekapi](https://github.com/jeremyckahn/rekapi) - A keyframe animation library for JavaScript
+- [colorpicker](https://github.com/vanderlee/colorpicker) - Colorpicker in jQueryUI style. Themeroller look & feel. Multiple color spaces, input/output formats, controls. Check the demo...
+- [clc_search](https://github.com/kastner/clc_search) - Colour Lovers closeness search
+- [color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
+- [Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
+- [knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections.
+- [boilerstrap](https://github.com/emorikawa/boilerstrap) - Instant webpage. Just add creativity. A mashup of HTML5 Boilerplate and Bootstrap
+- [droppy](https://github.com/kastner/droppy) - A web front end to a single dropbox folder. With optional basic authentication
+- [vegas](https://github.com/mrflix/vegas) - Vegas is a jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
+- [PlainReader](https://github.com/lhagan/PlainReader) - Minimal web-based client for NewsBlur.
+- [glsl-sandbox](https://github.com/mrdoob/glsl-sandbox) - Online live editor for fragment shaders.
+- [dochub](https://github.com/rgarcia/dochub) - speedy docs
+- [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
+- [beautiful-curves](https://github.com/tholman/beautiful-curves) - A simple generative drawing app using the html5 canvas
+- [teoria](https://github.com/saebekassebil/teoria) - Javascript taught Music Theory
+- [jquery-minicolors](https://github.com/claviska/jquery-minicolors) - jQuery MiniColors Plugin
+- [Stalkeame](https://github.com/Reita/Stalkeame) - Stalkeame scans the pictures Twitter users upload to TwitPic, analyzes each picture's EXIF data and displays the location where each photo was taken.
+- [soundcloud-player](https://github.com/tmpvar/soundcloud-player) - html5 soundcloud streaming player
+- [scotch](https://github.com/techwraith/scotch) - A really classy, dead simple, markdown based, blogging framework for node.js
+- [js3](https://github.com/braitsch/js3) - A simple drawing & animation API for the JavaScript Canvas modeled after AS3 & TweenLite
+- [ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js) - Simple & lightweight responsive slider plugin (in 1kb)
+- [html5-colour-picker](https://github.com/skenny/html5-colour-picker) - 
+- [scrolldeck.js](https://github.com/johnpolacek/scrolldeck.js) - jQuery plugin for making scrolling presentation decks
+- [jasmid](https://github.com/zz85/jasmid) - A MIDI file reader and synthesiser in Javascript
+- [indesign-scripts](https://github.com/richardharrington/indesign-scripts) - 
+- [lycheejs](https://github.com/Artificial-Engineering/lycheejs) - :seedling: Next-Gen AI-Assisted Isomorphic Application Engine for Embedded, Console, Mobile, Server and Desktop
+- [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS) - A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.
+- [backbone-cellar](https://github.com/ccoenraets/backbone-cellar) - A Backbone.js tutorial
+- [jenysis](https://github.com/jimdoescode/jenysis) - A javascript world generation script
+- [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
+- [animals](https://github.com/ivolo/animals) - ASCII animals in your terminal, for any occasion.
+- [meemoo-canvas2gif](https://github.com/forresto/meemoo-canvas2gif) - HTML5 Meemoo module that makes animated GIFs from canvas data
+- [threefab](https://github.com/blackjk3/threefab) - Fabrication tool for three.js
+- [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+- [backbone.marionette](https://github.com/marionettejs/backbone.marionette) - The Backbone Framework
+- [jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
+- [screenshot-app](https://github.com/visionmedia/screenshot-app) - website screenshot service & app - powered by node.js, express, redis, node-canvas, phantomjs and more
+- [color-scheme-builder](https://github.com/snorpey/color-scheme-builder) - build your own color scheme for syntax highliters
+- [scrollorama](https://github.com/johnpolacek/scrollorama) - The jQuery plugin for doing cool scrolly stuff. NOTE: No longer under active development. New version is ScrollMagic.js
+- [fbootstrapp](https://github.com/ckrack/fbootstrapp) - HTML, CSS, and JS toolkit for facebook apps
+- [tmpltr](https://github.com/rocktronica/tmpltr) - A playground tinkertool for rapid web iteration
+- [backbone-fundamentals](https://github.com/logicaroma/backbone-fundamentals) - A creative-commons book on Backbone.js for beginners and advanced users alike
+- [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+- [jscolour.js](https://github.com/daleharvey/jscolour.js) - A british set of libraries + widgets for dealing with colour
+- [todo-app](https://github.com/ronreiter/todo-app) - GAE + Backbone + Require.js Todo web app example
+
+## Jupyter Notebook 
+
+- [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
+
+## Kotlin 
+
+- [PassAndroid](https://github.com/ligi/PassAndroid) - Android App to view passes
+
+## LiveScript 
+
+- [palladian-facades](https://github.com/polm/palladian-facades) - ðŸ›ï¸ Palladian Facade Generator for ProcJam2015
+
+## Lua 
+
+- [aseprite-animalcrossing-qrcode-gen](https://github.com/mutoo/aseprite-animalcrossing-qrcode-gen) - A handy animal crossing qrcode generator for Aseprite.
+- [aseprite-record](https://github.com/sprngr/aseprite-record) - Aseprite scripts for capturing snapshots to make a time lapse gif
+- [Thunders-Aseprite-Scripts](https://github.com/ThunderFD/Thunders-Aseprite-Scripts) - Scripts that I've written to help me automate repetitive tasks in Aseprite.
+- [aseprite-scripts](https://github.com/Tsukina-7mochi/aseprite-scripts) - share scripts of aseprite
+- [aseprite-scripts](https://github.com/rikfuzz/aseprite-scripts) - Scritpts for Aseprite
+- [c64helperscriptsforaseprite](https://github.com/Viza74/c64helperscriptsforaseprite) - C64 helpers scripts for aseprite
+- [isobox-for-aseprite](https://github.com/darkwark/isobox-for-aseprite) - Isometric Box Generator Script for Aseprite
+- [aseprite](https://github.com/dominickjohn/aseprite) - Aseprite plugins
+- [EdgeNormals](https://github.com/securas/EdgeNormals) - An aseprite script to compute fake normal maps at the edges of sprites.
+- [Aseprite-Scripts](https://github.com/goustkor/Aseprite-Scripts) - My aseprite script
+- [scripts-for-asesprite](https://github.com/Heidi-Potato/scripts-for-asesprite) - Contains some Asesprite scripts
+- [AsepriteScript](https://github.com/molingyu/AsepriteScript) - My Aseprite script Lib.
+- [Aseprite-Script-Examples](https://github.com/aseprite/Aseprite-Script-Examples) - Examples of scripts for Aseprite v1.2.10 that you can modify and use for your own custom actions
+- [aseprite-scripts](https://github.com/lazyguru/aseprite-scripts) - Misc LUA scripts for Aseprite
+- [AsepriteScripts](https://github.com/Cotu41/AsepriteScripts) - Some lua scripts for doing things in aseprite
+- [aseprite-scripts](https://github.com/kettek/aseprite-scripts) - Lua scripts for Aseprite
+- [Aseprite-LUA-Scripts](https://github.com/el-falso/Aseprite-LUA-Scripts) - Scripts Collection for the pixelart editor Aseprite
+- [aseprite-scripts](https://github.com/mrbrownjeremy/aseprite-scripts) - My Lua scripts for the pixel art and animation program Aseprite.
+- [aseprite-scripts](https://github.com/PropFeds/aseprite-scripts) - 100% Mind boggling.
+- [Aseprite-Animation-Quantizer](https://github.com/BoThompson/Aseprite-Animation-Quantizer) - 
+- [PixelVision8](https://github.com/AndyGFX/PixelVision8) - AGFX PV8 Test and Libs
+- [ludumdare45](https://github.com/dylanwolf/ludumdare45) - 
+- [Aseprite-Scripts](https://github.com/TekF/Aseprite-Scripts) - 
+- [scumm-8](https://github.com/Liquidream/scumm-8) - A PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games, such as Monkey Island and Maniac Mansion.
+- [pico8](https://github.com/freds72/pico8) - Misc. games for PICO-8
+- [picobox](https://github.com/cauli/picobox) - Physics experiments on Pico-8
+- [aseprite-scripts](https://github.com/aquova/aseprite-scripts) - Some useful scripts for Aseprite
+- [aseprite-scripts](https://github.com/christopherwk210/aseprite-scripts) - A collection of Lua scripts I've made to extend Aseprite
+- [tanzlove](https://github.com/F483/tanzlove) - A euclidean rhythm generator.
+- [LIKO-12](https://github.com/LIKO-12/LIKO-12) - LIKO-12 is an open source fantasy computer made using LÃ–VE.
+- [craftstudio-stuffs](https://github.com/florentpoujol/craftstudio-stuffs) - Some projects made with CraftStudio
+- [pac3](https://github.com/CapsAdmin/pac3) - a character and entity editor for garry's mod
+- [char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+- [Lico](https://github.com/florentpoujol/Lico) - A game about linking nodes of color, made with CraftStudio.
+- [Project-FPS](https://github.com/florentpoujol/Project-FPS) - A very bare-bone prototype of a generic multiplayer FPS made with CraftStudio
+- [sile](https://github.com/sile-typesetter/sile) - Simonâ€™s Improved Layout Engine
+- [GGColour](https://github.com/GlitchGames/GGColour) - GGColour makes it very simple to used named or hex colours in your game or app. You can also create custom colour palettes that you can swap out whenever you want. Colour values liberated from here - http://www.tayloredmktg.com/rgb/
+- [Daneel](https://github.com/florentpoujol/Daneel) - A framework for CraftStudio that bring new functionalities, extend and render more flexible to use the API as well as sweeten and shorten the code you write.
+- [hawkthorne-journey](https://github.com/hawkthorne/hawkthorne-journey) - Digital Estate Planning: The Game
+
+## Makefile 
+
+- [Lakka](https://github.com/libretro/Lakka) - Deprecated. Use https://github.com/lakkatv/Lakka-LibreELEC instead
+- [noobs](https://github.com/raspberrypi/noobs) - NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi
+
+## Mathematica 
+
+- [reservoir_computing](https://github.com/huvers/reservoir_computing) - A reservoir computing implementation in Mathematica for financial time series prediction.
+- [Computational-Finance](https://github.com/JohnMurrill/Computational-Finance) - Computational Fiance Work
+- [blog-this](https://github.com/paul-jean/blog-this) - WordPress blogging client for Mathematica
+- [RandomImageExplorer](https://github.com/kevinl95/RandomImageExplorer) - A Mathematica random image generator inspired by Reddit /r/allthepictures, a project to find meaningful images in high entropy images.
+- [qr-puzzles-ma](https://github.com/orome/qr-puzzles-ma) - A Mathematica QR code puzzle solver and generator, based on 2015 GCHQ Christmas puzzle
+- [stockForecasting](https://github.com/purmonen/stockForecasting) - 
+- [MathematicaForPrediction](https://github.com/antononcube/MathematicaForPrediction) - Mathematica implementations of machine learning algorithms used for prediction and personalization.
+
+## Max 
+
+- [RhythmVAE_M4L](https://github.com/naotokui/RhythmVAE_M4L) - Max for Live(M4L) Rhythm generator using Variational Autoencoder(VAE)
+- [MSDP](https://github.com/MusicSDP/MSDP) - Music_SDP is a toolbox for Multimedia Synthesis, Design, and Performance
+- [aka.leapmotion](https://github.com/akamatsu/aka.leapmotion) - Max external object for the Leap Motion Controller
+- [VIZZable-3](https://github.com/zealtv/VIZZable-3) - Video performance plugins for Ableton and Max
+
+## OCaml 
+
+- [bulletml](https://github.com/emillon/bulletml) - Tools to manipulate and interpret shmup patterns
+
+## Objective-C 
+
+- [p5.js-screen-saver](https://github.com/mactkg/p5.js-screen-saver) - Create your original screen saver using p5.js!
+- [vvopensource](https://github.com/mrRay/vvopensource) - OSC and MIDI frameworks for OS X and iOS, a framework for managing and rendering to GL textures in OS X, and a functional ISF (interactive shader format) implementation for OS X.
+- [VeeSeeVSTRack](https://github.com/bsp2/VeeSeeVSTRack) - Open-source virtual modular synthesizer
+- [GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
+- [cordova-gizwits-scan-qrcode](https://github.com/rafaelfl/cordova-gizwits-scan-qrcode) - cordovaæ‰«ç æ’ä»¶
+- [mma-context](https://github.com/exp2ipi/mma-context) - Mathematica notebook context convenience functions
+- [UniqueDeviceID](https://github.com/Paldom/UniqueDeviceID) - PhoneGap / Cordova unique device id (UUID) plugin for Android, iOS and Windows Phone 8. Remains the same after app uninstall.
+- [Pixen](https://github.com/sxtxixtxcxh/Pixen) - Pixel art editor for Mac OS X
+- [iconfontr](https://github.com/shanzi/iconfontr) - An icon font viewer and material exporter
+- [wordpresser](https://github.com/maranas/wordpresser) - wordpresser is a "framework" project to build iOS apps on top of self-hosted WordPress blogs.
+- [ClassicMap](https://github.com/kishikawakatsumi/ClassicMap) - Google Map is back to iOS 6.
+- [YAMapKit](https://github.com/kishikawakatsumi/YAMapKit) - Yet Another MapKit.framework based on Google Maps Javascript API.
+- [color](https://github.com/thisandagain/color) - A collection of categories and utilities that extend UIColor
+- [OCPDFGen](https://github.com/ocrickard/OCPDFGen) - PDF from HTML generation library for iOS
+- [JASidePanels](https://github.com/gotosleep/JASidePanels) - Reveal side ViewControllers similar to Facebook/Path's menu
+- [saturation](https://github.com/sroske/saturation) - A color theme visualization toy
+
+## Others 
+
+- [magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+- [GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
+- [awesome-game-dev](https://github.com/mbrukman/awesome-game-dev) - :video_game: A list of Game Development resources to make magic happen.
+- [slither-io-construct2](https://github.com/autoxplocode/slither-io-construct2) - Slither Io Code By -daffa AutoXploCode
+- [construct2-evolution-time](https://github.com/wholetonegames/construct2-evolution-time) - 
+- [Space-Invaders-Construct2](https://github.com/voguemaster/Space-Invaders-Construct2) - A space invaders remake using Construct 2 with an attempt to make the logic as close as possible to the original.
+- [game-dev-w-construct-2](https://github.com/Apress/game-dev-w-construct-2) - Source code for 'Game Development with Construct 2' by LEE STEMKOSKI and Evan Leider
+- [HCG](https://github.com/hcatarrunas/HCG) - Files used on GitBook
+- [Construct2CapxFree](https://github.com/kongruksiamza/Construct2CapxFree) - à¹à¸ˆà¸à¹„à¸Ÿà¸¥à¹Œà¹€à¸à¸¡ Construct (.Capx) à¸Ÿà¸£à¸µ
+- [LearnAndKeep](https://github.com/aim-to-miss/LearnAndKeep) - A Educational Game Created with Construct 2
+- [Another-prison-escape-game](https://github.com/iamadarshs/Another-prison-escape-game) - Construct 2 project files of another prison escape game
+- [Game_Rambler](https://github.com/r4nd3l/Game_Rambler) - Construct 2 based game - Experiment - [Game]
+- [construct2-zelda-clone](https://github.com/wholetonegames/construct2-zelda-clone) - 
+- [jsdoit](https://github.com/naoyashiga/jsdoit) - HTML5,CSS3,JS playground.
+- [WoBike](https://github.com/ubahnverleih/WoBike) - Documentation of Bike Sharing APIs ðŸš´ðŸ›´ðŸ›µ
+- [design-document](https://github.com/p2panda/design-document) - Architectural specification and design of p2:panda_face:
+- [awesome-glsl](https://github.com/radixzz/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
+- [Construct3Plugins](https://github.com/armandoalonso/Construct3Plugins) - my collection of construct 3 plugins
+- [nibble](https://github.com/Ugotsta/nibble) - Nibble browser game built using Construct 2
+- [bullet-hell-sketch-2019](https://github.com/fal-works/bullet-hell-sketch-2019) - 
+- [C2Plugin](https://github.com/modio/C2Plugin) - Construct 2 Plugin for integrating mod.io - a modding API for game developers
+- [constructs](https://github.com/dupuqub/constructs) - 
+- [Game-Jam-Tools-Resources](https://github.com/kobitoko/Game-Jam-Tools-Resources) - A list of many game dev/jam tools & resources.
+- [yoshimi](https://github.com/jariseon/yoshimi) - yoshimi soft synth for web browsers
+- [42](https://github.com/rsapkf/42) - @rsapkf's linkroll.
+- [bootPT](https://github.com/echolevel/bootPT) - Bootable Amiga floppy disk image with Syphus' custom Protracker build
+- [Breakout-Construct2](https://github.com/tuliopulgrossi91/Breakout-Construct2) - Breakout Game
+- [GrowQuickly](https://github.com/cxong/GrowQuickly) - ðŸ‘©â€ðŸŒ¾ An arcade farming game
+- [HEAD](https://github.com/joshbuchea/HEAD) - ðŸ—¿ A list of everything that *could* go in the head of your document
+- [workshop-p5-intro](https://github.com/mattdesl/workshop-p5-intro) - Intro to Creative Coding workshop with p5.js and Tone.js
+- [construct2-examples](https://github.com/guimaraf/construct2-examples) - Several small codes to help the Brazilian game development community.
+- [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners
+- [touchdesigner](https://github.com/twistcube/touchdesigner) - 
+- [touchdesigner-playground](https://github.com/riebschlager/touchdesigner-playground) - A collection of TouchDesigner sketches.
+- [Construct-Master-Collection](https://github.com/Chadori/Construct-Master-Collection) - This is the dedicated repository for the Construct Master Collection, developed by ChadoriXD.
+- [VolumetricCapture](https://github.com/VCL3D/VolumetricCapture) - A multi-sensor capture system for free viewpoint video.
+- [ConstructExamples](https://github.com/skymen/ConstructExamples) - Every construct example file I made in one place
+- [LD44CurrencyPlatformer](https://github.com/zengzhining/LD44CurrencyPlatformer) - a game for ldjam44, the theme is Your life is currency
+- [Make-This](https://github.com/bjango/Make-This) - Project files for the Make This video series and community challenges.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [PressStart2P](https://github.com/codeman38/PressStart2P) - A bitmap font based on 1980s video games.
+- [ResolutionBoard](https://github.com/sarthology/ResolutionBoard) - ðŸ“… A template that helps you achieve your resolutions every year
+- [ShaderToyTouchdesigner](https://github.com/SebastienGravel/ShaderToyTouchdesigner) - Convert Shader Toy code for Touchdesigner
+- [TouchDesigner](https://github.com/freeman-as/TouchDesigner) - 
+- [Touchdesigner.Components](https://github.com/guidoschmidt/Touchdesigner.Components) - Hodgepodge of .tox-components for Touchdesigner
+- [TouchDesigner_Shared](https://github.com/DBraun/TouchDesigner_Shared) - TouchDesigner toxes and small projects
+- [touchDream](https://github.com/kjunh972/touchDream) - touchDream ë™ì•„ë¦¬, html Games, construct2
+- [TokeUp](https://github.com/sakshikapoor/TokeUp) - Fun game for high times !
+- [Scealextric](https://github.com/prosecconetwork/Scealextric) - ScÃ©alextric is a knowledge-base for generating stories and jokes comprising a large collection of interlocking action triples and their logical connectives, as well as surface-level idiomatic renderings for each action.
+- [Public-Construct-PatreonRewards](https://github.com/SalmanShhh/Public-Construct-PatreonRewards) - Construct 2 and Construct 3 projects I've released to the public.
+- [construct-SDK](https://github.com/motusai/construct-SDK) - 
+- [armorpaint_samples](https://github.com/armory3d/armorpaint_samples) - Sample files for ArmorPaint
+- [MetalSlugClon](https://github.com/Nicarlus/MetalSlugClon) - 
+- [Construct2_TranslateSystem](https://github.com/LuizMouraBR/Construct2_TranslateSystem) - 
+- [Construct2-tutorial](https://github.com/MisterUniverse/Construct2-tutorial) - Testing out Construct 2
+- [apenas-teleporte](https://github.com/felladrin/apenas-teleporte) - Prototype of the game "Apenas Teleporte", made with Construct 2.
+- [TILEDIT](https://github.com/spinof/TILEDIT) - Import layers from a TMX or JSON Tiled tilemap file into C2 or C3
+- [Pinball](https://github.com/Delisa-Giuseppe/Pinball) - Pinball simply project with Construct 2
+- [workshop-construct2](https://github.com/timetoplaybr/workshop-construct2) - RepositÃ³rio de apoio ao workshop de C2 na Faculdade Bilac.
+- [BulletMLFlockingExamples](https://github.com/dmanning23/BulletMLFlockingExamples) - These are a bunch of BulletML scripts that use a lot of the "aim" mechanic.  Used to demo the BulletFlockBuddy.
+- [learn-rpgs-in-gamemaker-studio](https://github.com/Apress/learn-rpgs-in-gamemaker-studio) - Source code for 'Learn RPGs in GameMaker: Studio' by Ben Tyers
+- [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [awesome-vuetify](https://github.com/vuetifyjs/awesome-vuetify) - ðŸŽ‰ The best resources related to Vuetify
+- [construct2androidstudio](https://github.com/eraliev/construct2androidstudio) - Simple way to convert construct2 project to the android studio
+- [world-cup](https://github.com/openfootball/world-cup) - Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
+- [world-cup.json](https://github.com/openfootball/world-cup.json) - Free open public domain football data for the world cups in JSON incl. Russia 2018 and more - No API key required ;-)
+- [PhyX](https://github.com/AnishGS/PhyX) - A Physics simulation software to learn high school kinematics.
+- [construct2-enhancements](https://github.com/babalugats76/construct2-enhancements) - Example game enhancement projects
+- [GA-SDK-CONSTRUCT](https://github.com/GameAnalytics/GA-SDK-CONSTRUCT) - Repository for GameAnalytics Construct SDK
+- [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
+- [EngineD](https://github.com/daem-on/EngineD) - An open source RPG engine for Construct 2
+- [BulletMLExamples](https://github.com/dmanning23/BulletMLExamples) - A bunch of samples of bulletml scripts from around the web
+- [Chroma-Palette-for-Illustrator](https://github.com/roxaskeyheart/Chroma-Palette-for-Illustrator) - Chroma Palette is a companion app/plugin for Adobe Illustrator which allows you to create, store and recall colors using your devices Numpad or Keypad.
+- [icondrop](https://github.com/Iconscout/icondrop) - Get access to 2 million+ design resources right inside Adobe Xd, Figma, Sketch, Microsoft Office, G Suite and many more.
+- [Erics-MagicaVoxel-Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders) - Shaders for MagicaVoxel including Terrain Generator, Life Game, Waterflow Emulator, Advanced Flood System etc.
+- [MillionEtherHomepage](https://github.com/porobov/MillionEtherHomepage) - 
+- [hellcoin](https://github.com/khyew/hellcoin) - A hellish little crypto coin
+- [eth-hodler](https://github.com/CurrencyTycoon/eth-hodler) - A simple DApp & ERC20 token written in Solidity running on the Ethereum blockchain www.hdao.org
+- [wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
+- [gamee-js-construct2](https://github.com/gameeapp/gamee-js-construct2) - 
+- [ChromaTwitchExtension](https://github.com/tgraupmann/ChromaTwitchExtension) - (Unofficial) The Chroma Twitch Extension adds Chroma lighting to the live channel.
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [artwork](https://github.com/ipfs/artwork) - Open-licensed IPFS-related artwork
+- [madmapperapi](https://github.com/cansik/madmapperapi) - This is a documentation and example page for the MadMapper API.
+- [SpoutInToOutputPlayer](https://github.com/t0mekk/SpoutInToOutputPlayer) - 
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [PlaneGame](https://github.com/MonkeyDBean/PlaneGame) - Construct2
+- [awesome-construct](https://github.com/WebCreationClub/awesome-construct) - A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
+- [awesome-gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games. (mirror)
+- [awesome-generative-art](https://github.com/kosmos/awesome-generative-art) - Awesome generative art
+- [c2-sans-fight](https://github.com/Jcw87/c2-sans-fight) - Undertale Sans Fight Clone
+- [blender-osm](https://github.com/vvoovv/blender-osm) - One click download and import of OpenStreetMap and terrain for Blender! Global coverage! Source code is in the branch 'release'.
+- [flat-file-cms](https://github.com/ahadb/flat-file-cms) - :open_file_folder: :page_with_curl: A list of strictly flat-file cms systems
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - ðŸ“š A public list of APIs from round the web.
+- [Landing-page](https://github.com/daem-on/Landing-page) - A customizable landing page in Construct 2
+- [Babylon3D](https://github.com/matriax/Babylon3D) - All kind of tips about babylon3D
+- [awesome-glyphs](https://github.com/er1chu/awesome-glyphs) - A list of plugins / python scripts, tutorials, and other resources for Glyphs, the next generation type design software.
+- [auto_rig](https://github.com/artellblender/auto_rig) - Blender rigging addon (trial version)
+- [c2-infinity-track](https://github.com/qertis/c2-infinity-track) - âˆž-track  ðŸš©
+- [qrcode_win](https://github.com/sylnsfar/qrcode_win) - a .exe version of qrcode  -  qrcode çš„ .exe ç‰ˆæœ¬
+- [London-CityEngine-Examples](https://github.com/twak/London-CityEngine-Examples) - CGA code for 2 buildings in London
+- [presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
+- [starshare](https://github.com/sqrthree/starshare) - :star:
+- [HugeShips](https://github.com/Xorboo/HugeShips) - A shooter multiplayer game demo on Construct2, a bit similar to Agar.io
+- [social-elements](https://github.com/lipis/social-elements) - Everything you would like to include to make your website more social.
+- [Demos](https://github.com/DragonBones/Demos) - DragonBones Demos (Art assets only)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [vjlxnr](https://github.com/AliTe/vjlxnr) - â€¦ (one more) simple VJing tool made with max/jitter/m4l â€¦
+- [psyop-fabric-exts](https://github.com/Psyop/psyop-fabric-exts) - Psyop's collection of extensions for Fabric Engine.
+- [leap-osc-to-midi](https://github.com/heaversm/leap-osc-to-midi) - Osculator patch for use with Nick Fox's LeapToOSC processing library, which transmits hand coordinates as midi
+- [3030](https://github.com/szhu/3030) - %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!)
+- [football.json](https://github.com/openfootball/football.json) - Free open public domain football data in JSON incl. English Premier League, Bundesliga, Primera DivisiÃ³n, Serie A and more - No API key required ;-)
+- [ld33](https://github.com/leonardCarpentier/ld33) - 
+- [electroknit](https://github.com/kosamari/electroknit) - Knitting for Javascripters
+- [firefox-debloat](https://github.com/amq/firefox-debloat) - Stop Firefox leaking data about you
+- [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
+- [awesome](https://github.com/sindresorhus/awesome) - ðŸ˜Ž Awesome lists about all kinds of interesting topics
+- [awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
+- [Shop-Till-They-Drop](https://github.com/Ratheronfire/Shop-Till-They-Drop) - A game for the Ludum Dare 32 game jam, with the theme "an unconventional weapon."  Made using Construct 2.
+- [ld32](https://github.com/psychonull/ld32) - 
+- [SuperVoxels](https://github.com/Remotion/SuperVoxels) - A multi threaded voxel generator and processing tools for C4D.
+- [voxel-model](https://github.com/ephtracy/voxel-model) - 
+- [CraftStudioStuff](https://github.com/CliffracerX/CraftStudioStuff) - My backups and stuff of my CraftStudio projects.
+- [HTML5-Binaural-Beat-Generator](https://github.com/waynehoover/HTML5-Binaural-Beat-Generator) - A pure javascript based binaural beat generator
+- [htaccess](https://github.com/phanan/htaccess) - âœ‚A collection of useful .htaccess snippets.
+- [mira-lab-2013](https://github.com/spite/mira-lab-2013) - Contents for MIRA Lab 2013 Workshop
+- [NaNoGenMo](https://github.com/dariusk/NaNoGenMo) - National Novel Generation Month. Because.
+- [circuit-boards](https://github.com/paul-nechifor/circuit-boards) - Generator of seamless tiles that resemble circuit boards.
+- [flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+- [GlowDrop](https://github.com/gamepopper/GlowDrop) - Source Code (Project Files) for the Ludum Dare 31 Compo Entry, Glow Drop.
+- [Diddle](https://github.com/nwoike/Diddle) - ExtJS 4 Example Application - Very Simple JSFiddle Clone
+- [gear-of-sha-kah-i-ii](https://github.com/satgo1546/gear-of-sha-kah-i-ii) - 6RçŸ­9ä½œå“ï¼Œå¤§çº¦æœ‰100%çš„æ¦‚çŽ‡ä¼šå‘ã€‚
+- [plaster](https://github.com/TheSavior/plaster) - Realtime collaborative drawing app
+- [MatchGame](https://github.com/wingamekits/MatchGame) - Construct 2 Starter Kit
+- [EightFacts](https://github.com/wingamekits/EightFacts) - Construct 2 Starter Kit
+- [gng-c2](https://github.com/ugarcia/gng-c2) - Ghost and Goblins Construct 2 project files
+- [BallMaze](https://github.com/edufgf/BallMaze) - HTML5 webapp built with Construct 2. Nice game.
+- [Construct-2](https://github.com/jamesqquick/Construct-2) - Construct 2
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [commands-json](https://github.com/TheWebmage/commands-json) - A collection of minecraft command block systems and overly complicated json commands.
+- [Repo.js](https://github.com/darcyclarke/Repo.js) - :page_facing_up: A plugin to embed Github repos on your site
+- [salted](https://github.com/alistapart/salted) - Salted: A responsive email template
+- [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [HUD-Cooldown-Bars](https://github.com/tutsplus/HUD-Cooldown-Bars) - How to Code HUD Cooldown Bars
+- [cordobagamejam2014](https://github.com/lleox/cordobagamejam2014) - Cordoba Game Jam 2014
+- [GrudejoGGJ](https://github.com/fricka/GrudejoGGJ) - 
+- [FUBAJam](https://github.com/m1thr4nd1r/FUBAJam) - This is the repository used by team two on FUBA Jam
+- [Old-Deleted-FullScreenMario](https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
+- [alternative-internet](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [ct-ocean-waves](https://github.com/CreativeTools/ct-ocean-waves) - Ocean Wave Effector for CINEMA 4D
+- [ct-curl-noise](https://github.com/CreativeTools/ct-curl-noise) - A Python effector for creating curl noise movement in CINEMA 4D.
+- [fartscroll.js](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered.
+- [Construct-2](https://github.com/ChrisBowen/Construct-2) - Samples and resources for Scirra's "Construct 2"
+- [drawscript](https://github.com/tomkrcha/drawscript) - Turn Illustrator shapes into graphics code - Obj-C, C++, JavaScript, Processing, ActionScript 3, JSON, raw bezier points
+- [Redacted-Font](https://github.com/fabianmoronzirfas/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum.
+- [front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
+- [frontend-toolbox](https://github.com/christopherscott/frontend-toolbox) - Actively maintained list of useful web developments tools, libraries, assets and any other open-source goodies.
+- [google-web-fonts](https://github.com/doublejosh/google-web-fonts) - Designers need a copy of the fonts too! We need to use them in ways the browser can't yet (always been the case.) Then we can be sure to have this as our new base for dynamic content.
+- [RacketWorm](https://github.com/firebellys/RacketWorm) - Global Game Jam 2013 Entry
+- [WizardPlatformer](https://github.com/ScuffDawg/WizardPlatformer) - Wizard Platformer Game thingy
+- [WordGame1](https://github.com/mageekm/WordGame1) - A test word game
+- [ggj2013](https://github.com/joshr2121/ggj2013) - 
+- [Escape](https://github.com/Manzaib/Escape) - Again
+- [bad-bot-blocker](https://github.com/bluedragonz/bad-bot-blocker) - Block bad, possibly even malicious web crawlers (automated bots) using htaccess.
+- [endorkphingames](https://github.com/hueyl77/endorkphingames) - Huey and Vinnys game hub
+- [reading-list](https://github.com/laktek/reading-list) - Simple site to share your favorite books (created with Punch)
+- [frontend-tools](https://github.com/codylindley/frontend-tools) - Landscaping With Front-end Tools
+- [CSS3-background-patterns-gallery](https://github.com/samarkandiy/CSS3-background-patterns-gallery) - I've tried to create more CSS background patterns not included on http://lea.verou.me/css3patterns/ by Lea Verou
+- [html5](https://github.com/hiralr/html5) - Simple html5 game in construct2
+- [Single-element-Geometrical-Shapes-](https://github.com/samarkandiy/Single-element-Geometrical-Shapes-) - more than 50 shapes using Pure CSS
+- [htmlpool.css](https://github.com/tomasreimers/htmlpool.css) - Better CSS Defaults.
+- [Dungeon-Buster-Repo](https://github.com/wrangler249/Dungeon-Buster-Repo) - Dungeon Buster Repository
+- [businesstxt](https://github.com/fesja/businesstxt) - Business.txt is a file that local businesses upload to their website with their business information so all website providers can update it whenever something is changed.
+- [Gameage](https://github.com/wrroper/Gameage) - Ludum Dare 24 Entry
+- [clean-pancake-theme](https://github.com/mikemattner/clean-pancake-theme) - The Clean Admin theme redesigns the Pancake App back end to clean up the design, make it more compact, and make it feel lighter.
+- [googlefontdirectory](https://github.com/w0ng/googlefontdirectory) - Obsolete. Use https://github.com/google/fonts
+- [LigatureSymbols](https://github.com/kudakurage/LigatureSymbols) - Ligature Symbols is WebFont project to display the symbol with a ligature features. This Font is licensed under the SIL Open Font License.
+- [famfamfam](https://github.com/adineer/famfamfam) - 
+- [wp-2-indesign](https://github.com/ethangardner/wp-2-indesign) - Takes the Wordpress XML export and pares it down to use specific custom post types and taxonomy tags with their respective attachments.
+- [secret-ninja](https://github.com/jaconza/secret-ninja) - A Collection of Markdown files containing useful links and information.
+- [WindowsIcons](https://github.com/Templarian/WindowsIcons) - Windows Phone and Windows RT CC Icons
+- [Recycling4Kids](https://github.com/Tiensbakung/Recycling4Kids) - Recycling for Kids
+- [ConstructBobert](https://github.com/rosshamish/ConstructBobert) - Dragon platformer with a sense of humor
+- [tiny-lsystem-generator](https://github.com/eseraygun/tiny-lsystem-generator) - Tiny L-system fractal generator in JavaScript
+- [CastleQuest](https://github.com/weesje-zz/CastleQuest) - 
+- [css-background-position](https://github.com/remi/css-background-position) - A small experiment to show the *huge* difference tweaking your background-position makes.
+- [jQuery-News-Cycle](https://github.com/damien-quintal/jQuery-News-Cycle) - jQuery news cycle is a simple news/feed cycling plugin
+- [HTML9-Responsive-Boilerstrap-js](https://github.com/impressivewebs/HTML9-Responsive-Boilerstrap-js) - HTML9 Responsive Boilerstrap JS
+- [jQuery-Picture](https://github.com/Abban/jQuery-Picture) - jQuery plugin to handle responsive images.
+- [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
+- [Palettizer](https://github.com/richardanaya/Palettizer) - 
+- [jquery-carousel](https://github.com/awinograd/jquery-carousel) - A jquery carousel plugin
+- [StreamTD](https://github.com/mrabear/StreamTD) - Stream Tower Defense Sandbox Project (construct 2 project)
+- [tumblrhack](https://github.com/aaronmarks/tumblrhack) - 
+- [CSS-Guidelines](https://github.com/csswizardry/CSS-Guidelines) - High-level guidelines for writing manageable, maintainable CSS
+- [Hunter-Davis-impressjs-Resume](https://github.com/huntergdavis/Hunter-Davis-impressjs-Resume) - My resume, open source, using impress.js.
+- [Responsive-Design-Templates](https://github.com/sgobin/Responsive-Design-Templates) - A collection of templates (photoshop, illustrator, indesign, fireworks...) and CSS to help with Responsive Websites Development.
+- [hardboiled-type-design](https://github.com/malarkey/hardboiled-type-design) - 
+- [demo](https://github.com/leplay/demo) - Demos
+- [Love-message](https://github.com/romainavalle/Love-message) - this was done for JS1K
+- [mtm1526-homework-3](https://github.com/etiennegravelle/mtm1526-homework-3) - JQuery colour ap
+- [2D-engine-demo](https://github.com/GuardianGI/2D-engine-demo) - just having some fun with html5 canvas & JS
+- [delayed-css-drop-down](https://github.com/Prinzhorn/delayed-css-drop-down) - CSS ONLY drop down menu which closes after short delay
+- [stop-sopa](https://github.com/zachstronaut/stop-sopa) - A way to participate in the Jan 18 blackout.
+- [HTML5-CSS3-Responsive-Boilerplate](https://github.com/bwsewell/HTML5-CSS3-Responsive-Boilerplate) - Starting point for sites that will require a responsive layout
+- [profile](https://github.com/kengonakajima/profile) - 
+- [online-color-schemer](https://github.com/fajran/online-color-schemer) - Color schemer on the web
+- [mytwistori1.0](https://github.com/prince-mishra/mytwistori1.0) - twistori
+- [server-configs](https://github.com/h5bp/server-configs) - Boilerplate configurations for various web servers.
+- [The-Personal-Page](https://github.com/weightshift/The-Personal-Page) - This simple one-page website is a way for people to have a very quick and easy personable website that aggregates your activity and positions a simple logo, a portrait and some description text in a nicely-formatted manner. This is licensed under the MIT and GPL licenses.
+- [kern.js](https://github.com/bstro/kern.js) - Kern.JS - Make web kerning suck less.
+- [Image-Diff-View-Modes](https://github.com/cameronmcefee/Image-Diff-View-Modes) - New view modes for image diffs
+- [css-colour-burst](https://github.com/samcroft/css-colour-burst) - Simple CSS technique for 'injecting' colour into background images, creating a colour burst effect
+- [js1k](https://github.com/AlexandreAbreu/js1k) - My entries to the js1k contest (http://js1k.com). Mostly ugly raytracing & physics sim stuff.
+- [Overlay-Effect-Menu-with-CSS3](https://github.com/jaseemts/Overlay-Effect-Menu-with-CSS3) - 
+- [two-color-3d-effect-css](https://github.com/jingman/two-color-3d-effect-css) - A way to stack different colored shadows to create a 3d effect for text or boxes.
+- [soundofhtml5](https://github.com/shichuan/soundofhtml5) - Sound of HTML5 - Visual Experiments of HTML5 Audio
+- [css3d-hover-effect-with-fallback](https://github.com/posabsolute/css3d-hover-effect-with-fallback) - A nice flip effect that fallback well on older browser
+- [Guest-List-to-PDF-Labels](https://github.com/simonmaddox/Guest-List-to-PDF-Labels) - Takes a Guest List from Excel and generates a PDF of address labels using InDesign
+- [Shapes-Of-CSS](https://github.com/gilsanchez/Shapes-Of-CSS) - Bunch of shapes you can make with only one element
+- [CSS](https://github.com/gilsanchez/CSS) - playtime for CSS
+- [logo.js](https://github.com/aemkei/logo.js) - A community logo for JS
+- [animate.css](https://github.com/triptych/animate.css) - A big ol' goody bag filled with CSS animations for WebKit, Firefox and beyond.
+- [3D-Cube-Slideshow](https://github.com/JoeMorgan/3D-Cube-Slideshow) - A presentation deck utilizing 3D CSS transforms and transitions to navigate between slides. Content is a presentation on JavaScript code quality.
+- [Twitter-Bootstrap-Indesign-template](https://github.com/morewings/Twitter-Bootstrap-Indesign-template) - Adobe Indesign template for Twitter Bootstrap framework
+- [threejsboilerplate](https://github.com/jeromeetienne/threejsboilerplate) - Boilerplate for three.js on desktop and mobile
+
+## PHP 
+
+- [coloblox](https://github.com/felladrin/coloblox) - A breakout-like game made with Construct2.
+- [sync-pinboard](https://github.com/rosswintle/sync-pinboard) - WordPress plugin for syncing Pinboard pins into a WordPress post type
+- [wp-shadertoy-gallery](https://github.com/reindernijhoff/wp-shadertoy-gallery) - This Wordpress plugin enables a shortcode that can be used to add a gallery with Shadertoy shaders to your Worpress site.
+- [tl-template-checker](https://github.com/Zodiac1978/tl-template-checker) - A WordPress plugin that warns you about old template files in your child theme.
+- [organizing](https://github.com/HenriqueSilverio/organizing) - Easily create a Document Library and shows a filterable listing with informations and download links.
+- [bibimbap](https://github.com/neko/bibimbap) - half finished imageboard theme for WordPress (requires MasterPress + GravityForms)
+- [staticpress](https://github.com/megumiteam/staticpress) - [WordPress Plugin] staticpress - A WordPress plugin to Export your WordPress to static site
+- [styles](https://github.com/stylesplugin/styles) - Change colors and fonts in WordPress themes using the built-in theme customizer.
+- [color-scheme-every-theme](https://github.com/danielauener/color-scheme-every-theme) - A WordPress plugin to change the entire color scheme of your theme via the theme customizer.
+- [SimpleTwit](https://github.com/GYatesIII/SimpleTwit) - A simple Twitter Feed plugin for Wordpress
+- [wp-tweaks](https://github.com/luizbills/wp-tweaks) - Several opinionated wordpress tweaks focused in security and performance. :zap:
+- [wp2static](https://github.com/WP2Static/wp2static) - WordPress static site generator for security, performance and cost benefits
+- [c2-email-plugin](https://github.com/Armaldio/c2-email-plugin) - 
+- [colaboe](https://github.com/gpoint/colaboe) - A quick ponzi scheme. Can be applied not only to money, and can be extended.
+- [Top-Players-PonziScheme](https://github.com/philipszdavido/Top-Players-PonziScheme) - 
+- [ad-generator](https://github.com/AiratHalitov/ad-generator) - ÐŸÑ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ñ€Ð°Ð½Ð´Ð¾Ð¼Ð¸Ð·Ð°Ñ‚Ð¾Ñ€ Ñ‚ÐµÐºÑÑ‚Ð° Ð¸ Ð³ÐµÐ½ÐµÑ€Ð°Ñ‚Ð¾Ñ€ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ð¹ Ð¾Ñ‚ ÐÐ¹Ñ€Ð°Ñ‚Ð° Ð¥Ð°Ð»Ð¸Ñ‚Ð¾Ð²Ð° / Professional text randomizer and ad generator. Author: Airat Halitov
+- [WordPress-Plugin-Boilerplate-Powered](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered) - Wordpress Plugin Boilerplate but Powered with examples and a generator!
+- [YouAreHere](https://github.com/TowCenter/YouAreHere) - 
+- [WordPress-Armory](https://github.com/davidegreenwald/WordPress-Armory) - A WordPress dev boilerplate with a skeleton structure and built-in security.
+- [photoshop-sprite-sheet-from-coordinates](https://github.com/jesseleite/photoshop-sprite-sheet-from-coordinates) - ðŸ‘¾ Photoshop sprite sheet generator
+- [critical-css](https://github.com/JanDC/critical-css) - PHP library for generating critical CSS.
+- [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [page-sidebar-for-twentyseventeen](https://github.com/intoxstudio/page-sidebar-for-twentyseventeen) - Adds sidebar to pages when using Twenty Seventeen WordPress theme
+- [starter](https://github.com/pilau/starter) - A starter theme for WordPress, including other files such as .htaccess and wp-config.php.
+- [twentytwelve-kirki](https://github.com/aristath/twentytwelve-kirki) - Demo theme for the Kirki Customizer on the TwentyTwelve WordPress theme
+- [pdf-thumbnails-support-test](https://github.com/ethanclevenger91/pdf-thumbnails-support-test) - Determine if your server is missing software for WordPress 4.7's native PDF thumbnail generator.
+- [Facebook-Live-Reactions](https://github.com/JamesTheHacker/Facebook-Live-Reactions) - The easiest way to create interactive Facebook live streams. Displays reaction count and live shoutouts :)
+- [koel](https://github.com/koel/koel) - ðŸ¦ A personal music streaming server that works.
+- [polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
+- [tntsearch](https://github.com/teamtnt/tntsearch) - A fully featured full text search engine written in PHP
+- [lf_piccleaner](https://github.com/lilfoot/lf_piccleaner) - Plugin fÃ¼r das entfernen verwaister Produkt- und Variations-Bilder im JTL-Shop3
+- [patternlab-php](https://github.com/pattern-lab/patternlab-php) - The PHP version of Pattern Lab
+- [pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
+- [WP-Tiles](https://github.com/mgmartel/WP-Tiles) - Add beautiful, fully customizable post tiles or tiled galleries anywhere on your WordPress site easily with WP Tiles.
+- [banana-dance-lite](https://github.com/jbelelieu/banana-dance-lite) - (2015) Rapid deployment PHP-based wiki tool with no requirements other than PHP 5.3.
+- [eight-day-week](https://github.com/10up/eight-day-week) - Optimize print publication workflows by using WordPress as your print CMS.
+- [code-examples](https://github.com/WPTT/code-examples) - Code examples and snippet library
+- [blankslate](https://github.com/tidythemes/blankslate) - This is the official and original BlankSlate HTML5 WordPress theme boilerplate most commonly known to designers and developers. Released under the GPL.
+- [quick-admin-color-scheme-picker](https://github.com/mitcho/quick-admin-color-scheme-picker) - WordPress plugin to quickly switch between admin color schemes from the "howdy menu." Happy Birthday Sara Cannon!
+- [Colorcase](https://github.com/UpThemes/Colorcase) - A plugin to add custom color schemes to your WordPress theme.
+- [super-simple-jquery-parallax-background](https://github.com/tcg/super-simple-jquery-parallax-background) - A super simple WordPress plugin for sites that use a background-image. Causes a parallax effect when scrolling. Looks best with seamless tiling images.
+- [wp-responsive-media](https://github.com/randyjensen/wp-responsive-media) - Seamless responsive WordPress images
+- [geopattern-php](https://github.com/RedeyeGroup/geopattern-php) - Create beautiful generative background images from a string. Based on jasonlong/geo_pattern
+- [red](https://github.com/friendica/red) - The Red Matrix
+- [soupView](https://github.com/kekskurse/soupView) - PHP Webpage to Show Soup.io Images
+- [core](https://github.com/flarum/core) - Simple forum software for building great communities.
+- [Making-Isometric-Real-time-Games](https://github.com/andrespagella/Making-Isometric-Real-time-Games) - The official codebase repository of the book Making Isometric Real-Time Games with HTML5, CSS3 and Javascript
+- [wp-auth0](https://github.com/auth0/wp-auth0) - WordPress Plugin for Auth0
+- [Elgg](https://github.com/Elgg/Elgg) - A social networking engine in PHP/MySQL
+- [Export-to-InDesign](https://github.com/pathawks/Export-to-InDesign) - Make WordPress the center of your digital newsroom. Allow reporters to print stories or export to InDesign, right inside the post editor.
+- [humhub](https://github.com/humhub/humhub) - HumHub - Open Source Social Network
+- [stackedit-htmltopdf](https://github.com/benweet/stackedit-htmltopdf) - StackEdit PDF generation service using PHP and wkhtmltopdf
+- [html2pdf](https://github.com/iafan/html2pdf) - A fork of the html2pdf library (http://html2pdf.fr/en) that supports rendering different first/last header/footer
+- [dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
+- [screen](https://github.com/microweber/screen) - Website screenshot tool based on PHP and PhantomJS
+- [codeigniter-colourlovers](https://github.com/subdesign/codeigniter-colourlovers) - Wrapper library for colourlovers.com API
+- [SVG-Icon-Font-Generator](https://github.com/madeyourday/SVG-Icon-Font-Generator) - Creates a SVG font from a set of SVG files and vice versa. The glyph mapping is based on the file names â€“ that makes updating and extending easy and fast.
+- [Simpe-Hosted-Leaderboards](https://github.com/florentpoujol/Simpe-Hosted-Leaderboards) - A simple (barebone) leaderboard system in PHP that can host leaderboards for multiple games.
+- [sg_socialbar](https://github.com/stromgraf/sg_socialbar) - JTL-Shop 3 Socialmedia Plugin
+- [timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
+- [scssphp](https://github.com/leafo/scssphp) - SCSS compiler written in PHP
+- [WP-SCSS](https://github.com/ConnectThink/WP-SCSS) - Wordpress Plugin that compiles sass using scssphp
+- [wp-security](https://github.com/anantshri/wp-security) - Wordpress security functions for paranoid folks. (themes functions.php and .htaccess). Take what you want, leave what you think should be added to it.
+- [Sell-Media](https://github.com/graphpaperpress/Sell-Media) - a WordPress plugin that allows anyone to sell, license and protect images, videos, audio and other media files.
+- [logo-customizer](https://github.com/miya0001/logo-customizer) - This plugin allow you to customize the logo image on Theme Customizer.
+- [Scapegoat](https://github.com/zutrinken/Scapegoat) - Wordpress Theme for Berlin Pirate Party ðŸš§ Unmaintained
+- [Hansel-and-Gretel](https://github.com/Clark-Nikdel-Powell/Hansel-and-Gretel) - WordPress Plugin - Generates and displays breadcrumbs
+- [device-theme-switcher](https://github.com/jamesmehorter/device-theme-switcher) - WordPress plugin which lets you set a theme for handheld devices and one for tablet devices.
+- [dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog. - A minimalist markdown blogging platform.
+- [Queue-Art](https://github.com/Iverum/Queue-Art) - A PHP script for dynamically pulling images into a web page from a Flickr collection. Designed for an art installation involving QR codes.
+- [PDF-Generator](https://github.com/Charizard/PDF-Generator) - A PDF Generator Application designed for ITrix 13, for the purpose of Generating of tickets for workshops
+- [platform](https://github.com/cashmusic/platform) - A free and open platform giving all musicians access to tools that let them manage, promote, and sell their music online.
+- [wordpress-haml-sass](https://github.com/zachfeldman/wordpress-haml-sass) - Easy WordPress theme development in HAML, PHP, & SASS with closure compiled JavaScript
+- [Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+- [contract](https://github.com/smplejohn/contract) - Fulfilling a promise http://www.reddit.com/r/web_design/comments/asm5f/hey_rweb_design_would_anyone_be_nice_enough_to/c0j7lcx
+- [looplet](https://github.com/JasonHoffmann/looplet) - A WordPress Code and Pattern Library
+- [Liddle](https://github.com/LD-Technologies/Liddle) - jsFiddle clone, expanding on the editor significantly.
+- [php-pastebin-v3](https://github.com/atmoner/php-pastebin-v3) - Php pastebin tool
+- [WP-Project-Update-API](https://github.com/Xiphe/WP-Project-Update-API) - Handles Wordpress plugin and theme update requests by comparing the request data with files hosted on github, bitbucket or gitlab.
+- [themewrangler](https://github.com/dmlogic/themewrangler) - Theme Wrangler for WordPress
+- [codepen-awesomepi](https://github.com/TimPietrusky/codepen-awesomepi) - An unofficial API for CodePen.io
+- [ICEcoder](https://github.com/icecoder/ICEcoder) - Browser code editor awesomeness
+- [OpenSkedge](https://github.com/OfficeStack/OpenSkedge) - A flexible employee scheduling application built upon Symfony2 and Doctrine. Designed for companies and organizations with fluid shifts.
+- [XmlRpcRouter](https://github.com/BlueWall/XmlRpcRouter) - Consolidation gateway for Opensimulator xmlrpc (llRemoteData)
+- [forumfive](https://github.com/Xeoncross/forumfive) - A &lt; 10kB forum system in PHP - Code Golf
+- [Ignition](https://github.com/nicbou/Ignition) - A neat micro CMS in under 300kb of PHP. Not actively maintained.
+- [html5blank](https://github.com/html5blank/html5blank) - :construction: Powerful shell for rapidly building your WordPress projects
+- [CSSparser](https://github.com/webdesign-benny/CSSparser) - Parse CSS files with dynamic property fields
+- [Codiad](https://github.com/Codiad/Codiad) - Web Based, Cloud IDE
+- [phpColors](https://github.com/mexitek/phpColors) - A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly.
+- [TMX-TO-CONSTRUCT-2-converter](https://github.com/sirg2003/TMX-TO-CONSTRUCT-2-converter) - Tiled TMX Map converter for Scirra Construct 2
+- [Asaph](https://github.com/phoboslab/Asaph) - A micro-blogging system, focusing on collecting links and images
+- [Minecraft-PHP-Client-2](https://github.com/shoghicp/Minecraft-PHP-Client-2) - OUTDATED. This Minecraft Client/Library is a rewrite of my "Minecraft PHP Client", so it becomes modular and maintenable. It's object-oriented, and has an event system and action system. Supports Spoutcraft.
+- [neoinvoice](https://github.com/tlhunter/neoinvoice) - DEFUNCT: PHP/MySQL: Multi-Tenant Invoice Web App
+- [bolt](https://github.com/bolt/bolt) - Bolt is a simple CMS written in PHP. It is based on Silex and Symfony components, uses Twig and either SQLite, MySQL or PostgreSQL.
+- [tcpdf](https://github.com/ss44/tcpdf) - PHP class for PDF
+- [participad](https://github.com/boonebgorges/participad) - A WordPress plugin for integrating your WP installation with an instance of Etherpad Lite
+- [dndUploader](https://github.com/filad/dndUploader) - Resumable uploads with only Javascript and PHP.
+- [thatn](https://github.com/MauMaGau/thatn) - an hex colour explorer
+- [spidermonkey](https://github.com/tlhunter/spidermonkey) - DEFUNCT: PHP Web Spider from 2011
+- [LB-Colorbox](https://github.com/zamoose/LB-Colorbox) - 
+- [mg-pinterest-strips](https://github.com/mgiulio/mg-pinterest-strips) - A Wordpress widget to display Pinterests pins as vertical strips.
+- [DropboxUploader](https://github.com/jakajancar/DropboxUploader) - 
+- [nicethings](https://github.com/lukejones/nicethings) - 
+- [Simple-Usable](https://github.com/feelfree82/Simple-Usable) - Responsive Wordpress Theme
+- [Simple-responsive-images](https://github.com/Rahe/Simple-responsive-images) - Responsive images in WordPress content
+- [dbaines2012-Wordpress-Theme](https://github.com/dbaines/dbaines2012-Wordpress-Theme) - dBaines.com Wordpress Theme
+- [starterkit](https://github.com/getkirby-v1/starterkit) - Deprecated! See http://github.com/getkirby
+- [cleeng-wp-plugin](https://github.com/Cleeng/cleeng-wp-plugin) - 
+- [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
+- [Magic-Fields](https://github.com/hunk/Magic-Fields) - WordPress CMS Plugin (1.X)
+- [tumblr2wordpress](https://github.com/BenWard/tumblr2wordpress) - A single-page PHP script to export all public posts from a Tumblr account and export them as Wordpress extended RSS. (Enhancement fork of Hao Chen's Tumblr2Wordpress.)
+- [croogo](https://github.com/croogo/croogo) - A CakePHP powered Content Management System
+- [babynewt](https://github.com/robdrimmie/babynewt) - Simple, unthreaded forum software written in PHP with a MySQL database.
+- [Colour-Lovers-PHP](https://github.com/brianhaveri/Colour-Lovers-PHP) - PHP Library to the COLOURlovers.com API
+- [FrogCMS](https://github.com/philippe/FrogCMS) - Frog CMS simplifies content management by offering an elegant user interface, flexible templating per page, simple user management and permissions, as well as the tools necessary for file management.
+- [Better-Art-Direction](https://github.com/davatron5000/Better-Art-Direction) - A fork of the incredible Art Direction plugin by NoÃ«l Jackson (http://noel.io).
+- [Newscoop](https://github.com/sourcefabric/Newscoop) - Newscoop is the open content management system for professional journalists. Features for the modern newsroom include multiple author management, issue-and-section based publishing, geolocation and multilingual content management. The enterprise-standard journalistâ€™s dashboard and a templating engine supporting anything from HTML5 to mobile complete this fast production and publishing system.
+- [embedly_wordpress_plugin](https://github.com/embedly/embedly_wordpress_plugin) - The Embedly Wordpress plugin allows bloggers to embed videos, images and rich media from 300+ providers with just the url.
+- [PHP-Streaming-Audio](https://github.com/gadgetguru/PHP-Streaming-Audio) - Pseudo shoutcast server
+- [shoutstats](https://github.com/lra/shoutstats) - Fast and free Shoutcast server statistic analysis program.
+- [html5-boilerplate-for-wordpress](https://github.com/zencoder/html5-boilerplate-for-wordpress) - The HTML5 Boilerplate adapted into a WordPress template, including Bruce Lawson's HTML5 blog markup.
+- [Chat2](https://github.com/CSS-Tricks/Chat2) - Chatroom with jQuery, PHP, and text files
+- [What-The-Colour](https://github.com/mjangda/What-The-Colour) - A sweet mashup between PixMatch and ColourLovers
+- [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+- [Migrate](https://github.com/ErisDS/Migrate) - WordPress Migration Script - Corrects all URLs present in a standard WP install so that it will work as expected after changing the URL of your install
+- [ASE-Export](https://github.com/PureForm/ASE-Export) - Exports a collection of colors into Adobe's ASE file format
+- [monkey-boards](https://github.com/jamiefdhurst/monkey-boards) - A basic PHP forum system built from the ground up to be small, lightweight, and robust.
+- [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
+- [options-framework-plugin](https://github.com/devinsays/options-framework-plugin) - An Options Panel Framework to help speed theme development.
+- [LampCMS](https://github.com/snytkine/LampCMS) - Open source Question and Answer program similar to StackOverflow and Quora in PHP + MongoDB. Follow @snytkine on Twitter
+- [SocialMediaEnhancer](https://github.com/macx/SocialMediaEnhancer) - WordPress Plugin to enhance your WordPress blog with well formed informations for Facebook, Twitter and Google+ using the Open Graph Protocol (OGP) and sharing functions without the use of external JavaScript.
+- [PHPPdf](https://github.com/psliwa/PHPPdf) - Pdf and graphic files generator library written in php
+- [wp-plugin-boilerplate](https://github.com/Daladevelop/wp-plugin-boilerplate) - This is a boilerplate of a WordPress plugin which contains a number of different things that your plugin might want to implement, like localization, adding scripts and styles, custom post types, custom taxonomies and shortcodes.
+- [dbaines2011-Wordpress-Theme](https://github.com/dbaines/dbaines2011-Wordpress-Theme) - The 2011 Wordpress Theme for dBaines.com
+- [treasureisland](https://github.com/saltcod/treasureisland) - A subtheme for Captain Bookmarks.
+- [mp3player](https://github.com/josephrmoore/mp3player) - An AJAX MP3 player to add to your site.
+- [UpThemes-Framework](https://github.com/UpThemes/UpThemes-Framework) - A simple, extensible WordPress theme options framework with Theme Customizer support.
+- [nighthawk](https://github.com/mfields/nighthawk) - A single column WordPress theme.
+- [elefant](https://github.com/jbroadway/elefant) - Elefant, the refreshingly simple PHP CMS and web framework.
+- [wordpress-admin-style](https://github.com/bueltge/wordpress-admin-style) - Shows the WordPress admin styles on one page to help you to develop WordPress compliant
+- [KulerPHP](https://github.com/gsomoza/KulerPHP) - Easy to use Kuler API library for PHP
+- [PHP-console](https://github.com/gesman/PHP-console) - PHP console allows you to run and test snippets of PHP code through web browser.
+- [download-monitor](https://github.com/download-monitor/download-monitor) - A WordPress plugin which provides an intuitive UI for uploading and managing downloadable files (including support for multiple versions), inserting download links into posts & logging downloads.
+- [dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [minimalistic-html5-boilerplate-wordpress-theme](https://github.com/gliesche/minimalistic-html5-boilerplate-wordpress-theme) - Simple WP Theme based on HTML5 Boilerplate
+- [wp-dynamic-text](https://github.com/joelclermont/wp-dynamic-text) - Dynamic text plugin for WP (based on querystring/cookie)
+- [Birthday-Visualizer](https://github.com/ehmorris/Birthday-Visualizer) - A facebook app that displays statistics on your friends' birthdays
+- [skeleton_wp](https://github.com/simplethemes/skeleton_wp) - Skeleton is a simple, responsive WordPress theme based on the Skeleton Boilerplate. It has several useful shortcodes, such as tabs, toggles, cross-browser CSS3 buttons, and layout columns. It also includes a bbPress skin/stylesheet and sample child theme.
+- [wp-social](https://github.com/crowdfavorite/wp-social) - A social web integration plugin for WordPress. (Twitter, Facebook, etc.)
+- [bancha](https://github.com/squallstar/bancha) - Bancha is an open-source CMS made by Nicholas Valbusa written in PHP5.3.
+- [wordpress-backup-to-dropbox](https://github.com/justliam/wordpress-backup-to-dropbox) - A plugin for WordPress that automatically uploads your blogs files and a SQL dump of its database to Dropbox. Giving you piece of mind that your entire blog including its precious posts, images and metadata regularly backed up.
+- [TGM-Plugin-Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install, update and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference bundled plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet.
+- [bootstrapwp-Twitter-Bootstrap-for-WordPress](https://github.com/rachelbaker/bootstrapwp-Twitter-Bootstrap-for-WordPress) - CSS toolkit from Twitter for use as a WordPress theme
+- [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+- [Imagine-](https://github.com/jasperf/Imagine-) - Imagine WordPress Framework
+- [WordPress-to-InDesign](https://github.com/bangordailynews/WordPress-to-InDesign) - Getting content from WordPress to InDesign
+- [wp-turpial-theme](https://github.com/satanas/wp-turpial-theme) - Turpial Theme for Wordpress
+- [scrapbook](https://github.com/hellerbarde/scrapbook) - Small webapplication to save small chunks of text
+- [esoTalk](https://github.com/esotalk/esoTalk) - Fat-free forum software.
+- [goshen-wordpress-theme](https://github.com/anthonydb/goshen-wordpress-theme) - WordPress theme for anthonydebarros.com; no longer used.
+- [openhtml](https://github.com/thomaspark/openhtml) - Simple HTML and CSS editor for beginners
+- [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.
+- [php-waveform-png](https://github.com/afreiday/php-waveform-png) - PHP MP3 PNG waveform generator
+- [Background-Manager-WP](https://github.com/Myatu/Background-Manager-WP) - Background Manager is a powerful replacement for the default WordPress background manager.
+- [WordPress-Starter-Theme](https://github.com/mattbanks/WordPress-Starter-Theme) - WordPress Starter Theme for use as a starting template for building custom themes. Uses SCSS, Normalize, AutoPrefixr, Grunt for compilation/linting/deployments, and BrowserSync for cross-device auto refreshing.
+- [Pears](https://github.com/simplebits/Pears) - 
+- [nydd-wordpress-theme](https://github.com/beatak/nydd-wordpress-theme) - based on 2011
+- [wordpress-bootstrap](https://github.com/arnabwahid/wordpress-bootstrap) - Bootstrap in WordPress theme form - Bootstrap 3.3.1
+
+## Pascal 
+
+- [XSID](https://github.com/M3wP/XSID) - Tools for the playback of XSID files and conversion of SID files.
+
+## Perl 
+
+- [Net-COLOURlovers](https://github.com/alanhaggai/Net-COLOURlovers) - Interface to COLOURlovers.com's API
+
+## Processing 
+
+- [jumplab](https://github.com/fukuchi/jumplab) - JumpLab is a software that allows you to experiment with variable parameters for jumping and camera movement in platform games (jump action games) such as Super Mario Bros. It is designed as an educational tool for learning how parameter settings affect the sense of playing in video games.
+- [SpoutSort](https://github.com/x-j/SpoutSort) - simple Processing patch + SpoutControls FFGL plugin for PixelSorting local videos
+- [SnakeFusion](https://github.com/Code-Bullet/SnakeFusion) - Using the genetic algorithm and neural networks I trained up 5 snakes who will then fuse to become the ultimate snake, this is how I did it
+- [spoutp5resolume](https://github.com/jpupper/spoutp5resolume) - Ejemplo del videotutorial de ocmo hacer un plugin en processing para el resolume
+- [visualpiano](https://github.com/jpupper/visualpiano) - Resolume plugin for playing an midi piano made in processing
+- [figure2_0](https://github.com/nickdrawthing/figure2_0) - 
+- [procedural-landscape](https://github.com/pjsolomon/procedural-landscape) - Uses Processing and Perlin Noise to generate a procedural 2D rendering of different landscapes, which are then rendered into 3D
+- [ProcessingStuff](https://github.com/Blokatt/ProcessingStuff) - Various pretty-ish Processing sketches by Blokatt. About 50% shaders.
+- [ProcessingCubes](https://github.com/samuellapointe/ProcessingCubes) - 
+- [Txtgenerator](https://github.com/jpupper/Txtgenerator) - 
+- [Resline](https://github.com/jpupper/Resline) - Another plugin for resolume, simple yet effective plugin to control a panel
+- [timrolls](https://github.com/Supercolony/timrolls) - Daily Generative art by Tim Rolls
+- [EQ_Visualisation](https://github.com/norbertbajko/EQ_Visualisation) - A simple music visualizer made with Processing
+- [CAN_GenerativeTypography](https://github.com/AmnonOwed/CAN_GenerativeTypography) - 26 code examples for my Generative Typography with Processing tutorial on CreativeApplications.net
+- [CircleTheme](https://github.com/keshrath/CircleTheme) - VJ Loops & Plugins
+- [effects](https://github.com/cahirwpz/effects) - Demoscene effects written in Processing language
+- [romanesco-broccoli-generator](https://github.com/rrhvella/romanesco-broccoli-generator) - A processing sketch which generates a 3D-model of the Romanesco broccoli, a naturally occuring fractal.
+- [Code-Package-Processing-3.x](https://github.com/generative-design/Code-Package-Processing-3.x) - Code package of the book Generative Design for Processing 3.x
+- [Processing_Resolume_FFT](https://github.com/AndreasRef/Processing_Resolume_FFT) - Automatic VJ interface for FFT powered communication between Processing, Resolume Arena and a MIDI controller
+- [VJTools](https://github.com/endanke/VJTools) - A basic VJ toolset created with Processing
+- [vjspout](https://github.com/qial/vjspout) - Processing 3.0 sketch for VJ development
+- [GenerativeArt](https://github.com/TobiasWehrum/GenerativeArt) - 
+- [Introwerks](https://github.com/GlitchTools/Introwerks) - Processing scripts
+- [GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design
+- [LeapToOsc](https://github.com/heaversm/LeapToOsc) - (Eyebeam #13 of 13) Output OSC from the Leap Motion / LeapMotion controller. It can (crudely) group fingers and tools with hands and record coordinates as After Effects or Maya scripts.
+- [KNC2](https://github.com/ludzeller/KNC2) - A wrapper for The MidiBus in order to use the Korg NanoControl 2 (or any other USB MIDI) controller within Processing in a very convenient way. That's it! Please note, it's not a library but just a snippet to include in your sketch. This code was developed by Ludwig Zeller for a series of workshops at HGK Basel. See https://vimeo.com/113396020 for some examples.
+- [blomster](https://github.com/clayheaton/blomster) - A Genetic Algorithm of Flowers
+- [tenprintcover-p5](https://github.com/mgiraldo/tenprintcover-p5) - Processing-based book cover-generating algorithm based on 10print.org
+- [Teeter](https://github.com/CaseyBloomquist/Teeter) - A Leap Motion controlled video game
+
+## Prolog 
+
+- [bulletpl](https://github.com/hsk/bulletpl) - 
+
+## Puppet 
+
+- [instantdrupal](https://github.com/MFoster/instantdrupal) - Vagrant and puppet team up to spin up a brand new instance of a Drupal web server
+
+## Python 
+
+- [MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [generative_art](https://github.com/aaronpenne/generative_art) - A collection of my generative artwork, mostly with Processing in Python mode
+- [rigacar](https://github.com/digicreatures/rigacar) - Blender addon to generate rig for cars
+- [shapegan](https://github.com/marian42/shapegan) - Generative Adversarial Networks and Autoencoders for 3D Shapes
+- [iClone](https://github.com/reallusion/iClone) - API samples for iClone Python API
+- [nk-obs](https://github.com/mattipt/nk-obs) - Control OBS Studio with the Korg nanoKONTROL2 using the obs-websocket plugin
+- [Sorcar](https://github.com/aachman98/Sorcar) - Procedural modeling in Blender using Node Editor
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
+- [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
+- [c4d_mathgraphing](https://github.com/itspacchu/c4d_mathgraphing) - Graphing a Mathematical Equation in Cinema4D
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
+- [quick_stitch_c4d](https://github.com/nishidate-yuki/quick_stitch_c4d) - A free plugin for Cinema4D to easily and quickly create stitches.
+- [FishSim](https://github.com/nerk987/FishSim) - Blender Addon - Fish Swimming Simulator
+- [blender_scale_with_modifiers](https://github.com/artempoletsky/blender_scale_with_modifiers) - Blender addon
+- [twardoch-fontlab-scripts](https://github.com/twardoch/twardoch-fontlab-scripts) - Python scripts for FontLab 7 by Adam Twardoch
+- [twitch-songrequest-text](https://github.com/gabrigode/twitch-songrequest-text) - Shows the playing music on streamer's screen
+- [twitter_cleaner](https://github.com/fsjunior/twitter_cleaner) - A small python script that allows you to delete your tweets beyond a specific date.
+- [MagicaVoxel-VOX-importer](https://github.com/RichysHub/MagicaVoxel-VOX-importer) - Blender import script for MagicaVoxel .vox format as cube primitives.
+- [SuperPoke](https://github.com/mantissa-/SuperPoke) - Iterative poking tool for Blender
+- [mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes
+- [pmfx-shader](https://github.com/polymonster/pmfx-shader) - Cross platform shader system targetting HLSL, GLSL, Metal and SPIR-V. Multi-threaded compilation, reflection, metadata +so much more.
+- [makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
+- [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+- [trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
+- [Model-Library-browser](https://github.com/reasonno1/Model-Library-browser) - Model Library browser
+- [iClone-Mocap](https://github.com/reasonno1/iClone-Mocap) - 
+- [blender_addon_reallusion](https://github.com/DigiKrafting/blender_addon_reallusion) - Pipeline/Workflow import/export for Character Creator (CC) and export to 3DXchange for iClone.
+- [W_Mesh_28x](https://github.com/WiresoulStudio/W_Mesh_28x) - Blender addon for parametric objects
+- [Blender_Experiments](https://github.com/aiekick/Blender_Experiments) - some experiments in blender
+- [easygen](https://github.com/markriedl/easygen) - 
+- [TypeRig](https://github.com/kateliev/TypeRig) - Font Development Toolkit for FontLab 6 & 7
+- [time_clicker_automatization](https://github.com/b1oki/time_clicker_automatization) - Time Clickers Auto Clicker and updater
+- [blender.script.spout](https://github.com/maybites/blender.script.spout) - Spout for Blender
+- [fbxExportTool](https://github.com/hyunxiGit/fbxExportTool) - This tool aim to provide a clean and easy-to-use solution for Maya -&gt; Unity animation dtata export pipeline.
+- [FX4Reaper](https://github.com/Blokatt/FX4Reaper) - Various JSFX plugins for REAPER.
+- [RanginakColorGenerator](https://github.com/Chubek/RanginakColorGenerator) - A color generator using Python
+- [midi-to-pico8](https://github.com/andmatand/midi-to-pico8) - 
+- [agatha](https://github.com/driemworks/agatha) - Stock market prediction using Keras
+- [io_three](https://github.com/repsac/io_three) - Dev repos for the three.js threeio Blender exporter
+- [touchdesigner-sop-to-svg](https://github.com/raganmd/touchdesigner-sop-to-svg) - A pipeline for handling the SOP to SVG pipeline. This is especially handy for using procedurally generated geometry for paths to be cut or plotted.
+- [bulletml_pyglet](https://github.com/mcgillij/bulletml_pyglet) - test script for python bulletml and pyglet
+- [spatial-media](https://github.com/google/spatial-media) - Specifications and tools for 360Âº video and spatial audio.
+- [ProGAN](https://github.com/perplexingpegasus/ProGAN) - 
+- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [rngback](https://github.com/jedevc/rngback) - Randomly generated geometric backgrounds
+- [cinema4d-points-to-json](https://github.com/lucascassiano/cinema4d-points-to-json) - Export a vertexes from a mesh to a json array
+- [cinema4d-scripts](https://github.com/aturtur/cinema4d-scripts) - My collection of Cinema 4D scripts
+- [lyrics-finder](https://github.com/NISH1001/lyrics-finder) - A simple CLI tool for searching lyrics from http://azlyrics.com/
+- [ImportVOX](https://github.com/MateSteinforth/ImportVOX) - Import Script for MagicaVoxel .VOX Files into Cinema 4D
+- [FontSelector_blender_addon](https://github.com/samytichadou/FontSelector_blender_addon) - 
+- [Asset-Flinger](https://github.com/black-h0bB1T/Asset-Flinger) - Fork of https://github.com/BlenderAid/Asset-Flinger
+- [sverchok](https://github.com/nortikin/sverchok) - Sverchok
+- [PivotPro](https://github.com/JoseConseco/PivotPro) - Creates temporary pivot point
+- [magicavoxel-shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders) - Shaders for MagicaVoxel to simplify common and repetitive tasks.
+- [PyVST](https://github.com/kunitoki/PyVST) - 
+- [tomato](https://github.com/itsKaspar/tomato) - avi index breaker
+- [TrufflePig](https://github.com/SmokinCaterpillar/TrufflePig) - A Steemit Curation Bot based on Natural Language Processing and Machine Learning.
+- [OrtogOnBlender](https://github.com/cogitas3d/OrtogOnBlender) - Addon para o planejamento de cirurgia ortognÃ¡tica digital
+- [detectron_webcam_example](https://github.com/shinseung428/detectron_webcam_example) - 
+- [vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
+- [rapcountr](https://github.com/talwai/rapcountr) - Web App / API for retrieving word-frequency counts for a corpus of hip-hop lyrics
+- [Python-world-gen](https://github.com/brianbeauregard/Python-world-gen) - A python worldgen project
+- [color_recognizer](https://github.com/michtesar/color_recognizer) - Small project to learn neuronal network with classifying some basic colors based on Decision Tree Classifier and webcam input
+- [3D-internet-zoo](https://github.com/afourmy/3D-internet-zoo) - A 3D visualization of the Internet topology Zoo with Google Earth
+- [mikezart](https://github.com/joaoperfig/mikezart) - automatic music generator and interface
+- [NeuronBuild](https://github.com/NWoolridge/NeuronBuild) - A script to import neuron morphology data into 3D apps
+- [Sprytile](https://github.com/Sprytile/Sprytile) - A Blender add-on for building tile based low-poly scenes with paint/map editor like tools
+- [Mp3Player](https://github.com/awall9999/Mp3Player) - Based on raspberry pi. If you close the contact on the GPIO17, it plays one song randomly from a USB stick
+- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
+- [qrcode](https://github.com/sylnsfar/qrcode) - artistic QR Code in Python ï¼ˆAnimated GIF qr codeï¼‰- Python è‰ºæœ¯äºŒç»´ç ç”Ÿæˆå™¨ ï¼ˆGIFåŠ¨æ€äºŒç»´ç ã€å›¾ç‰‡äºŒç»´ç ï¼‰
+- [gifbot](https://github.com/ahhda/gifbot) - A Facebook Messenger Bot for finding the right GIF.
+- [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
+- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
+- [mdvj](https://github.com/pussinboot/mdvj) - milkdrop vj midi controller
+- [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
+- [magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
+- [coa_tools](https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
+- [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
+- [spine_sequence](https://github.com/MattOstgard/spine_sequence) - Add an image sequence to an Esoteric Spine skeleton.
+- [piece-font](https://github.com/tehmaze-labs/piece-font) - Fonts for the piece project
+- [mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
+- [PyFladesk](https://github.com/smoqadam/PyFladesk) - create desktop application by using Flask and QtWebKit
+- [neulandeuphonie](https://github.com/Jugendhackt/neulandeuphonie) - 
+- [qrtistry](https://github.com/henryk/qrtistry) - 
+- [inkscape-spine-exporter](https://github.com/jleclanche/inkscape-spine-exporter) - Moved to EsotericSoftware organization
+- [LeapProjects](https://github.com/Suyash458/LeapProjects) - Experiments with the Leap Motion API for Python
+- [musikernel](https://github.com/j3ffhubb/musikernel) - All-In-One Digital Audio Workstation and Plugin Suite
+- [vegetation](https://github.com/rycwo/vegetation) - ðŸŒ± Legacy Fabric Splice tool for growing virtual ivy.
+- [tektshared](https://github.com/t3kt/tektshared) - Shared TouchDesigner components
+- [procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
+- [blender-architecture-scripts](https://github.com/ccamara/blender-architecture-scripts) - A collection of Blender scripts and plugins specially aimed for architecture
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! ðŸŽ
+- [gimp-spine](https://github.com/KFredberg/gimp-spine) - A GIMP plugin to export to Spine
+- [image-dreamer](https://github.com/Dhar/image-dreamer) - "Dreams" images, such as shown in the Google Research blog post on "Inceptionism".
+- [notes](https://github.com/b38tn1k/notes) - procedurally generate MIDI files with python
+- [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
+- [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
+- [Multi-Object-UV-Editing](https://github.com/ndee85/Multi-Object-UV-Editing) - This Blender Addon enables a quick way to create one UV Layout for multiple objects.
+- [reddit-plugin-thebutton](https://github.com/reddit-archive/reddit-plugin-thebutton) - The Button.
+- [AwayExtensions-C4D](https://github.com/awaytools/AwayExtensions-C4D) - 
+- [roboto](https://github.com/googlefonts/roboto) - The Roboto family of fonts
+- [Driver-Constraint-Addon](https://github.com/ndee85/Driver-Constraint-Addon) - Blender Addon - This addon makes constraining shapekey driver to bones super easy. Its all in one simple operator
+- [c4d-2048](https://github.com/NiklasRosenstein/c4d-2048) - 2048 Game for Cinema 4D
+- [Robofont-scripts](https://github.com/loicsander/Robofont-scripts) - 
+- [RobofabPens](https://github.com/loicsander/RobofabPens) - A collection of Robofab pens doing various things with outlines.
+- [weevely3](https://github.com/epinna/weevely3) - Weaponized web shell
+- [RoboFont](https://github.com/jenskutilek/RoboFont) - RoboFont extensions and scripts
+- [Rotator](https://github.com/frankrolf/Rotator) - Robofont extension for joyful rotation of whole glyphs or selected outlines.
+- [audiogrep](https://github.com/antiboredom/audiogrep) - Creates audio supercuts.
+- [B3DScripts](https://github.com/RH2/B3DScripts) - Experimentation
+- [GXAudioVisualisation](https://github.com/gethiox/GXAudioVisualisation) - Blender Python script for audio visualisation
+- [BlenderBeamNGExport](https://github.com/50thomatoes50/BlenderBeamNGExport) - Blender add-on script to export jbeam information for BeamNG.drive driving simulator.
+- [InkscapeSpineExporter](https://github.com/kbristow/InkscapeSpineExporter) - Inkscape extension to aid in the development of Spine animations.
+- [melody.py](https://github.com/AlexNisnevich/melody.py) - Brute-force generation of ten-note cantus firmus melodies and first species counterpoint
+- [fontlab-scripts](https://github.com/adobe-type-tools/fontlab-scripts) - Python scripts for FontLab
+- [autopsy](https://github.com/davelab6/autopsy) - Autopsy is a FontLab Studio Python script for analyzing design consistency across multiple fonts.
+- [BatchFontInfo](https://github.com/retypefoundry/BatchFontInfo) - Fontlab script (with a simple GUI) to complete Font Names & Metrics of a family
+- [fontstep](https://github.com/signalwerk/fontstep) - Fontstep is a python builder-tool for fonts. It currently works just in FontLab.
+- [font-tools](https://github.com/tphinney/font-tools) - Font-related tools such as FontLab Studio Python scripts, FontLab .enc files for character sets, etc.
+- [FontLab-macros](https://github.com/MrBrezina/FontLab-macros) - Python macros for FontLab Studio 5 used for glyph names manipulation or extraction
+- [Impallari-Fontlab-Macros](https://github.com/impallari/Impallari-Fontlab-Macros) - A bunch of Fontlab Macros
+- [FontLab-Scripts](https://github.com/benkiel/FontLab-Scripts) - A set of scripts for working in FontLab
+- [pyDome](https://github.com/cmontesano/pyDome) - python based sIBL loader for Cinema 4D
+- [glitch_mixer](https://github.com/AlexNisnevich/glitch_mixer) - Mixer and sequencer for minimalist algorithmic compositions
+- [makeswordclouds](https://github.com/winneon/makeswordclouds) - Currently offline.
+- [MCAvatar](https://github.com/joealcorn/MCAvatar) - yet another Minecraft avatar generator
+- [rigify](https://github.com/pitchipoy/rigify) - Auto-rigging addon for Blender
+- [conversnitch](https://github.com/brianhouse/conversnitch) - A monitoring device
+- [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, â€¦) to PDF.
+- [gizeh](https://github.com/Zulko/gizeh) - Simple Vector Graphics for Python
+- [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [smartcsv](https://github.com/santiagobasulto/smartcsv) - CSVs are awesome, yet they're pretty dumb. Let's get them smarter!
+- [jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
+- [glapse](https://github.com/dsaltares/glapse) - Take desktop screenshots and glue them to make a time lapse video in GNU/Linux
+- [colourlovers-mockup](https://github.com/h4k1m0u/colourlovers-mockup) - Get color palette from http://colourlovers.com to dress a google-like mokup with it's colors.
+- [gimp-spine](https://github.com/clofresh/gimp-spine) - A GIMP plugin to export to Spine
+- [glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate CSS sprites
+- [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [patent-generator](https://github.com/antiboredom/patent-generator) - Transforms literary/philosophical texts into patent applications
+- [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
+- [Spriter2Unity](https://github.com/Malhavok/Spriter2Unity) - Tool for converting SCML files into Unity prefab and anim
+- [creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.
+- [gspread](https://github.com/burnash/gspread) - Google Sheets Python API
+- [github-decorator](https://github.com/skazhy/github-decorator) - A GitHub profile decorator
+- [typefacet](https://github.com/charlesmchen/typefacet) - typefacet
+- [huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
+- [gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+- [youtube-export](https://github.com/Khan/youtube-export) - Scripts to download and transcode Khan Academy videos and put them on S3
+- [glyphicons-sprite-generator](https://github.com/gmr/glyphicons-sprite-generator) - The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.
+- [FileRock-Client](https://github.com/filerock/FileRock-Client) - FileRock Client - FileRock is a file synchronization and backup solution providing confidentiality and integrity check.
+- [briefkasten](https://github.com/ZeitOnline/briefkasten) - a reasonably secure web application for submitting content anonymously
+- [pinry](https://github.com/overshard/pinry) - Pinry's repository has moved to
+- [Drapache](https://github.com/louissobel/Drapache) - Serve a website through your dropbox
+- [colorific](https://github.com/99designs/colorific) - Automatic color palette detection
+- [WebPutty](https://github.com/glitchdotcom/WebPutty) - WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.
+- [mcedit](https://github.com/mcedit/mcedit) - MCEdit, Minecraft World Editor 1.0 - no longer developed. See website for version 2.0
+- [inline-styler](https://github.com/danawoodman/inline-styler) - Converts CSS rules into inline style attributes for easier HTML email development.
+- [python-colourlovers](https://github.com/roadsideseb/python-colourlovers) - Module to use ColourLovers API
+- [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
+- [tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
+- [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
+- [landslide](https://github.com/n1k0/landslide) - An HTML5 slideshow generator based on Markdown or reStructuredText
+- [stashboard](https://github.com/twilio/stashboard) - An open-source status dashboard running on App Engine
+- [codeboje-playground](https://github.com/azarai/codeboje-playground) - 
+- [tablify](https://github.com/joelbm24/tablify) - A script that converts images to html tables
+- [gaetalk](https://github.com/lilydjwg/gaetalk) - A chatroom application run on Google App Engine
+- [youtify](https://github.com/youtify/youtify) - Online music player
+- [Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats â€” free for public use.
+- [vimfiddler](https://github.com/codeape2/vimfiddler) - 
+
+## R 
+
+- [generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
+- [SimpleGrowthVisualization](https://github.com/bilevg/SimpleGrowthVisualization) - Economic Growth (Annual % change in GDP) visualized on world map
+- [colourlovers](https://github.com/andrewheiss/colourlovers) - ðŸŽ¨ ðŸ“¦  R Client for the COLOURlovers API
+
+## Ruby 
+
+- [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [eneroth-solid-tools](https://github.com/Eneroth3/eneroth-solid-tools) - Solid operations for SketchUp
+- [resolume](https://github.com/brivad/resolume) - Resolume vj software Composition files Tools
+- [kissr_website](https://github.com/KISSr/kissr_website) - 
+- [pnglitch](https://github.com/ucnv/pnglitch) - A Ruby library to glitch PNG images.
+- [geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+- [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
+- [pdfkit](https://github.com/pdfkit/pdfkit) - A Ruby gem to transform HTML + CSS into PDFs using the command-line utility wkhtmltopdf
+- [catarse](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world
+- [fontello_rails_converter](https://github.com/railslove/fontello_rails_converter) - CLI gem for comfortably working with icon fonts (open, download, convert) from http://fontello.com for usage in Rails apps.
+- [barcoded](https://github.com/utensils/barcoded) - A barcode generation web service.
+- [PixelHolder-Sinatra](https://github.com/dinglidingli/PixelHolder-Sinatra) - PixelHoldr website placeholder image generator
+- [photographer-io](https://github.com/robotmay/photographer-io) - An open source photography community. No longer in production but still open source.
+- [lucre](https://github.com/begriffs/lucre) - Let people pay you for any or no reason.
+- [docverter](https://github.com/Docverter/docverter) - Docverter Server
+- [24pullrequests](https://github.com/24pullrequests/24pullrequests) - :christmas_tree: Giving back to open source for the holidays
+- [typeset.css](https://github.com/tyler-smith/typeset.css) - A no-nonsense CSS typography reset for styling user-generated content like blog posts, comments, and forum content.
+- [happy-importer](https://github.com/happy-geocode/happy-importer) - The database import for happy geocode
+- [parsec](https://github.com/happy-geocode/parsec) - Parsec is a natural language parser for addresses
+- [sketchup-stl](https://github.com/SketchUp/sketchup-stl) - A SketchUp Ruby Extension that adds STL (STereoLithography) file format import and export.
+- [selfstarter](https://github.com/apigy/selfstarter) - Roll your own crowdfunding
+- [tentd](https://github.com/tent/tentd) - Reference implementation of a Tent server in Ruby
+- [goodvsevil](https://github.com/mroth/goodvsevil) - :cat::dog: A quick hack to compare keyword counts in the Twitter Streaming API, using puppies and kittens.
+- [neat](https://github.com/thoughtbot/neat) - [no longer maintained]
+- [nopassword](https://github.com/alsmola/nopassword) - An authentication and session management framework that eliminates the need for passwords.
+- [COLOURlovers](https://github.com/chrism/COLOURlovers) - Gem for COLOURlovers API
+- [homoiconic](https://github.com/raganwald-deprecated/homoiconic) - An experiment in publishing code and words about code on a small scale.
+- [legacy-cli](https://github.com/heroku/legacy-cli) - Heroku CLI
+- [deadweight](https://github.com/aanand/deadweight) - NOT MAINTAINED
+- [css2sass](https://github.com/jpablobr/css2sass) - Convert CSS Snippets to Syntactically Awesome StyleSheets code
+- [diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [paintbox](https://github.com/meleyal/paintbox) - Paintbox is a simple web app for saving and sharing colors
+- [sketchup-vistools](https://github.com/danawoodman/sketchup-vistools) - [NOT MAINTAINED] A collection of useful visibility tools to use within SketchUp.
+- [midi-eye](https://github.com/arirusso/midi-eye) - Ruby MIDI input event listener
+- [indexmarks](https://github.com/acoffman/indexmarks) - Small Local Server and Chrome Extension to Enable Indexed Full Text Search Of Your Bookmarked Pages
+- [tipi](https://github.com/afunai/tipi) - fullscreen slideshow of your Twitpic pictures, by Supersized jQuery Plugin and a little Sinatra app.
+- [sassytextshadow](https://github.com/at-import/sassytextshadow) - Sassy Text Shadow is a Sass mixin that calculates convoluted curvy shadows for css3 text-shadow. It can also be used for box-shadow if you're into that kind of thing.
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
+- [lamernews](https://github.com/antirez/lamernews) - Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
+- [kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
+- [pinterest-clone-layout](https://github.com/evenwu/pinterest-clone-layout) - 
+
+## Rust 
+
+- [obs-shaderfilter-plus](https://github.com/Limeth/obs-shaderfilter-plus) - obs-shaderfilter rewritten in Rust and improved
+- [activity-scraper](https://github.com/ryanmcgrath/activity-scraper) - A social media scraper written in Rust. Used for the data on my personal site.
+- [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+- [pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
+
+## Shell 
+
+- [specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
+- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - ðŸš€ Awesome (free) web apps that work without login
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [OSCeleton](https://github.com/Sensebloom/OSCeleton) - OSCeleton is a proxy that sends skeleton information collected from the kinect sensor via OSC, making it easier to use input from the device in any language / framework that supports the OSC protocol.
+- [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+- [docker-prototypo](https://github.com/passcod/docker-prototypo) - Experimental deployment of Prototypo on Docker.
+- [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [GoogleFontMetadata](https://github.com/academe/GoogleFontMetadata) - Google Font Metadata Extractor
+- [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
+- [social-bookmarks-export](https://github.com/scottboms/social-bookmarks-export) - Simple script to automate exporting delicious bookmarks in XML format.
+
+## Swift 
+
+- [GenerativeMusic](https://github.com/devinroth/GenerativeMusic) - Procedurally generated musical compositions.
+
+## TeX 
+
+- [monty-and-py](https://github.com/carinawi/monty-and-py) - Monty and Py grow up to become hackers. A Python book for children
+
+## TypeScript 
+
+- [RunwayML-for-Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop) - RunwayML for Photoshop
+- [markmap-lib](https://github.com/gera2ld/markmap-lib) - Visualize your Markdown as mindmaps with Markmap.
+- [birds](https://github.com/spaciecat/birds) - 
+- [json-editor-app](https://github.com/fand/json-editor-app) - Dead simple JSON editor using josdejong/jsoneditor
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon pack for Ionic Framework and web apps everywhere
+- [beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
+- [aseprite-atlas](https://github.com/oddoid/aseprite-atlas) - Aseprite sprite atlas parser and animator for browser and Node.js.
+- [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+- [BahnhofsAbfahrten](https://github.com/marudor/BahnhofsAbfahrten) - https://marudor.de
+- [gridgenerator](https://github.com/HugoDaniel/gridgenerator) - The Grid Generator Web App
+- [FilterJS](https://github.com/CosmoMyzrailGorynych/FilterJS) - A node-based procedural texture generator, written in node.js and powered by WebGL
+- [magenta-js](https://github.com/magenta/magenta-js) - Magenta.js: Music and Art Generation with Machine Learning in the browser
+- [wickeyappstore](https://github.com/wickeyware/wickeyappstore) - The first AppStore for Progressive WebApps.
+- [colyseus](https://github.com/colyseus/colyseus) - âš” Multiplayer Game Server for Node.js
+- [inkjs](https://github.com/y-lohse/inkjs) - A javascript port of inkle's ink scripting language.
+- [mort](https://github.com/joereynolds/mort) - Dead CSS detection
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [vedajs](https://github.com/fand/vedajs) - Framework for Shader Arts
+- [ETHLottery-Client](https://github.com/re2005/ETHLottery-Client) - Client for the ETHLottery
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [superpowers-app](https://github.com/superpowers/superpowers-app) - :rocket: Superpowers desktop app
+- [plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
+- [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
+- [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
+- [avatar-generator](https://github.com/arusanov/avatar-generator) - 8bit avatar generator. Inspired by https://github.com/matveyco/8biticon
+- [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [invoicer](https://github.com/Keats/invoicer) - 
+- [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
+
+## Vim script 
+
+- [flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2.
+
+## Visual Basic 
+
+- [OVGen](https://github.com/Zeinok/OVGen) - [REDACTED] A software you can put WAV files and make oscilloscope view thing.
+
+## Vue 
+
+- [fbmdob](https://github.com/watzon/fbmdob) - Facebook image Metadata Obfuscation server
+- [MournEditor](https://github.com/skymen/MournEditor) - An editor that allows to generate files for valerypopoff's Code templater, to make C2 and C3 plugins
+- [uiGradients](https://github.com/ghosh/uiGradients) - ðŸ”´ Beautiful colour gradients for design and code
+- [farbenspiel](https://github.com/mariofink/farbenspiel) - A colour scheme playground built with Vue.js
+
+## WebAssembly 
+
+- [Babylon.Font](https://github.com/ycw/Babylon.Font) - 
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [teetteet](https://github.com/teetteet) has waived all copyright and related or neighboring rights to this work.
+
+(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of my GitHub stars!  Generated by [starred](https://github.com/maguowei/starred)
+
+
+
